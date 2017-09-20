@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Test Post"
+date:   2017-08-20 18:10:36 -0400
+categories: test
+thumbnail: images/1.png
+type: "Personal Project"
+intro: "This is a personal project I worked on."
+---
+
+# What's Up Party People
+Just testing out a thing.
