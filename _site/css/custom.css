@@ -1,9 +1,5 @@
 /* Changes the style of the overall form */
 #mc_embed_signup{
-    background: #f8f8f8;
-    color: #000000;
-    padding: 20px;
-    text-align: center;
     width: 96%
 }
 
@@ -40,4 +36,43 @@
 
 #mc_embed_signup form {
   text-align: center;
+}
+
+/* Responsive Classes */
+@media (max-width: 30em){
+
+  #mc_embed_signup .mc-field-group input {
+      width: 320px;
+    }
+
+  #mc_embed_signup  .button {
+    width: 320px;
+    }
+
+  .preview-container {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+
+  .column-container {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .orderA {
+    order: 2;
+  }
+
+  .orderB {
+    order: 1;
+  }
+
+  .orderC{
+    order: 4;
+  }
+
+  .orderD{
+    order: 3;
+  }
+
 }
