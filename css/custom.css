@@ -38,6 +38,14 @@
   text-align: center;
 }
 
+#mc_embed_signup div.response {
+width: 400px;
+float: none;
+margin: auto;
+font-weight: normal;
+margin-bottom: 15px;
+}
+
 /* Responsive Classes */
 @media (max-width: 30em){
 
@@ -48,6 +56,10 @@
   #mc_embed_signup  .button {
     width: 320px;
     }
+
+    #mc_embed_signup div.response {
+    width: 320px;
+  }
 
   .preview-container {
     display: flex;
