@@ -130,7 +130,7 @@ Hat tip to my friend Gopal, who told me about his experience staying in an Airbn
 </div>
 <div class="fl w-100 w-50-ns pl4-ns">
 <p class="f4 mb1 lh-title mt0-ns mt3" style="font-family: 'Gilroy-ExtraBold'"><a href="http://www.mna.inah.gob.mx/" target="_blank" class="link underline-hover orange">Museo Nacional de Antropología</a></p>
-<p>Kind of a “must” when visiting Mexico City. The Anthropology museum details the history of Mexico starting from evolution (with lots of shade thrown towards creation theory!) to the Mayans, Toltecs, Aztecs, and Spanish colonization. You’ll see lots of historic works of architecture, art, tools, and pottery. One of their temporary exhibits even features braille exhibit signage and braille versions of the cave paintings that are on display. Be prepared to spend at least two to three hours here.</p>
+<p>Kind of a “must” when visiting Mexico City. The Anthropology museum details the history of Mexico starting from evolution (with lots of shade thrown towards creation theory!) to the Mayans, Toltecs, Aztecs, and Spanish colonization. You’ll see lots of historic works of architecture, art, tools, and pottery. One of their temporary exhibits even features braille exhibit signage and braille versions of the cave paintings that are on display. Be prepared to spend at least two to three hours here. Admission is an affordable $3.70.</p>
  </div>
  </div>
 
@@ -151,4 +151,4 @@ Mexico City is pretty temperate year round, and the weather reminds me a lot of 
 
 Uber is the main ride-sharing service available in Mexico City, which many people recommend if you don’t feel comfortable haggling with taxi drivers. They’re also really affordable by American standards. A week’s worth of Uber rides cost us about $80 total.
 
-If you aren't able or interested in traveling to Mexico City, consider making a donation to <a href="https://hispanicfederation.org/donate/" target="_blank" class="link underline-hover orange">Hispanic Federation</a>, which is currently supporting both Mexico City and Puerto Rico. 100% of your donation goes towards aid. 
+If you aren't able or interested in traveling to Mexico City, consider making a donation to <a href="https://hispanicfederation.org/donate/" target="_blank" class="link underline-hover orange">Hispanic Federation</a>, which is currently supporting both Mexico City and Puerto Rico. 100% of your donation goes towards aid.
