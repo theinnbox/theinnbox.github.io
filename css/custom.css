@@ -90,7 +90,10 @@ margin-bottom: 15px;
 }
 
 a:visited {
-   color: #444; }
+   color: #FF6300; }
+
+.postlink a:visited {
+color: #FF6300; }
 
 .footerlogo {
   fill: #AAA;
