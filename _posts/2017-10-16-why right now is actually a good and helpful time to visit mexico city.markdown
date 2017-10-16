@@ -3,7 +3,7 @@ layout: post
 title:  "Why right now is actually a good and most helpful time to visit Mexico City"
 author: Sabrina Majeed
 date:   2017-10-16 00:10:36 -0400
-thumbnail: ../images/mexicocity/MexicoCity_Header.png
+image: ../images/mexicocity/MexicoCity_Header.png
 categories: travel guide
 ---
 
