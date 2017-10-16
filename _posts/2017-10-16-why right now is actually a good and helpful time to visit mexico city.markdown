@@ -150,3 +150,5 @@ Hat tip to my friend Gopal, who told me about his experience staying in an Airbn
 Mexico City is pretty temperate year round, and the weather reminds me a lot of San Francisco. In the morning it’s kind of dewy and a little foggy, mid-day there might be a lot of sunshine and warmth, and in the afternoon you might get a little rain shower. So, you know, carry a light (rain) jacket just in case.
 
 Uber is the main ride-sharing service available in Mexico City, which many people recommend if you don’t feel comfortable haggling with taxi drivers. They’re also really affordable by American standards. A week’s worth of Uber rides cost us about $80 total.
+
+If you aren't able or interested in traveling to Mexico City, consider making a donation to <a href="https://hispanicfederation.org/donate/" target="_blank" class="link underline-hover orange">Hispanic Federation</a>, which is currently supporting both Mexico City and Puerto Rico. 100% of your donation goes towards aid. 
