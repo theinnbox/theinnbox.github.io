@@ -2,7 +2,7 @@
 layout: post
 title:  "Where to Stay in Austin, Texas— Including the 9 Best Airbnbs"
 author: Sabrina Majeed
-date:   2017-10-16 00:10:36 -0400
+date:   2017-11-05 00:10:36 -0400
 image: ../images/mexicocity/MexicoCity_Header.png
 categories: travel guide
 ---
@@ -159,4 +159,4 @@ The Austin Motel has been around since 1938, when it earned itself the nickname 
 
 <div class="fl w-100 mt4 mb0">
 <p class="tc f2" style="font-family: 'Gilroy-ExtraBold'">Additional Notes</p></div>
-Whether you decide to stay in an Airbnb or at a hotel, we highly recommend renting a car in order to fully experience everything has to offer. If you plan on staying inside the city limits you could very well get by with ride-sharing apps, but if you’re interested in checking out some of the incredible nature outside of the city, rent a car! Read more about what to do in Austin here.
+Whether you decide to stay in an Airbnb or at a hotel, we highly recommend renting a car in order to fully experience everything has to offer. If you plan on staying inside the city limits you could very well get by with ride-sharing apps, but if you’re interested in checking out some of the incredible nature outside of the city, rent a car! <a href="http://theinnbox.co/what-to-do-austin-texas">Read more about what to do in Austin here</a>.
