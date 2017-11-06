@@ -9,7 +9,7 @@ categories: travel guide
 
 ![](../images/austin/stay_header.png)
 
-Austin is one of my favorite cities in America, and a place I hope to live one day. I’m lucky to have family there’s that shown me all the wonderful places (and the food! THE FOOD) beyond “Dirty Sixth”, a.k.a the strip of downtown bars that I’d often be relegated to when visiting during South by Southwest. Austin is definitely worth visiting outside of the festival season mayhem, especially so you have time to truly explore and take advantage of the incredible hill country nature.
+Austin is one of my favorite cities in America, and a place I hope to live one day. I’m lucky to have family there’s that shown me all the wonderful places (and the food! THE FOOD) beyond “Dirty Sixth”, a.k.a the strip of downtown bars that I’d often be relegated to when visiting during South by Southwest. Austin is definitely worth visiting outside of the festival season mayhem, especially so that you can have the time to truly explore and take advantage of the incredible hill country nature.
 
 Since I’ll be heading back there next February, I thought now was as good of a time as any to start thinking about where to stay on my next trip…
 

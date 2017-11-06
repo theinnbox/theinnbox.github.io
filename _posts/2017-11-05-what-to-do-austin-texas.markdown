@@ -39,7 +39,7 @@ Night clubs aren’t really my scene anymore but Barbarella’s is different, ok
 <div class="fl w-100 pr1-ns mb3">
 <img src="../images/austin/Hope.png">
 </div>
-A failed condo-development turned public art gallery. There are so many details to uncover and explore throughout the ground’s skeleton walls and levels. Climbing to the top will also give you a wonderful view of the downtown. Check out some free art and get a colorful new profile picture while you’re at it.
+A failed condo-development reborn as a public art gallery thanks to Shepard Fairey. There are so many details to uncover and explore throughout the ground’s skeleton walls and levels. Climbing to the top will also give you a wonderful view of the downtown. Check out some free art and get a colorful new profile picture while you’re at it.
 
 <p class="f3 pt3 lh-title" style="font-family: 'Gilroy-ExtraBold'">Rainey Street</p>
 <div class="fl w-100 pr1-ns mb3">
@@ -70,4 +70,4 @@ I could probably make a separate list just dedicated to places to eat in Austin,
 <div class="fl w-100 mt4 mb0">
 <p class="tc f2" style="font-family: 'Gilroy-ExtraBold'">Additional Notes</p></div>
 
-We highly recommend renting a car in order to fully experience everything has to offer. If you plan on staying inside the city limits you could very well get by with ride-sharing apps, but if you’re interested in checking out some of the incredible nature outside of the city, rent a car! <a href="http://theinnbox.co/best-airbnbs-austin-texas/">Read more about our recommendations on where to stay in Austin here</a>. 
+We highly recommend renting a car in order to fully experience everything has to offer. If you plan on staying inside the city limits you could very well get by with ride-sharing apps, but if you’re interested in checking out some of the incredible nature outside of the city, rent a car! <a href="http://theinnbox.co/best-airbnbs-austin-texas/">Read more about our recommendations on where to stay in Austin here</a>.
