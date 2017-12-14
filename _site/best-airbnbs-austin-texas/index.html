@@ -31,6 +31,23 @@
   <link rel="stylesheet" href="/css/animate.css"/>
   <link rel="stylesheet" href="/css/gilroy.css"/>
 
+  <script type="text/javascript" src="/js/instafeed.min.js"></script>
+
+
+  <script type="text/javascript">
+    var userFeed = new Instafeed({
+      get: 'user',
+      userId: '4335721201',
+      accessToken: '4335721201.f472bc1.adaf1c458d144ccb8b12875d555b7df9',
+      limit: 10,
+      resolution: 'standard_resolution',
+      template: '<a href="{{link}}" target="_blank" id="{{id}}"><img src="{{image}}" class="pa4"/></a>',
+    });
+    userFeed.run();
+  </script>
+
+
+
   
 
 </head>

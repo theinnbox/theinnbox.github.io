@@ -31,6 +31,23 @@
   <link rel="stylesheet" href="/css/animate.css"/>
   <link rel="stylesheet" href="/css/gilroy.css"/>
 
+  <script type="text/javascript" src="/js/instafeed.min.js"></script>
+
+
+  <script type="text/javascript">
+    var userFeed = new Instafeed({
+      get: 'user',
+      userId: '4335721201',
+      accessToken: '4335721201.f472bc1.adaf1c458d144ccb8b12875d555b7df9',
+      limit: 10,
+      resolution: 'standard_resolution',
+      template: '<a href="{{link}}" target="_blank" id="{{id}}"><img src="{{image}}" class="pa4"/></a>',
+    });
+    userFeed.run();
+  </script>
+
+
+
   
 
 </head>
@@ -173,15 +190,19 @@ Launching OCTOBER 16
 
 </div>
 
+
 <footer class="fl w-100 tc mv5">
 
-  <img src="/images/logo2.svg" width="40" height="40" class="mb4 mb3-ns footerlogo">
+
+  <div style="font-family: 'Inconsolata', monospace;" class="b f6-ns f6-s ph6-l ph5-m ph4 ttu tracked mb3">Follow us on Instagram <a href="https://www.instagram.com/theinnbox/">@TheInnbox</a></div>
+  <div class="animated fadeIn" id="instafeed"></div>
+
+  <img src="/images/logo2.svg" width="40" height="40" class="mb5 mt5 mb3-ns footerlogo">
   <div style="font-family: 'Inconsolata', monospace;" class="f7-ns f6-s ph6-l ph5-m ph4 ttu tracked mb3 light-silver">
   Safe Travels + See You Soon!
   </div>
-  <div style="font-family: 'Inconsolata', monospace;" class="f7-ns f6-s ph6-l ph5-m ph4 ttu tracked mb3 light-silver">
-Follow us on <a href="https://www.instagram.com/theinnbox/" class="link underline black hover-orange visited-black">Instagram</a>
-  </div>
+
+</footer>
 
 <!--
   <div class="wrapper">
@@ -228,8 +249,6 @@ Follow us on <a href="https://www.instagram.com/theinnbox/" class="link underlin
     </div>
 
   </div>-->
-
-</footer>
 
 
 
