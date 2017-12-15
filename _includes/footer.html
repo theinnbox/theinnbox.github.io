@@ -1,7 +1,6 @@
 
 <footer class="fl w-100 tc mv5">
 
-
   <div style="font-family: 'Inconsolata', monospace;" class="b f6-ns f6-s ph6-l ph5-m ph4 ttu tracked mb3">Follow us on Instagram <a href="https://www.instagram.com/theinnbox/">@TheInnbox</a></div>
   <div class="animated fadeIn" id="instafeed"></div>
 
@@ -9,6 +8,23 @@
   <div style="font-family: 'Inconsolata', monospace;" class="f7-ns f6-s ph6-l ph5-m ph4 ttu tracked mb3 light-silver">
   Safe Travels + See You Soon!
   </div>
+
+  <script type="text/javascript" src="/js/instafeed.min.js"></script>
+
+{% raw %}
+  <script type="text/javascript">
+    var userFeed = new Instafeed({
+      get: 'user',
+      userId: '4335721201',
+      accessToken: '4335721201.f472bc1.adaf1c458d144ccb8b12875d555b7df9',
+      limit: 10,
+      resolution: 'standard_resolution',
+      template: '<a href="{{link}}" target="_blank" id="{{id}}"><img src="{{image}}" class="pv4 ph4-ns ph0"/></a>',
+    });
+    userFeed.run();
+  </script>
+
+{% endraw %}
 
 </footer>
 
