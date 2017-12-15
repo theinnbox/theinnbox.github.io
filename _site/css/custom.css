@@ -89,6 +89,12 @@ margin-bottom: 15px;
 
 }
 
+#instafeed img {
+
+height: 250px;
+
+}
+
 a:visited {
    color: #FF6300; }
 
@@ -97,10 +103,4 @@ color: #FF6300; }
 
 .footerlogo {
   fill: #AAA;
-}
-
-#instafeed img {
-
-height: 250px;
-
 }
