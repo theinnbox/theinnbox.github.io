@@ -32,7 +32,7 @@ A cursory search into where to stay in Bariloche will introduce you to Llao Llao
 
 <p class="f6 i light-silver">We would not recommend 41 Below for guests with wheelchairs.</p>
 
-<p class="f3 pt3 lh-title" style="font-family: 'Gilroy-ExtraBold'">For digital nomads — <a href="https://www.airbnb.com/rooms/12279136?location=Bariloche%2C%20San%20Carlos%20de%20Bariloche%2C%20R%C3%ADo%20Negro%2C%20Argentina&s=BMB5OMrp" target="_blank" class="link underline-hover orange">Patagonian Style Cabin</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $42/Night</span></p>
+<p id="anchor1" class="f3 pt3 lh-title" style="font-family: 'Gilroy-ExtraBold'">For digital nomads — <a href="https://www.airbnb.com/rooms/12279136?location=Bariloche%2C%20San%20Carlos%20de%20Bariloche%2C%20R%C3%ADo%20Negro%2C%20Argentina&s=BMB5OMrp" target="_blank" class="link underline-hover orange">Patagonian Style Cabin</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $42/Night</span></p>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
 <img src="../images/bariloche/cabin_1.png">
 </div>
@@ -114,7 +114,7 @@ Every room at Lirolay is comes with a jacuzzi and a suite designation— there's
 </div>
 If you only have a day in Bariloche, this is probably the first thing I'd recommend doing. A steep hour's hike to the top of Cerro Campanario gives you a breathtaking panoramic view of the entire surrounding region. I still think back on this trip and this specific hike as one of the most stunning glimpses of nature I've witnessed. At the top you can also ride the chairlift back down to the base of the mountain. Technically you can ride it up too, but where's the fun in that? Getting to Cerro Companario is also easy and very affordable by bus and the hike itself is straightforward— so skip the $$$ on a private tour.
 
-<div class="fl w-100 mb4 mt3">
+<div id="anchor2" class="fl w-100 mb4 mt3">
 <div class="fl w-100 w-50-ns">
 <img src="../images/bariloche/lamarmite.png">
 </div>
