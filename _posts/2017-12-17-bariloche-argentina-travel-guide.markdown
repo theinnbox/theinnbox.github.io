@@ -16,7 +16,7 @@ Bariloche is full of dualities— considered the gateway to Argentinian Patagoni
 
 
 <p class="tc f2 mt5 mb0" style="font-family: 'Gilroy-ExtraBold'">Where to Stay</p>
-<p class="tc f6 light-silver i mb4">Rates are based on a one-night search for February 2018.</p>
+<p class="tc f6 light-silver i mb4">Rates are based on a one-night search for February 2018. Remember: Bariloche is south of the equator and experiences opposite seasons to the U.S.!</p>
 
 A cursory search into where to stay in Bariloche will introduce you to Llao Llao, the big game in town and surprisingly the only one that's really talked about. I won't begrudge anyone their preference for luxury but personally I've never been a big resort person— for both the price point and how isolated they can feel from the very place you've come to experience. So you won't find many recommendations for resorts here, and I bring it up in regards to Bariloche because I think it's a shame. There are so many interesting places to stay that capture the spirit of the region. Let's give them some recognition, shall we?
 
