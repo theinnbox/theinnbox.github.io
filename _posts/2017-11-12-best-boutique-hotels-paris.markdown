@@ -3,7 +3,7 @@ layout: post
 title:  "The 7 best boutique hotels in Paris under $300"
 author: Sabrina Majeed
 date:   2017-11-12 00:10:36 -0400
-image: ../images/paris/paris_header.png
+thumbnail: ../images/paris/paris_header.png
 categories: travel guide
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title:  "10 places to feed your stomache and your soul in Bed-Stuy, Brooklyn"
 author: Sabrina Majeed
 date:   2017-11-20 00:10:36 -0400
-image: ../images/austin/Austin_Header.png
+thumbnail: ../images/bedstuy/bedstuy_food_header.png
 categories: travel guide
 ---
 

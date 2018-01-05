@@ -3,7 +3,7 @@ layout: post
 title:  "Where to Stay in Austin, Texas— Including the 9 Best Airbnbs"
 author: Sabrina Majeed
 date:   2017-11-05 00:10:36 -0400
-image: ../images/mexicocity/MexicoCity_Header.png
+thumbnail: ../images/austin/stay_header.png
 categories: travel guide
 ---
 

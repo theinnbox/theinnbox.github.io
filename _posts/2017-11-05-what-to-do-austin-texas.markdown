@@ -3,7 +3,7 @@ layout: post
 title:  "The top 9 things to do for first-timers in Austin, Texas"
 author: Sabrina Majeed
 date:   2017-11-05 00:10:36 -0400
-image: ../images/austin/Austin_Header.png
+thumbnail: ../images/austin/Austin_Header.png
 categories: travel guide
 ---
 
@@ -26,7 +26,7 @@ If you don’t have a car or don’t want to make the trek to Hamilton Pool, Aus
 <div class="fl w-100 pr1-ns mb3">
 <img src="../images/austin/Barbecue.png">
 </div>
-You may be familiar with the fact that each southern state has its own twist on barbecue, or a style that makes it unique. For Texas, it’s the fact that we prefer beef or pork: brisket, to be exact. While <a href="https://franklinbbq.com/">Franklin’s</a> is undeniably the most famous game in town, you could be waiting in line up to three hours to get some of the low and slow goodness. We recommend checking out <a href="https://www.labarbecue.com/">La Barbecue</a> instead: the joint was started by the daughter of a Texas barbecue legacy. If you get there before opening hours you’ll likely only (only!) have to wait one hour instead of three.
+You may be familiar with the fact that each southern state has its own twist on barbecue, or a style that makes it unique. For Texas, it’s the fact that we prefer beef over pork: brisket, to be exact. While <a href="https://franklinbbq.com/">Franklin’s</a> is undeniably the most famous game in town, you could be waiting in line up to three hours to get some of the low and slow goodness. We recommend checking out <a href="https://www.labarbecue.com/">La Barbecue</a> instead: the joint was started by the daughter of a Texas barbecue legacy. If you get there before opening hours you’ll likely only (only!) have to wait one hour instead of three.
 
 <p class="f3 pt3 lh-title" style="font-family: 'Gilroy-ExtraBold'"><a href="https://foursquare.com/v/barbarella/4b52a8e5f964a5204c8527e3" class="link underline-hover orange" target="_blank">Barbarella</a></p>
 <div class="fl w-100 pr1-ns mb3">

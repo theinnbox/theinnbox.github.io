@@ -104,3 +104,11 @@ color: #FF6300; }
 .footerlogo {
   fill: #AAA;
 }
+
+.feed a {
+  color: black;
+}
+
+.feed a:visited {
+  color: black;
+}

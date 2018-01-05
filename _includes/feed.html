@@ -1,0 +1,22 @@
+<div class="feed">
+
+    {{ content }}
+
+    <ul class="post-list">
+      {% for post in site.posts %}
+        <li class="fl w-third ph3">
+          <a href="{{ post.url | relative_url }}"><div class="relative" style="height: 450px; background-color:#ECEAE7;">
+            <div class="bg-center cover" style="background-image: url('{{ post.thumbnail }}'); padding-bottom:100%; width:100%;">
+            </div>
+            <div class="absolute bottom-2 bg-white pv3 ph4 mh4 shadow-2">
+              <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
+                <a class="f5 lh-title post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+              </h2>
+            </div>
+          </div>
+        </a>
+        </li>
+      {% endfor %}
+    </ul>
+
+</div>
