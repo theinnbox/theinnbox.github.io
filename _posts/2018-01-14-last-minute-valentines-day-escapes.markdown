@@ -18,7 +18,7 @@ So I've put together some low-key ideas on how to celebrate, regardless of your 
 <p class="f6 light-silver i mb0">As of writing all of the hotels recommended still have availability for the night of February 14th.</p>
 
 
-<p class="tc f2 mt5 mb4" style="font-family: 'Gilroy-ExtraBold'">Western Getaways</p>
+<p class="tc f2 mt5 mb4" id="west" style="font-family: 'Gilroy-ExtraBold'">Western Getaways</p>
 
 <p class="f3 pt3 lh-title" style="font-family: 'Gilroy-ExtraBold'">For solo travelers — <a href="https://www.airbnb.com/rooms/12956782?location=Salt%20Lake%20City%2C%20UT%2C%20United%20States&check_in=2018-02-14&check_out=2018-02-15&s=FEmOwSn4" target="_blank" class="link underline-hover orange">"City Den" in Salt Lake City</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $81/Night</span></p>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
@@ -53,7 +53,7 @@ Just a 45 minute drive up from Pacific Coast Highway from L.A. lies the newly re
 
 <p class="f6 i light-silver">The Native Hotel does not specifically state whether or not they have accessible facilities.</p>
 
-<p class="tc f2 mt5 mb4" style="font-family: 'Gilroy-ExtraBold'">Southern Getaways</p>
+<p class="tc f2 mt5 mb4" id="south" style="font-family: 'Gilroy-ExtraBold'">Southern Getaways</p>
 
 <p class="f3 pt3 lh-title" style="font-family: 'Gilroy-ExtraBold'">For solo travelers — <a href="http://www.booking.com/hotel/us/sobro-guest-house.html?aid=1452227&checkin_monthday=14&checkin_month=2&checkin_year=2018&checkout_monthday=15&checkout_month=2&checkout_year=2018&no_rooms=1&group_adults=1" target="_blank" class="link underline-hover orange">SoBro Guesthouse in Nashville</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $160/Night</span></p>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
@@ -88,7 +88,7 @@ When I was a little girl growing up in Texas, the San Antonio riverwalk seemed l
 
 <p class="f6 i light-silver">The Hotel Havana offers facilities for disabled guests.</p>
 
-<p class="tc f2 mt5 mb4" style="font-family: 'Gilroy-ExtraBold'">Midwestern Getaways</p>
+<p class="tc f2 mt5 mb4" id="midwest" style="font-family: 'Gilroy-ExtraBold'">Midwestern Getaways</p>
 
 <p class="f3 pt3 lh-title" style="font-family: 'Gilroy-ExtraBold'">For solo travelers — <a href="http://www.booking.com/hotel/us/hotel-arapahoe-ave-boulder.html?aid=1452227&checkin_monthday=14&checkin_month=2&checkin_year=2018&checkout_monthday=15&checkout_month=2&checkout_year=2018&no_rooms=1&group_adults=1" target="_blank" class="link underline-hover orange">Basecamp Boulder in Boulder, Colorado</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $167/Night</span></p>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
@@ -123,7 +123,7 @@ If you're going to go Minneapolis in the winter, you probably want to go with so
 
 <p class="f6 i light-silver">Basecamp Boulder has in-room accessibility and accessible bathrooms.</p>
 
-<p class="tc f2 mt5 mb4" style="font-family: 'Gilroy-ExtraBold'">Eastern Getaways</p>
+<p class="tc f2 mt5 mb4" id="east" style="font-family: 'Gilroy-ExtraBold'">Eastern Getaways</p>
 
 <p class="f3 pt3 lh-title" style="font-family: 'Gilroy-ExtraBold'">For solo travelers — <a href="https://www.airbnb.com/rooms/5539197?location=Philadelphia%2C%20PA%2C%20United%20States&adults=1&children=0&infants=0&check_in=2018-02-14&check_out=2018-02-15&s=4ZJxRSUx" target="_blank" class="link underline-hover orange">Rittenhouse Apartment in Philadelphia</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $86/Night</span></p>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
