@@ -22,10 +22,10 @@ So I've put together some low-key ideas on how to celebrate, regardless of your 
 
 <p class="f3 pt3 lh-title" style="font-family: 'Gilroy-ExtraBold'">For solo travelers — <a href="https://www.airbnb.com/rooms/12956782?location=Salt%20Lake%20City%2C%20UT%2C%20United%20States&check_in=2018-02-14&check_out=2018-02-15&s=FEmOwSn4" target="_blank" class="link underline-hover orange">"City Den" in Salt Lake City</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $81/Night</span></p>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/valentines/SLC_1.png">
+<img src="../images/valentines/slc_1.png">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3">
-<img src="../images/valentines/SLC_2.png">
+<img src="../images/valentines/slc_2.png">
 </div>
 This minimal yet warm Airbnb in Salt Lake City is perfectly located and walking distance to downtown and many of the city's major attractions. Stroll around Temple Square, load up on cheap and delicious diner food at Ruth's, and of course visit the namesake lake. The weather during Valentine's week is projected to be in the high 40s/low 50s and JetBlue offers flights from Long Beach to SLC starting at $53 each way and $78 from SFO.
 
