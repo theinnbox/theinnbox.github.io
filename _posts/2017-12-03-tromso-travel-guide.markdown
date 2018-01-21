@@ -7,7 +7,7 @@ thumbnail: ../images/tromso/tromso_header.png
 categories: travel guide
 ---
 
-<a href="https://www.flickr.com/photos/baschtelt/10782896243/" target="_blank"><img src="/images/tromso/tromso_header.png"></a>
+<img src="/images/tromso/tromso_header.png">
 
 While I've heard that Tromsø is beautiful in the summer, it mainly draws visitors in the colder months because it is one of the best places in the world to view the Aurora Borealis, or northern lights. That's certainly what brought me to this arctic destination— so I didn't expect to fall in love with the city for a whole bunch of other reasons. Of all the cities I visited in Norway, Tromsø was my favorite. The locals were so incredibly friendly, the food was amazing, and it had such a laid-back, cozy atmosphere. If I could describe it in a few words I might call it a metropolitan fishing village.
 

@@ -7,7 +7,7 @@ thumbnail: ../images/bariloche/bariloche_header.png
 categories: travel guide
 ---
 
-<a href="https://www.flickr.com/photos/baschtelt/10782896243/" target="_blank"><img src="/images/bariloche/bariloche_header.png"></a>
+<img src="/images/bariloche/bariloche_header.png">
 
 
 Bariloche is full of dualities— considered the gateway to Argentinian Patagonia, this magical land of lakes is equally enchanting in either summer or winter weather. It's famous vistas include both the high altitudes of the surrounding Andes and the low lakes in-between them. Much like Buenos Aires, Bariloche also has a distinctly European influence— except instead of Parisian architecture you'll find Swiss style chalets alongside many fondue and chocolate shops. In fact, Bariloche is considered the chocolate capital of the country. If your idea of the perfect vacation involves both breathtaking views and eating copious amounts of high quality food, then Bariloche is the perfect place for you.

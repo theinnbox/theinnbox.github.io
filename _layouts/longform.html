@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+{% include post-header.html %}
+
+<div class="mh1" style="max-width: 800px; margin: auto;">
+
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header" style="max-width: 650px; margin: auto;">
+    <h1 class="post-title lh-title f1-ns f2 mb3" itemprop="name headline" style="font-family: 'Gilroy-ExtraBold'">{{ page.title | escape }}</h1>
+      <blockquote>
+        {{ page.intro }}
+      </blockquote>
+
+  </header>
+
+  <div class="post-content" itemprop="articleBody" style="font-family: 'Inconsolata', monospace;">
+    {{ content }}
+  </div>
+
+  {% if site.disqus.shortname %}
+    {% include disqus_comments.html %}
+  {% endif %}
+</article>
+
+</div>
+
+{% include signupform.html %}
+{% include footer.html %}

@@ -7,7 +7,7 @@ thumbnail: ../images/valentines/valentines_header.png
 categories: travel guide
 ---
 
-<a href="https://www.flickr.com/photos/baschtelt/10782896243/" target="_blank"><img src="/images/valentines/valentines_header.png"></a>
+<img src="/images/valentines/valentines_header.png">
 
 Yes, I know— Valentine's Day is a manufactured event intended to sell Hallmark cards and chocolate with no real bearing on the health of our relationships. But the fact it falls pretty squarely in the midst of our winter hibernation always makes me excited for an excuse to do *something*, literally *anything* out of the ordinary, whether that's dressing up for a fancy dinner or packing my bags for a weekend escape.
 
