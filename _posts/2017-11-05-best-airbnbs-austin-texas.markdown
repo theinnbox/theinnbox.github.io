@@ -52,7 +52,7 @@ Most airstream trailers I’ve seen on Airbnb tend to lean fully into a 60s or 7
 <p class="f6 i light-silver">This airbnb is not wheelchair accessible.</p>
 <p class="f6"><b>A Caveat:</b> Remember how I said “it <i>is</i> possible to go wrong with an Airbnb in Austin”? The Last time I was in Austin I stayed in an airstream trailer (not the one listed above). It was beautiful, had friendly hosts, great reviews, but… while there we had a few days of heavy rain and what tends to happen with those is that bugs (like roaches) want to come indoors, and it’s easier to get inside an airstream trailer compared to a house. I mean, it’s just the way mother nature works and you can’t really get mad at anyone (the hosts or the bugs) for it. But it is something to keep in mind. Check the weather before booking, and if you’re not squeamish around bugs this may not be a big deal at all! Personally, I think I can check off staying in an airstream trailer off my list for awhile.</p>
 
-<p class="tc f3 pt4 lh-title" style="font-family: 'Gilroy-ExtraBold'">For solo travellers</p>
+<p class="tc f3 pt4 lh-title" style="font-family: 'Gilroy-ExtraBold'">For solo travelers</p>
 <p class="f4 pt3 lh-title" style="font-family: 'Gilroy-ExtraBold'"><a href="https://www.airbnb.com/rooms/15706510?location=Austin%2C%20TX%2C%20United%20States&s=HUyE1DZH" target="_blank" class="link underline-hover orange">"Cozy Studio in Private Garden"</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $97/Night</span></p>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
 <img src="../images/austin/Studio1.png">
