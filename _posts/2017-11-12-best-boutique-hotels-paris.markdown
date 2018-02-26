@@ -73,7 +73,7 @@ Meaning “the white rabbit”, Le Lapin Blanc is an ode to Alice in Wonderland 
 A hotel that’s a little more Hermès than Chanel. Housed in a former textile factory, Hotel Fabric pays tribute to its history through its playful and colorful combinations of patterns and textures, such as the fanciful tile work in the bathrooms. While it’s located in a less touristy area it’s still within walking distance to many of Paris’ major attractions but the real value is in its proximity to the fashionable nightlife and restaurant scene in Oberkampf.
 <p class="f6 i light-silver">Hotel Fabric has an elevator and wheelchair accessible facilities.</p>
 
-<p class="f3 pt3 lh-title" style="font-family: 'Gilroy-ExtraBold'">For the honeymoond period — <a href="http://www.hoteldejobo.paris/" target="_blank" class="link underline-hover orange">Hotel de JOBO</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $272/Night</span></p>
+<p class="f3 pt3 lh-title" style="font-family: 'Gilroy-ExtraBold'">For the honeymoon period — <a href="http://www.hoteldejobo.paris/" target="_blank" class="link underline-hover orange">Hotel de JOBO</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $272/Night</span></p>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
 <img src="../images/paris/jobo1.png">
 </div>

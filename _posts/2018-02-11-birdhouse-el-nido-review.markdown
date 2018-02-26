@@ -22,7 +22,7 @@ categories: review
 I actually discovered The Birdhouse through the fortuitous magic of SEO. I was in the early stages of planning our trip to El Nido, not yet looking into lodging but doing research on how long our trip should be. I stumbled onto <a href="http://www.thebirdhouseelnido.com/how-many-days-should-i-stay-in-el-nido/" target="new">a blog entry with sample itineraries</a> and out of curiosity clicked on the domain, only to find the exact type of unique, well-designed lodging that The InnBox is all about!</p>
 
 <p class="pb4-ns pb3" style="max-width: 650px; margin: auto;">
-Fast-forward to our trip. We spent first half of our time in El Nido at The Amakan (review forthcoming). I would've preferred to spend the entire time at The Birdhouse but this place fills up <i>fast</i> and I literally planned our entire Philippines trip around the two nights of availability they had in January. The Birdhouse staff were incredibly communicative in coordinating our arrival— because, yes, it involves some logistics. Let's get into that!</P>
+Fast-forward to our trip. We spent first half of our time in El Nido at <a href="http://www.booking.com/hotel/ph/amakan.html?aid=1452227&no_rooms=1&group_adults=1" target="new">The Amakan</a> (review forthcoming). I would've preferred to spend the entire time at The Birdhouse but this place fills up <i>fast</i> and I literally planned our entire Philippines trip around the two nights of availability they had in January. The Birdhouse staff were incredibly communicative in coordinating our arrival— because, yes, it involves some logistics. Let's get into that!</P>
 
 <p class="f3 pb2" style="max-width: 650px; margin: auto; font-family: 'Gilroy-ExtraBold';">Checking In</p>
 
