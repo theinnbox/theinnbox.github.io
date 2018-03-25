@@ -2,7 +2,7 @@
 layout: longform
 title:  "Your travel guide to Hội An, Vietnam: where to stay and what to do."
 author: Sabrina Majeed
-date:   2018-02-25 00:10:36 -0400
+date:   2018-03-18 00:10:36 -0400
 thumbnail: ../images/hoian/splash.png
 categories: travel guide
 ---

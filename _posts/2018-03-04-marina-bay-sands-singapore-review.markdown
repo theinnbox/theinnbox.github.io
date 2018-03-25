@@ -19,7 +19,7 @@ categories: review
 It was 2017's most instagrammed hotel in the world and has dozens of other accolades thanks to its iconic rooftop pool, which is the largest elevated swimming pool in the world. The <a href="http://www.booking.com/hotel/sg/marina-bay-sands.html?aid=1452227" target="new">Marina Bay Sands</a> is an architectural marvel at the top of many traveler's bucket list. </p>
 
 <p class="pb3" style="max-width: 650px; margin: auto;">
-While the Marina Bay Sands is a departure from the hotels we usually stay at and feature on The Innbox, both in budget and in size, I thought it be worth a one night stay... you know, for "research purposes". I was curious was to how a hotel like this compared to the smaller, boutique gems I usually gravitate towards. And I admit, I really wanted to check out that pool, which is restricted for hotel guests only.</p>
+While the Marina Bay Sands is a departure from the hotels we usually stay at and feature on The Innbox, both in budget and in size, I thought it be worth a one night stay... you know, for "research purposes". I was curious as to how a hotel like this compared to the smaller, boutique gems I usually gravitate towards. And I admit, I really wanted to check out that pool, which is restricted for hotel guests only.</p>
 
 <p class="pb4-ns pb3" style="max-width: 650px; margin: auto;">
 We'd be experiencing the dualities of the city-state: staying in one of the most expensive hotels while eating all of our meals in the affordable hawker centers Singapore has to offer. (Should we do a hawker center guide in the future? Let us know!) Read on to find out if it was worth it...</P>
