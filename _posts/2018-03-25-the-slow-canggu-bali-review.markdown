@@ -2,7 +2,7 @@
 layout: longform
 title:  "Hotel Review: The Slow in Canggu, Bali"
 author: Sabrina Majeed
-date:   2018-03-04 00:10:36 -0400
+date:   2018-03-25 00:10:36 -0400
 thumbnail: ../images/slow/01.png
 categories: review
 ---
@@ -16,7 +16,7 @@ categories: review
 <img class="mt4-ns mt3 mb4-ns mb3" src="/images/slow/01.png">
 
 <p class="pb4 f4" style="max-width: 650px; margin: auto;">
-Just five minutes from the beach in the little surfer town of Canggu is The Slow —  an art gallery as much as it is a boutique hotel and the brainchild of Australian fashion designer George Gorrow (of Ksubi) and his wife Cisco Tschurtschenthaler.</p>
+Just five minutes from the beach in the little surfer town of Canggu is <a href="https://www.agoda.com/partners/partnersearch.aspx?cid=1801609&pcs=1&hid=1515695" target="new">The Slow</a> —  an art gallery as much as it is a boutique hotel and the brainchild of Australian fashion designer George Gorrow (of Ksubi) and his wife Cisco Tschurtschenthaler.</p>
 
 <p class="pb3 pb4-ns" style="max-width: 650px; margin: auto;">
 The hotel, described by its owners as an exercise in "tropical brutalism", was designed in collaboration with local architect Rieky Sunur of <a href="http://gfabarchitects.com/" target="new">GFAB architects.</a> Every detail at The Slow has been designed with intentionality, to coax bustling tourists into relaxation, and encourage guests to take full advantage of the beautiful space.</p>
