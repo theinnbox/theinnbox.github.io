@@ -3,12 +3,12 @@ layout: longform
 title:  "Here's what $200 on Airbnb can get you in New York City"
 author: Sabrina Majeed
 date:   2018-04-01 00:10:36 -0400
-thumbnail: ../images/nycair/splash.png
+thumbnail: ../images/nycair/Splash.png
 categories: list
 ---
 
 <p class="pb3" style="max-width: 650px; margin: auto;">
-<img class="mt3-ns mt3 mb4-ns mb3" src="../images/nycair/splash.png">
+<img class="mt3-ns mt3 mb4-ns mb3" src="../images/nycair/Splash.png">
 I'm currently in the midst of planning a trip back to New York City so we can visit friends and renew our long-term Thai visas. After staying in so many stunning yet affordable places across various parts of Southeast Asia so far, needless to say the reality of the New York lodging market had me <i>shook</i>.</p>
 
 <p class="pb4-ns pb3" style="max-width: 650px; margin: auto;">
