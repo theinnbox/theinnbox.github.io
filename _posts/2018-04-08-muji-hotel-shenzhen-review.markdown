@@ -3,7 +3,7 @@ layout: longform
 title:  "Hotel Review: The first ever MUJI Hotel in Shenzhen, Guangdong, China"
 author: Mintlodica
 date:   2018-04-08 00:10:36 -0400
-thumbnail: ../images/muji/00_cover.jpg
+thumbnail: ../images/muji/00_Cover.jpg
 categories: review
 public: 1
 ---
@@ -14,7 +14,7 @@ public: 1
 <span class="dib"><p class="f7 di"><b>Who Stayed:</b> <a href="https://www.instagram.com/mintlodica/" target="blank">Mintlodica</a></p></span>
 </div>
 
-<img class="mt4-ns mt3 mb4-ns mb3" src="/images/muji/00_cover.jpg">
+<img class="mt4-ns mt3 mb4-ns mb3" src="/images/muji/00_Cover.jpg">
 
 <p class="pb3 pb4-ns f4" style="max-width: 650px; margin: auto;">
 The <a href="https://hotel.muji.com/shenzhen/en/" target="blank">MUJI Hotel</a> provides a ‘just enough’ stay in Shenzhen, the most cyberpunk city of China. MUJI’s minimalism is a true contrast to the city’s modern copy and paste development.</p>
@@ -207,10 +207,10 @@ I will say though the Japanese Toto Washlet was nice. The toilet had its own doo
 The hotel is located in Futian District. Outside of the mall, the area is mostly residential and commercial buildings. You would need to take the metro or a cab to for Shenzhen activities. For example, the famous Huaqiangbei electronics street is 2.5 miles away.</p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb2-ns">
-<img src="../images/muji/07_design_A_a.jpg">
+<img src="../images/muji/07_Design_A_a.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/muji/07_design_A_b.jpg">
+<img src="../images/muji/07_Design_A_b.jpg">
 </div>
 
 <p class="pb3 pb4-ns" style="max-width: 650px; margin: auto;">If you are reading this post, I suspect you may be interested in seeing the new Design Society building! It is 4.7 miles away.</p>
