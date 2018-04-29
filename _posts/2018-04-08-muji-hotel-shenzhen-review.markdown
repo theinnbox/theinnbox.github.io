@@ -86,7 +86,7 @@ Feast your eyes upon the most MUJI Hotel amenities shelf! Inside the cabinet und
 By the window is an armchair, small coffee table, and ottoman. This was my favorite part of the room. I was still jet lagged during my stay, so I woke up early to make a MUJI drip coffee and drank it in the morning light. I usually find hotel armchairs unappealing, but the MUJI armchair and ottoman felt soft yet supportive. Like so, I have now added their modular sofas to my furniture wishlist.</p>
 
 <p class="pb3" style="max-width: 650px; margin: auto;">
-The only piece of art in the room is the minimal wood art above the armchair. Instead of hanging large art pieces, the hotel chooses to prominently feature the materials making up the walls of the room themselves. The materials for the rooms were sourced from traditional Chinese homes. These is finished wood, a mat texture, and grey concrete.</p>
+The only piece of art in the room is the minimal wood art above the armchair. Instead of hanging large art pieces, the hotel chooses to prominently feature the materials making up the walls of the room themselves. The materials for the rooms were sourced from traditional Chinese homes. There is finished wood, a mat texture, and grey concrete.</p>
 
 <p class="pb3 pb4-ns" style="max-width: 650px; margin: auto;">
 It would’ve been nice if there was a view beyond the room, but alas you are in a mall in a newly developed area, so there is only the concrete rooftop or the street to see.</p>
@@ -112,7 +112,7 @@ Finally, there is the iconic Naota Fukasawa CD player with BGM loaded up. My roo
 </div>
 
 <p class="pb4-ns pb3" style="max-width: 650px; margin: auto;">
-Visiting the hotel is a great way to 'try before you buy' any MUJI products you are curious about. In the hotel guidebook, these is a list of items to you borrow from the front desk including their aroma humidifier. Another list tells you can take as keepsakes from your time at the hotel. These items are: the 2 house slippers, 2 toothbrushes, the bathroom vanity kit, black gel pen, coffees, and the waters.</p>
+Visiting the hotel is a great way to 'try before you buy' any MUJI products you are curious about. In the hotel guidebook, there is a list of items to you borrow from the front desk including their aroma humidifier. Another list tells you can take as keepsakes from your time at the hotel. These items are: the 2 house slippers, 2 toothbrushes, the bathroom vanity kit, black gel pen, coffees, and the waters.</p>
 
 
 <p class="f3 pb2" style="max-width: 650px; margin: auto; font-family: 'Gilroy-ExtraBold';"> Bathrooms</p>
@@ -218,7 +218,7 @@ The hotel is located in Futian District. Outside of the mall, the area is mostly
 <p class="f3 pb2" style="max-width: 650px; margin: auto; font-family: 'Gilroy-ExtraBold';">Accessibility</p>
 
 <p class="pb4" style="max-width: 650px; margin: auto;">
-The MUJI hotel in Shenzhen is accessible. A driver should be able to drop off guests at the front door and there is an elevator which guests can use to access all floors.</p>
+The MUJI hotel in Shenzhen is accessible. A driver should be able to drop off guests at the front door and there is an elevator which guests can use to access all floors. Show your driver the <a href="https://www.muji.com.cn/cn/store/feature/mujihotel/shenzhen/#access" target="new">address on the website</a> to make sure they can find the hotel.</p>
 
 
 <p class="f3 pb2" style="max-width: 650px; margin: auto; font-family: 'Gilroy-ExtraBold';">TL;DR</p>
