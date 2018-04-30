@@ -2,10 +2,9 @@
 layout: longform
 title:  "Hotel Review: The first ever MUJI Hotel in Shenzhen, Guangdong, China"
 author: Mintlodica
-date:   2018-04-08 00:10:36 -0400
+date:   2018-04-30 00:10:36 -0400
 thumbnail: ../images/muji/00_Cover.jpg
 categories: review
-public: 1
 ---
 
 <div style="max-width: 650px; margin: auto;">
