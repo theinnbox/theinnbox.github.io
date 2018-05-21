@@ -5,7 +5,7 @@ author: Mintlodica
 date:   2018-04-30 00:10:36 -0400
 thumbnail: ../images/hotel1/04.png
 categories: review
-public: 1
+
 ---
 
 <div style="max-width: 650px; margin: auto;">
