@@ -1,7 +1,7 @@
 ---
 layout: longform
 title:  "Hotel Review: SALA Phuket Resort & Spa in Phuket, Thailand"
-author: Mintlodica
+author: Sabrina Majeed
 date:   2018-04-30 00:10:36 -0400
 thumbnail: ../images/sala/01.png
 categories: review
