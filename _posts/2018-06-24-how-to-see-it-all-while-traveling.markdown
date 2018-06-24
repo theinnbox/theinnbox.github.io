@@ -31,7 +31,7 @@ This stress is especially maximized if your trip is time-boxed due to your work 
 </div>
 <p class="tc mid-gray mb3 mb4-ns i f7">Hanging with the crowds at Pai Canyon. Still 100% worth coming here to view the sunset.</p>
 
-<p class="pb3" style="max-width: 650px; margin: auto;">
+<p id="anchor" class="pb3" style="max-width: 650px; margin: auto;">
 My rubric for sussing out what's worth it usually comes down to: <b>is this a place I can experience beyond just looking at it?</b></p>
 
 <p class="pb3" style="max-width: 650px; margin: auto;">
