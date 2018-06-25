@@ -5,7 +5,6 @@ author: Sabrina Majeed
 date:   2018-06-23 00:10:36 -0400
 thumbnail: ../images/seeitall/00.png
 categories: review
-public: 1
 ---
 
 <p class="pb3 f6" style="max-width: 650px; margin: auto;"> By
