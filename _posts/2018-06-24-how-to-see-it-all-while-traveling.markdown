@@ -24,7 +24,7 @@ This stress is especially maximized if your trip is time-boxed due to your work 
 <p class="f3 pb2" style="max-width: 650px; margin: auto; font-family: 'Gilroy-ExtraBold';">1. Identify legitimate "FOMO" from forced "FOMO".</p>
 
 <p class="pb4-ns pb3" style="max-width: 650px; margin: auto;">
-90% of travel writers are going to tell you to skip any popular tourist attractions on the basis of it being too crowded, or "ruined". I actually have an issue with this hipster approach to travel. Some places are popular <i>for a reason</i> and you shouldn't deprive yourself of an experience just because other people want to experience it too. Approaching popular attractions with the positive mindset that I'm going to experience this place with other humans from all around the world usually makes me a little more zen about dealing with crowds. Now, while crowds don't bother me as much: lines and exorbitant entrance fees do.</p>
+90% of travel writers are going to tell you to skip any popular tourist attractions on the basis of it being too crowded, or "ruined". I actually have an issue with this hipster approach to travel. Some places are popular <i>for a reason</i> and you shouldn't deprive yourself of an experience just because other people want to experience it too. Approaching popular attractions with the positive mindset that I'm going to experience this place with other humans from all around the world usually makes me a little more zen about dealing with crowds. Now, while crowds don't bother me as much, lines and exorbitant entrance fees do. I still need a way to suss out what's worth the time and the cost.</p>
 
 <div class="fl pb2 w-100">
 <img src="../images/seeitall/01.png">
@@ -106,10 +106,10 @@ Thailand is a great example. It's a really popular itinerary to hop from Bangkok
 <p class="pb4-ns pb3" style="max-width: 650px; margin: auto;">
 Thinking of things regionally has helped me curb this notion of not wanting to go back to somewhere I've already been. It's less "I've already been to Thailand" and more "I've been to Northern Thailand, next time I want to go to the South".</p>
 
-<p class="f3 pb2" style="max-width: 650px; margin: auto; font-family: 'Gilroy-ExtraBold';">6. Plan a cyclical itinerary.</p>
+<p class="f3 pb2" style="max-width: 650px; margin: auto; font-family: 'Gilroy-ExtraBold';">6. Plan a circular itinerary.</p>
 
 <p class="pb4-ns pb3" style="max-width: 650px; margin: auto;">
-If you are going to visit multiple sites in a day, multiple neighborhoods in a weekend, multiple cities in a trip, it's usually better to plan a cyclical route than to travel back and forth from a central location.</p>
+If you are going to visit multiple sites in a day, multiple neighborhoods in a weekend, multiple cities in a trip, it's usually better to plan a circular route than to travel back and forth from a central location.</p>
 
 <p class="pb3 pb4-ns" style="max-width: 650px; margin: auto;">Even though conventional knowledge is that round trip flights are cheaper than one way, it's usually not that <i>much</i> cheaper and you can save a few hours with a more streamlined path. This also applies to where you're staying. In big metropolitan areas like Seoul I'll even plan to move hotels or airbnbs so that I can more conveniently explore different neighborhoods instead of having to go back and forth. The added bonus is that I get to stay in more cute places.</p>
 
@@ -136,7 +136,7 @@ If you are going to visit multiple sites in a day, multiple neighborhoods in a w
 <div class="fl w-100 pb2">
 <img src="../images/seeitall/10.png">
 </div>
-<p class="tc mid-gray mb3 mb4-ns i f7">Gamcheon Cultural Village in Busan. Tourist-y? Yes. Worth it? Yes. Plus conveniently located on a circuit with fellow attractions Taejongdae Park and BIFF Square.</p>
+<p class="tc mid-gray mb3 mb4-ns i f7">Gamcheon Cultural Village in Busan, South Korea. Tourist-y? Yes. Worth it? Yes. Plus conveniently located on a circuit with fellow attractions Taejongdae Park and BIFF Square.</p>
 
 <p class="pb3 pb4-ns" style="max-width: 650px; margin: auto;">I hope this helps reduce some of the stress and anxiety associated with planning itineraries, but if all else fails just remember this: you're going somewhere different from your day to day so it's going to be exciting no matter what. Even if you don't see any major tourist attractions. Even if it that's all you see. At the end of the day it's still a vacation and the only way you can mess that up is if you forget to delete Slack from your phone.</p>
 
@@ -159,7 +159,7 @@ If you are going to visit multiple sites in a day, multiple neighborhoods in a w
     <div class="bg-center cover" style="background-image: url('../images/granada/NICA_HEADER.png'); padding-bottom:100%; width:100%;"></div>
     <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
       <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
-      <a class="f5 lh-title post-link" href="http://theinnbox.co/granada-nicaragua-travel-guide/">Your travel guide to Granda, Nicaragua: where to stay and what to do.</a>
+      <a class="f5 lh-title post-link" href="http://theinnbox.co/granada-nicaragua-travel-guide/">Your travel guide to Granada, Nicaragua: where to stay and what to do.</a>
       </h2>
     </div>
   </div>
