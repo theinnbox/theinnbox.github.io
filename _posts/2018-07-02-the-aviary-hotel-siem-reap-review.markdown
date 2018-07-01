@@ -18,7 +18,7 @@ public: 1
 <img class="mt4-ns mt3 mb4-ns mb3" src="/images/aviary/00.png">
 
 <p class="pb3 pb4-ns f4" style="max-width: 650px; margin: auto;">
-Tucked away from the dusty, bustling streets of Siem Reap is <a href="https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1801609&hl=en&hid=1119219" target="new">The Aviary Hotel</a>, a 25 room boutique hotel. While it appears girded and minimal on the outside, stepping across the hotel's threshold is to gain access to a hidden paradise with an aquamarine pool, lush fauna, and world class amenities.</p>
+Tucked away from the dusty, bustling streets of Siem Reap is <a href="https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1801609&hl=en&hid=1119219" target="new">The Aviary Hotel</a>, a 25 room boutique hospitality complex. While it appears girded and minimal on the outside, to step across the hotel's threshold is to gain access to a hidden paradise with an aquamarine pool, lush fauna, and world class amenities.</p>
 
 
 <p id="anchor" class="f3 pb2" style="max-width: 650px; margin: auto; font-family: 'Gilroy-ExtraBold';">Checking In</p>
