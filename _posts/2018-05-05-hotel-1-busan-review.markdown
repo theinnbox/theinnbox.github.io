@@ -1,7 +1,7 @@
 ---
 layout: longform
 title:  "Hotel Review: Hotel 1 in Busan, South Korea"
-author: Mintlodica
+author: Sabrina Majeed
 date:   2018-04-30 00:10:36 -0400
 thumbnail: ../images/hotel1/04.png
 categories: review
