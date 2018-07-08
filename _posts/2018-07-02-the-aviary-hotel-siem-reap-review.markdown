@@ -5,7 +5,6 @@ author: Sabrina Majeed
 date:   2018-06-30 00:10:36 -0400
 thumbnail: ../images/aviary/00.png
 categories: review
-public: 1
 
 ---
 
