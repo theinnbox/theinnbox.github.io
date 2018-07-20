@@ -5,7 +5,6 @@ author: Sabrina Majeed
 date:   2018-07-08 00:10:36 -0400
 thumbnail: ../images/moviespots/romanticmovieheader.png
 categories: list
-public: 1
 ---
 
 
