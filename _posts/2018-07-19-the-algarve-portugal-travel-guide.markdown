@@ -35,11 +35,11 @@ If you’re the type to be highly active while traveling then... Lagos <i>isn’
 Left photo via <a href="https://www.booking.com/hotel/pt/vivenda-solmar.en-gb.html?aid=1452227" target="blank">Booking.com</a>; right photo via <a href="https://www.instagram.com/jyae7777/" target="blank">Joanne Yae</a></p>
 
 <p class="pb2" style="max-width: 650px; margin: auto;">
-Vivenda Solmar is a rarity and the photos do not do it justice. It’s located in a residential area - so it feels like your own home - with close proximity to a beach, while being ultra affordable. I was greeted by a kind host who offered some delicious port wine to sip on while she checked us in.  The room was massive with a balcony that made for some sick views of the ocean.  The cool, dry breeze allowed us to leave the windows open and enjoy the fresh air.  It’s located walking distance to Praia Porto de Mos, which is less crowded and just as beautiful as the other beaches in the Lagos.  It’s also away from the city center so it feels remote and peaceful.  The ocean view is simply breathtaking.  I can't even begin to describe the emotions that came over me as I sat on the balcony just taking in the views, watching the sun rise and set every day that I was in Lagos. I highly recommend buying your own groceries and making breakfast in the mornings to enjoy with the view.</p>
+Vivenda Solmar is a rarity and the photos do not do it justice. It’s located in a residential area - so it feels like your own home - with close proximity to a beach, while being ultra affordable. I was greeted by a kind host who offered some delicious port wine to sip on while she checked us in.  The room was massive with a balcony that made for some sick views of the ocean.  The cool, dry breeze allowed us to leave the windows open and enjoy the fresh air.  It’s located walking distance to Praia Porto de Mos, which is less crowded and just as beautiful as the other beaches in Lagos.  It’s also away from the city center so it feels remote and peaceful.  The ocean view is simply breathtaking and you will be overcome with emotion when watching the sunset and rise. I highly recommend buying your own groceries and making breakfast in the mornings to enjoy with the view.</p>
 
-<p class="f6 i light-silver pb4" style="max-width: 650px; margin: auto;">Accessibility info TBA.</p>
+<p class="f6 i light-silver pb4" style="max-width: 650px; margin: auto;">Vivenda Solmar is a three story building with with rooms on the first floor. The entrance is paved, however there are no elevators.</p>
 
-<p class="f4 pt4 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;"><a href="https://www.booking.com/hotel/pt/vila-gale-lagos.en-gb.html?aid=1452227" target="_blank" class="link underline-hover orange">Vila Gale Lagos</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $200/Night</span></p>
+<p id="anchor" class="f4 pt4 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;"><a href="https://www.booking.com/hotel/pt/vila-gale-lagos.en-gb.html?aid=1452227" target="_blank" class="link underline-hover orange">Vila Gale Lagos</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $200/Night</span></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
 <img src="../images/algarve/04.png">
@@ -48,7 +48,7 @@ Vivenda Solmar is a rarity and the photos do not do it justice. It’s located i
 <img src="../images/algarve/03.png">
 </div>
 <p class="f7 pb3" style="max-width: 650px; margin: auto;">
-Left photo via <a href="https://www.booking.com/hotel/pt/vivenda-solmar.en-gb.html?aid=1452227" target="blank">Booking.com</a>; right photo via <a href="https://www.instagram.com/jyae7777/" target="blank">Joanne Yae</a></p>
+Photos via <a href="https://www.booking.com/hotel/pt/vivenda-solmar.en-gb.html?aid=1452227" target="blank">Booking.com</a></p>
 
 <p class="pb2" style="max-width: 650px; margin: auto;">
 If I had wanted to really splurge and treat myself in Lagos, Vila Gale Lagos would have been my top choice.  It’s large, modern, and right by the beach with an epic outdoor pool.  If you’re into resorts, convenience, amenities, and 5 star service, this is the place to stay.</p>
@@ -60,10 +60,16 @@ If I had wanted to really splurge and treat myself in Lagos, Vila Gale Lagos wou
 <p class="f4 pt4 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;"><a href="https://www.google.com/maps/d/u/0/viewer?mid=1KXcSxqKeFfZ2UCEWLvs2V6crE5_iOS3N&ll=37.08938703537126%2C-8.67025000000001&z=15" target="_blank" class="link underline-hover orange">Go beach hopping</a></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
+<img src="../images/algarve/20.png">
+</div>
+<div class="fl w-100 w-50-ns pl1-ns mb1 mb2-ns">
 <img src="../images/algarve/05.png">
 </div>
+<div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
+<img src="../images/algarve/21.png">
+</div>
 <div class="fl w-100 w-50-ns pl1-ns mb2">
-<img src="../images/algarve/05.png">
+<img src="../images/algarve/19.png">
 </div>
 <p class="f7 pb3" style="max-width: 650px; margin: auto;">
 Photos via <a href="https://www.instagram.com/jyae7777/" target="blank">Joanne Yae</a></p>
@@ -151,7 +157,7 @@ If you’re not too ‘busy’ taking holiday in Lagos, I highly recommend takin
 <p class="f4 pt4 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">Talk to the locals</p>
 
 <p class="pb3 pb4-ns" style="max-width: 650px; margin: auto;">
-As beautiful as Lagos is, the most beautiful thing about this town were the locals.  They are kind and generous with their knowledge of Lagos.  To get the most out of your trip here, talk to them, ask questions, and listen.  I learned so much about the people of Lagos by speaking with cab drivers. And wouldn’t have discovered Os Lambertos had I not asked the locals specifically where they like to eat (as opposed to where I should eat).  It will help you view Lagos through the eyes of its inhabitants and ultimately give you a truly immersive experience.</p>
+As beautiful as Lagos is, the most beautiful thing about this town were the locals.  They are kind and generous with their knowledge of the area.  To get the most out of your trip here, talk to them, ask questions, and listen. You can learn so much even just from speaking with cab drivers. And I wouldn’t have discovered Os Lambertos had I not asked the locals specifically where they like to eat (as opposed to where I should eat).  It will help you view Lagos through the eyes of its inhabitants and ultimately give you an truly immersive experience.</p>
 
 <p class="f4 pt4 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">Take a day trip to Faro</p>
 
@@ -162,7 +168,7 @@ As beautiful as Lagos is, the most beautiful thing about this town were the loca
 <img src="../images/algarve/17.png">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb2">
-<img src="../images/algarve/17.png">
+<img src="../images/algarve/18.png">
 </div>
 <p class="f7 pb3" style="max-width: 650px; margin: auto;">
 Photos via <a href="https://www.instagram.com/jyae7777/" target="blank">Joanne Yae</a></p>
