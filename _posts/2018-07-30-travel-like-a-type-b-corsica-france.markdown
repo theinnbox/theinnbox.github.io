@@ -20,7 +20,7 @@ public: 1
 <i>“Where’s Corsica?”</i> most people asked me. <i>“Is it a country?”</i> No, but fair question as it’s a bit off the beaten path when you think of traveling in Europe, especially for non-Europeans. Most of you are probably more familiar with the beaches of Southern France à la Nice, Marseille, Cannes and the like. Chic shopping along cobblestoned streets, fancy beach clubs with rows of orange parasols, and everyone decked out in white linen.</p>
 
 <p id="anchor" class="pb4-ns pb3" style="max-width: 650px; margin: auto;">
-Corsica is actually quite a large island in the Mediterranean off the coast of France, close to Italy. The official language is French, but Corsica is seeped in its own native culture with about 50% of the population conversational in the local Corsican language in addition to French and Italian. Its claim to fame is being the birthplace of Napoléon Bonaparte! But that is not why you go to Corsica...</p>
+Corsica is actually quite a large island in the Mediterranean off the coast of France, close to Italy. The official language is French, but Corsica is steeped in its own native culture with about 50% of the population conversational in the local Corsican language in addition to French and Italian. Its claim to fame is being the birthplace of Napoléon Bonaparte! But that is not why you go to Corsica...</p>
 
 <div class="fn center mb3 mb4-ns tc" style="max-width: 650px">
 <img src="../images/typeb/01.png">
@@ -92,7 +92,7 @@ Here are some of the tactics I picked up that will help you travel like you’re
 <p class="f3 pb2" style="max-width: 650px; margin: auto; font-family: 'Gilroy-ExtraBold';">Start with an MVP (Minimum Viable <i>Plan</i>)</p>
 
 <p class="pb3" style="max-width: 650px; margin: auto;">
-To truly embrace the Type B lifestyle, you don’t want to plan an exhaustive itinerary because ultimately this will stress you out and undermine your ability to live in the moment since your primary concern will be checking off items on a list. Lists are for your day——ditch them on vacation.
+To truly embrace the Type B lifestyle, you don’t want to plan an exhaustive itinerary because ultimately this will stress you out and undermine your ability to live in the moment since your primary concern will be checking off items on a list. Lists are for your day job——ditch them on vacation.
 </p>
 
 <p class="pb3" style="max-width: 650px; margin: auto;">
