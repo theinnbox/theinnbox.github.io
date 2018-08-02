@@ -5,7 +5,6 @@ author: Arielle Benedek
 date:   2018-07-28 00:10:36 -0400
 thumbnail: ../images/typeb/15.png
 categories: longform
-public: 1
 
 ---
 
