@@ -41,7 +41,7 @@ Checking-in was fairly smooth and the staff provided us with a well-designed map
 <p class="f3 pb2" style="max-width: 650px; margin: auto; font-family: 'Gilroy-ExtraBold';">The Room</p>
 
 <p class="pb3 pb4-ns" style="max-width: 650px; margin: auto;">
-While Ayutthaya’s best value is probably it’s gorgeous shared rooms, I booked the site’s only two private rooms for our group which consisted of two couples. The two private rooms are located on the building’s upper floor, behind a charming little outdoor patio.
+While Busaba’s best value is probably it’s gorgeous shared rooms, I booked the site’s only two private rooms for our group which consisted of two couples. The two private rooms are located on the building’s upper floor, behind a charming little outdoor patio.
 </p>
 
 <div class="fl w-100 mb1 mb2-ns">
