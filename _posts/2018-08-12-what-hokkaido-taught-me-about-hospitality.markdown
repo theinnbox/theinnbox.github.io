@@ -7,6 +7,11 @@ thumbnail: ../images/hokkaido/hokkaidolodging_thumb.png
 categories: list
 ---
 
+<div style="max-width: 650px; margin: auto;">
+<p class="f7 di mr4"><b>By</b> <a href="https://www.instagram.com/sabrinasans/">Sabrina Majeed</a></p>
+</div>
+
+
 <img class="mt3-ns mt3 mb4-ns mb3" src="../images/hokkaido/hokkaidolodging_thumb.png">
 
 <p class="pb3" style="max-width: 650px; margin: auto;">Let me cut to the chase and say that Japan is one of the more challenging places I've booked lodging in. Japan is known for being an expensive country and thus that desired combination of affordability and intentional, sophisticated design is elusive.
@@ -250,7 +255,7 @@ After a day spent driving around and exploring Akan National Park, we needed som
 </div>
 
 <p class="pb3" style="max-width: 650px; margin: auto;">
-Noboribetsu was the perfect place to close out our roadtrip, soaking our tired bodies in a warm bath at this famous onsen town. Morinoyu was the most expensive place we stayed in Hokkaido, in part because of the intense dinner and breakfast spreads we added on to our reservation in addition to the room and board. When I was looking for a place to stay in Noboribetsu in came down to Morinoyu Sanseikan or the larger, more famous onsen-hotel of Dai-ichi Takimotokan. What pushed me over the edge was reading reviews that pointed out that due to Morinoyu’s more intimate size, no organized tours ever stay there (in contrast to Dai-ichi which is practically made to accomodate large groups) and it’s very likely that you can get the bath all to yourself in the summer season— and indeed, I did, otherwise it would’ve been impossible to sneak a photo of the gorgeous outdoor bath. Sitting out there in solace, taking in the contrast of the cold night air on my face and toasty waters everywhere else was simply put, an amazing feeling which put me totally at peace.</p>
+Noboribetsu was the perfect place to close out our roadtrip, soaking our tired bodies in a warm bath at this famous onsen town. Morinoyu was the most expensive place we stayed in Hokkaido, in part because of the intense dinner and breakfast spreads we added on to our reservation in addition to the room and board. When I was looking for a place to stay in Noboribetsu it came down to Morinoyu Sanseikan or the larger, more famous onsen-hotel of Dai-ichi Takimotokan. What pushed me over the edge was reading reviews that pointed out that due to Morinoyu’s more intimate size, no organized tours ever stay there (in contrast to Dai-ichi which is practically made to accomodate large groups) and it’s very likely that you can get the bath all to yourself in the summer season— and indeed, I did, otherwise it would’ve been impossible to sneak a photo of the gorgeous outdoor bath. Sitting out there in solace, taking in the contrast of the cold night air on my face and toasty waters everywhere else was simply put, an amazing feeling which put me totally at peace.</p>
 
 <p class="pb2" style="max-width: 650px; margin: auto;">
 The dinner and breakfast spreads at Morinoyu were freaking huge— filled with things that were both delicious and things that challenged me. I consider myself a very open-minded and adventurous eater but there’s only so many raw, slippery things I can eat in one sitting. I really appreciate the opportunity to be able to try <i>so many</i> new things though, and though the meals are pricey they were well worth it to me for their portion size and authenticity.</p>
