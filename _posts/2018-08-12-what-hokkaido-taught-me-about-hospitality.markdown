@@ -7,7 +7,7 @@ thumbnail: ../images/hokkaido/hokkaidolodging_thumb.png
 categories: list
 ---
 
-<div style="max-width: 650px; margin: auto;">
+<div class="pb3" style="max-width: 650px; margin: auto;">
 <p class="f7 di mr4"><b>By</b> <a href="https://www.instagram.com/sabrinasans/">Sabrina Majeed</a></p>
 </div>
 
