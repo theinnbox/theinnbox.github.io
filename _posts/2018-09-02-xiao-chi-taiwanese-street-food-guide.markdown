@@ -23,7 +23,7 @@ public: 1
 <p class="pb3" style="max-width: 650px; margin: auto;">Like many other countries, Taiwanese cuisine emphasizes umami, sweetness, and deep frying as many things as you can. However, I’d like to introduce your palette to the most important element of Taiwanese food: QQ. To be Q is to be bouncy, chewy, squishy. If you’ve had fresh tapioca pearls in your bubble/boba/pearl milk tea, you’ve experienced QQ. If you’ve ever had sticky rice, you’ve experienced QQ. If you’ve ever had gummy bears or al dente pasta, you’ve almost
 experienced QQ.</p>
 
-<p id="anchor" class="f6 pl4 pt4 pr4 pb4 bg-washed-yellow" style="max-width: 650px; margin: auto;">​​While most people head to Taipei when they visit the country, I highly recommend pulling a day or two for a food tour of Tainan, the former capital and Taiwanese food mecca in the south. Several of the dishes below are best tried in Tainan, including ba wan, oyster omelette, and mi gao. Tainan is 1.5 hours from Taipei by high speed rail.</p>
+<p class="f6 pl4 pt4 pr4 pb4 bg-washed-yellow" style="max-width: 650px; margin: auto;">​​While most people head to Taipei when they visit the country, I highly recommend pulling a day or two for a food tour of Tainan, the former capital and Taiwanese food mecca in the south. Several of the dishes below are best tried in Tainan, including ba wan, oyster omelette, and mi gao. Tainan is 1.5 hours from Taipei by high speed rail.</p>
 
 <p class="f2 pt4 pt5-ns pb2 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">Xiao Chi 101</p>
 
@@ -34,12 +34,12 @@ experienced QQ.</p>
 <img src="../images/taiwanfood/PMT_2.png">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3">
-<img src="../images/taiwanfood/PMT_1.jpg">
+<img src="../images/taiwanfood/PMT_1.JPG">
 </div>
-<p id="anchor" class="pb4" style="max-width: 650px; margin: auto;">
+<p class="pb4" style="max-width: 650px; margin: auto;">
 Bubble/boba/pearl milk tea is probably the most famous Taiwanese export, but Taiwan really screwed up  its branding and never standardized the translation (for the record, PMT is technically correct but who has time to say PMT). Most chains use syrups for sweetening, but find a shop that uses brown sugar with a fresh patch of pearls for optimal QQ. QQ potential: pearls.</p>
 
-<p class="f3 pt2 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">鹽酥雞 - salt and pepper fried chicken<span class="f5 light-silver">&nbsp; &nbsp;yan su ji</span></p>
+<p  id="anchor" class="f3 pt2 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">鹽酥雞 - salt and pepper fried chicken<span class="f5 light-silver">&nbsp; &nbsp;yan su ji</span></p>
 <div class="fl w-100 mb3">
 <img src="../images/taiwanfood/Popcorn_Chicken.png">
 </div>
