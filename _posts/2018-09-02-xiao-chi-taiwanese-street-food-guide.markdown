@@ -2,10 +2,10 @@
 layout: longform
 title:  "Xiao Chi: A comprehensive guide to street food in Taiwan"
 author: Julius Tarng
-date:   2018-08-18 00:10:36 -0400
+date:   2018-09-02 00:10:36 -0400
 thumbnail: ../images/taiwanfood/MBS.png
 categories: list
-
+public: 1
 
 ---
 
