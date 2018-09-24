@@ -5,7 +5,6 @@ author: Sabrina Majeed
 date:   2018-09-09 00:10:36 -0400
 thumbnail: ../images/marshall/00.jpg
 categories: review
-public: 1
 
 ---
 
