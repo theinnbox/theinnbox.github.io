@@ -18,7 +18,7 @@ Photos via <a href="http://www.thearnoldhouse.com" target="blank">thearnoldhouse
 
 <p class="pb3" style="max-width: 650px; margin: auto;">If I were still living in New York, I'd probably be planning an escape upstate right about now. With no work holidays between Labor Day and Thanksgiving (depending on how your employer feels about Indigenous Peoples' Day and Veterans Day), I usually need a little weekend trip somewhere in between to tide me over until the holiday season is in full swing. </p>
 
-<p class="pb3" style="max-width: 650px; margin: auto;">Plus, if you asked me, I'd tell you that I think upstate New York is where some of the most <i>exciting</i> things are happening in the American lodging and hospitality game right now. What was once a landscape dominated by grandeur ski and lakeside resorts for wealthily families has now been balanced by stripped down farmhouses, resuscitated motels, and cozy cabins catered to couples and groups of friends. So even if you're not based near New York, maybe the next time you hit up the big apple, you can make a detour to go apple picking instead (Ha! See what I did there?).</p>
+<p class="pb3" style="max-width: 650px; margin: auto;">Plus, if you asked me, I'd tell you that I think upstate New York is where some of the most <i>exciting</i> things are happening in the American lodging and hospitality game right now. What was once a landscape dominated by grandeur ski and lakeside resorts for wealthy families has now been balanced by stripped down farmhouses, resuscitated motels, and cozy cabins catered to couples and groups of friends. So even if you're not based near New York, maybe the next time you hit up the big apple, you can make a detour to go apple picking instead (Ha! See what I did there?).</p>
 
 <p class="pb4-ns pb3" style="max-width: 650px; margin: auto;">Below are my top choices for places to stay all across upstate New York.</p>
 
@@ -63,7 +63,7 @@ Brentwood Hotel is located right off the historic Saratoga race course, America'
 
 <p class="f6 i light-silver pb4" style="max-width: 650px; margin: auto;">All rooms are located on the ground floor, accessible via a gravel lot.</p>
 
-<p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">3. <a href="https://www.airbnb.com/rooms/16497757" target="_blank" class="link underline-hover orange">The Olive Outpost</a>, Olivebridge<span class="f5 light-silver">&nbsp; &nbsp;Starting at $250/Night</span></p>
+<p id="anchor" class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">3. <a href="https://www.airbnb.com/rooms/16497757" target="_blank" class="link underline-hover orange">The Olive Outpost</a>, Olivebridge<span class="f5 light-silver">&nbsp; &nbsp;Starting at $250/Night</span></p>
 
 <div class="fl w-100 mb1 mb2-ns">
 <img src="../images/upstate/olive_1.png">
