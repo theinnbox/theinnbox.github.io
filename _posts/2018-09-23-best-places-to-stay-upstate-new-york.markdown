@@ -5,6 +5,7 @@ author: Sabrina Majeed
 date:   2018-09-23 00:10:36 -0400
 thumbnail: ../images/upstate/arnold_1.png
 categories: list
+public: 1
 ---
 
 
