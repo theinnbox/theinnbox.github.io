@@ -3,14 +3,13 @@ layout: longform
 title:  "Day Trip Diary: Labuan Bajo, Indonesia"
 author: Sabrina Majeed
 date:   2018-10-21 00:10:36 -0400
-thumbnail: http://localhost:4000/images/lb/01.jpg
+thumbnail: http://theinnbox.co/images/lb/01.jpg
 categories: list
 ---
 
 <div class="pb3" style="max-width: 650px; margin: auto;">
 <p class="f7 di mr4"><b>By</b> <a href="https://www.instagram.com/sabrinasans/">Sabrina Majeed</a></p>
 </div>
-
 
 <img class="mt3-ns mt3 mb4-ns mb3" src="../images/lb/00.jpg">
 

@@ -138,7 +138,7 @@ For lunch you can order a la carte from a consistent menu of snacks that include
 <p class="f3 pb2" style="max-width: 650px; margin: auto; font-family: 'Gilroy-ExtraBold';">The Neighborhood</p>
 
 <p class="pb3 pb4-ns" style="max-width: 650px; margin: auto;">
-The bay that the Boatel is anchored in is incredible peaceful, with a view that perfectly centers a sunset between two islands. It’s about a twenty minute boat-ride away from the crowded harbor, with only a few boats other boats in the vicinity. Not too far from the boatel on land is AYANA Komodo Resort, a sprawling complex that on Saturday nights sets of fireworks from a small boat that is often docked not too far away from the boatel. During the day the Boatel can also arrange for short activities in the nearby area like snorkeling and kayaking. There’s also an island right next to the boatel where sometimes you can spot monkeys hanging out around the beach.</p>
+The bay that the Boatel is anchored in is incredible peaceful, with a view that perfectly centers a sunset between two islands. It’s about a twenty minute boat-ride away from the crowded harbor, with only a few other boats in the vicinity. Not too far from the boatel on land is AYANA Komodo Resort, a sprawling complex that on Saturday nights sets of fireworks from a small boat that is often docked not too far away from the boatel. During the day the Boatel can also arrange for short activities in the nearby area like snorkeling and kayaking. There’s also an island right next to the boatel where sometimes you can spot monkeys hanging out around the beach.</p>
 
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb2-ns">
