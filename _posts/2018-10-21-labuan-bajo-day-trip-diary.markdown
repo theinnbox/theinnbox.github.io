@@ -3,7 +3,7 @@ layout: longform
 title:  "Day Trip Diary: Labuan Bajo, Indonesia"
 author: Sabrina Majeed
 date:   2018-10-21 00:10:36 -0400
-thumbnail: http://theinnbox.co/images/lb/01.jpg
+thumbnail: ../images/lb/01.jpg
 categories: list
 ---
 
