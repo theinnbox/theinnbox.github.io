@@ -14,7 +14,7 @@ categories: list
 
 <img class="mt3-ns mt3 mb4-ns mb3" src="../images/hokkaido-2/AKA_1.png">
 
-<p class="pb3" style="max-width: 650px; margin: auto;">When one imagines traveling to Japan, the first image that comes to mind may be the bustling neon lights of Tokyo, or the tranquil temples in Kyoto. Perhaps even the southern beaches of Kyushu. Hokkaido, Japan’s northerly pastoral island, doesn’t typically rank highly on the list— but I have a feeling that’s about to change. While it still feels off the radar for American travelers, vacationers in Asian countries such as Taiwan, China, South Korea, and Thailand have been increasingly flocking to this bountiful island.</p>
+<p class="pb3" style="max-width: 650px; margin: auto;">When one imagines traveling to Japan, the first image that comes to mind may be the bustling neon lights of Tokyo, or the tranquil temples in Kyoto. Perhaps even the southern beaches of Kyushu. Hokkaido, Japan’s northerly pastoral island, doesn’t typically rank high on the list— but I have a feeling that’s about to change. While it still feels off the radar for American travelers, vacationers in Asian countries such as Taiwan, China, South Korea, and Thailand have been increasingly flocking to this bountiful island.</p>
 
 <p class="pb3" style="max-width: 650px; margin: auto;">Hokkaido is a nature lover’s dream. Summertime is filled with more vibrant, saturated shades of green and blue than I had ever seen before, but there’s something to see in all seasons. Swap out summer’s melons and lavender blooms for skiing and ice-breaking tours in the wintertime, bursts of red and orange leaves in the fall, or springtime’s cherry blossoms and pink moss phlox. Aside from the outdoorsy type, there’s another kind of traveler that Hokkaido is perfect for: the kind that hates crowds. With the exception of Furano and nearby Biei, it sometimes feels like you have the whole island to yourself. It’s all open road, fertile farmlands, and small cities that feel far from congested by tourism (at least for now).</p>
 
@@ -267,7 +267,7 @@ About four hours into our drive, a little bit before Chitose, we stopped for a s
 </div>
 
 <p class="pb3 pb4-ns" style="max-width: 650px; margin: auto;">
-When we finally arrived at our onsen in Noboribetsu we emailed changed into our robes and headed down to the baths for a pre-dinner soak. If you don’t want to stay in a hotel with an onsen, there are many bath houses you can simply drop into for a small fee.</p>
+When we finally arrived at our onsen in Noboribetsu we immediately changed into our robes and headed down to the baths for a pre-dinner soak. If you don’t want to stay in a hotel with an onsen, there are many bath houses you can simply drop into for a small fee.</p>
 
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">Day 8: Noboribetsu → Lake Tōya → Hakodate</p>
 
