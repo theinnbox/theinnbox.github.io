@@ -5,7 +5,6 @@ author: Sabrina Majeed
 date:   2018-10-07 00:10:36 -0400
 thumbnail: ../images/boatel/00.jpg
 categories: review
-public: 1
 
 ---
 
