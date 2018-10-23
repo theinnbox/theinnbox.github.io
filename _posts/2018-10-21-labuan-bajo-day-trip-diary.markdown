@@ -187,7 +187,7 @@ I would highly recommend the Red Whale island tour to anyone visiting Labuan Baj
     <div class="bg-center cover" style="background-image: url('http://theinnbox.co/images/granada/NICA_HEADER.png'); padding-bottom:100%; width:100%;"></div>
     <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
       <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
-      <a class="f5 lh-title post-link" href="http://theinnbox.co/granada-nicaragua-travel-guide/">Your travel guide to Granda, Nicaragua: where to stay and what to do</a>
+      <a class="f5 lh-title post-link" href="http://theinnbox.co/granada-nicaragua-travel-guide/">Your travel guide to Granada, Nicaragua: where to stay and what to do</a>
       </h2>
     </div>
   </div>
