@@ -15,7 +15,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   {% capture title %}{{ page.title | default:site.title | escape }}{% endcapture %}
-  {% capture description %}{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}{% endcapture %}
+  {% capture description %}{{ page.content | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}{% endcapture %}
 
   <title>{{ title }}</title>
   <meta name="description" content="{{ description }}">
@@ -33,7 +33,7 @@
     <meta property="og:type" content="website">
   {% endif %}
   {% if page.thumbnail %}
-    <meta property="og:image" content="{{page.thumbnail}}">
+    <meta property="og:image" content="{{page.thumbnail | absolute_url}}">
   {% else %}
     <!-- TODO @sabrinasans ADD THUMBNAIL FOR NON POST LINK PREVIEWS -->
     <!-- <meta property="og:image" content="/assets/"> -->
@@ -44,7 +44,7 @@
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
   <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
   <link href="https://fonts.googleapis.com/css?family=Inconsolata:400,700" rel="stylesheet">
-  <link rel="shortcut icon" type="image/png" href="images/favicon.png"/>
+  <link rel="shortcut icon" type="image/png" href="/images/favicon.png"/>
   <link rel="stylesheet" href="/css/tachyons.min.css"/>
   <link rel="stylesheet" href="/css/custom.css"/>
   <link rel="stylesheet" href="/css/animate.css"/>
