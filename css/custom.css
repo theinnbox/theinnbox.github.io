@@ -12,7 +12,7 @@
 
 /* Styles the input boxes */
 #mc_embed_signup .mc-field-group input {
-    width: 400px;
+    max-width: 400px;
     padding: 20px;
     border-radius: 0px;
     font-family: 'Inconsolata'; monospace;
@@ -27,7 +27,8 @@
     background-color: #000;
     border-radius: 0px;
     margin: 0 auto;
-    width: 400px;
+    max-width: 400px;
+    width: 100%;
     height: 60px;
     padding: 10px 0;
     font-family: 'Inconsolata'; monospace;
@@ -39,26 +40,26 @@
 }
 
 #mc_embed_signup div.response {
-width: 400px;
-float: none;
-margin: auto;
-font-weight: normal;
-margin-bottom: 15px;
+  max-width: 400px;
+  float: none;
+  margin: auto;
+  font-weight: normal;
+  margin-bottom: 15px;
 }
 
 /* Responsive Classes */
 @media (max-width: 30em){
 
   #mc_embed_signup .mc-field-group input {
-      width: 320px;
-    }
+    max-width: 320px;
+  }
 
   #mc_embed_signup  .button {
-    width: 320px;
-    }
+    max-width: 320px;
+  }
 
-    #mc_embed_signup div.response {
-    width: 320px;
+  #mc_embed_signup div.response {
+    max-width: 320px;
   }
 
   .preview-container {
@@ -87,6 +88,14 @@ margin-bottom: 15px;
     order: 3;
   }
 
+}
+
+/* Responsive hack for home page feed at lower end of the 
+    "medium" breakpoint where text bursts out */
+@media screen and (max-width: 36em) and (min-width: 30em) {
+  .w-50-m {
+    width: 100%;
+  }
 }
 
 #instafeed img {
