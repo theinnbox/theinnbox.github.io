@@ -2,16 +2,11 @@
 layout: longform
 title:  "How I learned to travel like a Type-B in Corsica, France"
 author: Arielle Benedek
+author_ig: therelzoe
 date:   2018-07-28 00:10:36 -0400
 thumbnail: ../images/typeb/15.png
 categories: longform
-
 ---
-
-<div style="max-width: 650px; margin: auto;">
-<p class="f7 di mr4"><b>By</b> <a href="https://www.instagram.com/therelzoe/" target="blank">Arielle Benedek</a></p>
-</div>
-
 
 <img class="mt4-ns mt3 mb4-ns mb3" src="/images/typeb/15.png">
 

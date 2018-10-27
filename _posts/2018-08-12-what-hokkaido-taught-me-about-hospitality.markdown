@@ -2,15 +2,11 @@
 layout: longform
 title:  What Hokkaido taught me about hospitality
 author: Sabrina Majeed
+author_ig: sabrinasans
 date:   2018-08-12 00:10:36 -0400
 thumbnail: ../images/hokkaido/hokkaidolodging_thumb.png
 categories: list
 ---
-
-<div class="pb3" style="max-width: 650px; margin: auto;">
-<p class="f7 di mr4"><b>By</b> <a href="https://www.instagram.com/sabrinasans/">Sabrina Majeed</a></p>
-</div>
-
 
 <img class="mt3-ns mt3 mb4-ns mb3" src="../images/hokkaido/hokkaidolodging_thumb.png">
 

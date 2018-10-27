@@ -2,6 +2,7 @@
 layout: post
 title:  "Your travel guide to Granada, Nicaragua: where to stay and what to do"
 author: Sabrina Majeed
+author_ig: sabrinasans
 date:   2017-10-16 00:10:36 -0400
 thumbnail: ../images/granada/NICA_HEADER.png
 categories: travel guide

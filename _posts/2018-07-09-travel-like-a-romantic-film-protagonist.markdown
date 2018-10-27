@@ -2,12 +2,11 @@
 layout: longform
 title:  Vacation like the protagonist in a romantic film with 8 affordable movie set alternatives.
 author: Sabrina Majeed
+author_ig: sabrinasans
 date:   2018-07-08 00:10:36 -0400
 thumbnail: ../images/moviespots/romanticmovieheader.png
 categories: list
 ---
-
-
 
 <img class="mt3-ns mt3 mb4-ns mb3" src="../images/moviespots/romanticmovieheader.png">
 

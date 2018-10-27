@@ -2,6 +2,7 @@
 layout: longform
 title:  "The 13 Best Airbnbs in San Francisco"
 author: Sabrina Majeed
+author_ig: sabrinasans
 date:   2018-02-04 00:10:36 -0400
 thumbnail: ../images/sf/sf_bnb_header.png
 categories: list
