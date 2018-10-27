@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: The InnBox
 email: theinnboxco@gmail.com
-description: The InnBox is a weekly newsletter featuring unique, affordable places and spaces for busy folks who need a break.
+description: We review and recommend unique, affordable places to stay. Designer approved and always no more than $300/night.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: http://theinnbox.co # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: theinnboxco
