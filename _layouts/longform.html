@@ -10,10 +10,27 @@ layout: default
 
   <header class="post-header" style="max-width: 650px; margin: auto;">
     <h1 class="post-title lh-title f1-ns f2 mb3" itemprop="name headline" style="font-family: 'Gilroy-ExtraBold'">{{ page.title | escape }}</h1>
-      <blockquote>
-        {{ page.intro }}
-      </blockquote>
-
+    {% if page.categories contains "review" %}
+      <div class="inconsolata" style="max-width: 650px; margin: auto;">
+        <p class="f7 di mr4"><b>Dates:</b> {{ page.review_dates }}</p>
+        <p class="f7 di mr4"><b>Rate:</b> ${{ page.review_rate }}/Night</p>
+        <span class="dib">
+          <p class="f7 di"><b>Who Stayed:</b>
+            <a href="https://www.instagram.com/{{ page.author_ig }}" target="blank">
+              {{ page.author | split: " " | first }}</a>
+              {% if page.review_guests %} & {{ page.review_guests }}{% endif %}</p>
+        </span>
+      </div>
+    {% else %}
+    <div class="pb3 inconsolata" style="max-width: 650px; margin: auto;">
+      <p class="f7 di mr4"><b>By</b>
+        <a href="https://www.instagram.com/{{ page.author_ig }}">{{ page.author }}</a>
+      </p>
+    </div>
+    {% endif %}
+    <blockquote>
+      {{ page.intro }}
+    </blockquote>
   </header>
 
   <div class="post-content" itemprop="articleBody" style="font-family: 'Inconsolata', monospace;">
