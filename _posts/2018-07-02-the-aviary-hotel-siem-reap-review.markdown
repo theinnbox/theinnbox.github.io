@@ -2,17 +2,14 @@
 layout: longform
 title:  "Hotel Review: The Aviary Hotel in Siem Reap, Cambodia"
 author: Sabrina Majeed
+author_ig: sabrinasans
 date:   2018-06-30 00:10:36 -0400
 thumbnail: ../images/aviary/00.png
 categories: review
-
+review_dates: "June 26 — 28, 2018"
+review_rate: 73
+review_guests: "Her Boyfriend"
 ---
-
-<div style="max-width: 650px; margin: auto;">
-<p class="f7 di mr4"><b>Dates:</b> June 26 — 28, 2018</p>
-<p class="f7 di mr4"><b>Rate:</b> $73/Night</p>
-<span class="dib"><p class="f7 di"><b>Who Stayed:</b> <a href="https://www.instagram.com/sabrinasans/" target="blank">Sabrina</a> & Her Boyfriend</p></span>
-</div>
 
 <img class="mt4-ns mt3 mb4-ns mb3" src="/images/aviary/00.png">
 

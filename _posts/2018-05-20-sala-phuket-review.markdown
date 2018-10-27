@@ -2,17 +2,14 @@
 layout: longform
 title:  "Hotel Review: SALA Phuket Resort & Spa in Phuket, Thailand"
 author: Sabrina Majeed
+author_ig: sabrinasans
 date:   2018-04-30 00:10:36 -0400
 thumbnail: ../images/sala/01.png
 categories: review
-
+review_dates: "May 8 — 10, 2018"
+review_rate: 249
+review_guests: "Her Boyfriend"
 ---
-
-<div style="max-width: 650px; margin: auto;">
-<p class="f7 di mr4"><b>Dates:</b> May 8 — 10, 2018</p>
-<p class="f7 di mr4"><b>Rate:</b> $249/Night</p>
-<span class="dib"><p class="f7 di"><b>Who Stayed:</b> <a href="https://www.instagram.com/sabrinasans/" target="blank">Sabrina</a> & Her Boyfriend</p></span>
-</div>
 
 <img class="mt4-ns mt3 mb4-ns mb3" src="/images/sala/01.png">
 

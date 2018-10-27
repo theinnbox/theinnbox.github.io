@@ -2,16 +2,14 @@
 layout: longform
 title:  "Hotel Review: The Slow in Canggu, Bali"
 author: Sabrina Majeed
+author_ig: sabrinasans
 date:   2018-03-25 00:10:36 -0400
 thumbnail: ../images/slow/01.png
 categories: review
+review_dates: "May 10 — 12, 2018"
+review_rate: 182.67
+review_guests: "Her Best Friend"
 ---
-
-<div style="max-width: 650px; margin: auto;">
-<p class="f7 di mr4"><b>Dates:</b> March 10 — 12, 2018</p>
-<p class="f7 di mr4"><b>Rate:</b> $182.67/Night</p>
-<p class="f7 di"><b>Who Stayed:</b> Sabrina & Her Best Friend</p>
-</div>
 
 <img class="mt4-ns mt3 mb4-ns mb3" src="/images/slow/01.png">
 

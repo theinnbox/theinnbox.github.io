@@ -2,17 +2,14 @@
 layout: longform
 title:  "Hotel Review: Le Pirate Boatel in Labuan Bajo, Indonesia"
 author: Sabrina Majeed
+author_ig: sabrinasans
 date:   2018-10-07 00:10:36 -0400
 thumbnail: ../images/boatel/00.jpg
 categories: review
-
+review_dates: "September 15 — 18, 2018"
+review_rate: 43
+review_guests: "Her Boyfriend"
 ---
-
-<div style="max-width: 650px; margin: auto;">
-<p class="f7 di mr4"><b>Dates:</b>September 15 — 18, 2018</p>
-<p class="f7 di mr4"><b>Rate:</b> $43/Night</p>
-<span class="dib"><p class="f7 di"><b>Who Stayed:</b> <a href="https://www.instagram.com/sabrinasans/" target="blank">Sabrina</a> & Her Boyfriend</p></span>
-</div>
 
 <img class="mt4-ns mt3 mb4-ns mb3" src="/images/boatel/00.jpg">
 
