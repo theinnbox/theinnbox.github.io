@@ -5,7 +5,7 @@ author: Sabrina Majeed
 author_ig: sabrinasans
 date:   2018-03-18 00:10:36 -0400
 thumbnail: ../images/hoian/splash.jpg
-categories: travel guide
+categories: travelguide
 ---
 
 <img class="mt4-ns mt3 mb4-ns mb3" src="/images/hoian/splash.jpg">

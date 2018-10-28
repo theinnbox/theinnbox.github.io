@@ -5,7 +5,7 @@ author: Sabrina Majeed
 author_ig: sabrinasans
 date:   2017-11-12 00:10:36 -0400
 thumbnail: ../images/paris/paris_header.jpg
-categories: travel guide
+categories: travelguide
 ---
 
 ![](../images/paris/paris_header.jpg)

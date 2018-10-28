@@ -5,7 +5,7 @@ author: Sabrina Majeed
 author_ig: sabrinasans
 date:   2017-10-16 00:10:36 -0400
 thumbnail: ../images/granada/NICA_HEADER.jpg
-categories: travel guide
+categories: travelguide
 ---
 
 ![](../images/granada/NICA_HEADER.jpg)

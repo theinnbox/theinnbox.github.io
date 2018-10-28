@@ -5,7 +5,7 @@ author: Sabrina Majeed
 author_ig: sabrinasans
 date:   2017-12-10 00:10:36 -0400
 thumbnail: ../images/asheville/asheville_header.jpg
-categories: travel guide
+categories: list airbnb
 ---
 
 ![](../images/asheville/asheville_header.jpg)

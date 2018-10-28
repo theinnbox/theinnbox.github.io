@@ -5,7 +5,7 @@ author: Sabrina Majeed
 author_ig: sabrinasans
 date:   2017-11-20 00:10:36 -0400
 thumbnail: ../images/bedstuy/bedstuy_header.jpg
-categories: travel guide
+categories: travelguide
 ---
 
 <a href="https://www.flickr.com/photos/baschtelt/10782896243/" target="_blank"><img src="/images/bedstuy/bedstuy_header.jpg"></a>

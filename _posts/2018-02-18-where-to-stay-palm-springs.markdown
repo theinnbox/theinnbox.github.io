@@ -5,7 +5,7 @@ author: Sabrina Majeed
 author_ig: sabrinasans
 date:   2018-02-25 00:10:36 -0400
 thumbnail: ../images/palmsprings/ps_header.jpg
-categories: travel guide
+categories: list
 ---
 
 <img class="mt4-ns mt3 mb4-ns mb3" src="/images/palmsprings/ps_header.jpg">
