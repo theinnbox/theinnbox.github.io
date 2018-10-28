@@ -9,6 +9,7 @@ categories: review
 review_dates: "June 1 — 5, 2018"
 review_rate: 197
 review_guests: "Her Boyfriend"
+public: 1
 ---
 
 <img class="mt4-ns mt3 mb4-ns mb3" src="/images/boro/00.jpg">
@@ -23,7 +24,7 @@ There's a massive disconnect between how much it actually costs to stay in New Y
 So I was actually pleasantly surprised when I found out about the <a href="https://www.booking.com/hotel/us/the-boro-hotel-lic.en.html?aid=1452227" new="target">Boro Hotel in Long Island City</a>. With rates starting at $167/night it was just a hair cheaper than most Airbnbs I was considering, and only a twenty minute commute from Manhattan. Upon my first return trip to New York City after moving away, I actually kind of wanted to have a "tourist" experience there and do some of the things I felt like I never had time to do when I was living/working there. The Boro Hotel was perfectly located for that.</p>
 
 
-<p class="f3 pb2" style="max-width: 650px; margin: auto; font-family: 'Gilroy-ExtraBold';">Checking In</p>
+<p id="anchor" class="f3 pb2" style="max-width: 650px; margin: auto; font-family: 'Gilroy-ExtraBold';">Checking In</p>
 
 <p class="pb3" style="max-width: 650px; margin: auto;">
 I headed to the Boro Hotel after crashing with a friend in Manhattan for a night. Getting there was a straight shot from Union Square on the yellow line. The hotel is located close to three different subway stations, the closest of which is 39th Avenue (although that station was out of service half the time during out stay). From that station it was a short walk up five small blocks to the hotel, which stands out from the more residential buildings surrounding it.<p>
@@ -38,7 +39,7 @@ I headed to the Boro Hotel after crashing with a friend in Manhattan for a night
 <p class="pb3 pb4-ns" style="max-width: 650px; margin: auto;">
 Check-in itself was straight-forward and uneventful and I was quickly taken to our room. It was at this moment I discovered that the elevators in the hotel are <i>painfully</i> slow. Seriously, if you stay here it's best to just use the colorful stairwells on the premises.</p>
 
-<p id="anchor" class="f3 pb2" style="max-width: 650px; margin: auto; font-family: 'Gilroy-ExtraBold';">The Room</p>
+<p class="f3 pb2" style="max-width: 650px; margin: auto; font-family: 'Gilroy-ExtraBold';">The Room</p>
 
 <p class="pb3 pb4-ns" style="max-width: 650px; margin: auto;">
 Our room was a corner unit that was surprisingly spacious for a New York City hotel room, and also came with a king-size bed. The room has a very minimal, airy, and industrial feel— that said, I think it may have been a little <i>too</i> minimal. With the exception of one of the walls being covered in pale green wood panelings, the area surrounding the bed feels a little bit bare. I would love to see them put up some artwork or some accent lighting to frame the bed.</p>
