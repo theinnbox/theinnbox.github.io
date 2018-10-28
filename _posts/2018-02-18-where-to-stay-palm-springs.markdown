@@ -2,6 +2,7 @@
 layout: longform
 title:  "8 Places to Stay in Palm Springs that aren't the Ace Hotel & Pool Club"
 author: Sabrina Majeed
+author_ig: sabrinasans
 date:   2018-02-25 00:10:36 -0400
 thumbnail: ../images/palmsprings/ps_header.png
 categories: travel guide

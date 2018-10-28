@@ -2,6 +2,7 @@
 layout: longform
 title:  "Where to stay in Portland, Maine (and Kennebunkport)"
 author: Sabrina Majeed
+author_ig: sabrinasans
 date:   2018-06-10 00:10:36 -0400
 thumbnail: ../images/portlandme/header.png
 categories: list

@@ -2,14 +2,11 @@
 layout: longform
 title:  "How I make time to 'see it all' when I travel"
 author: Sabrina Majeed
+author_ig: sabrinasans
 date:   2018-06-23 00:10:36 -0400
 thumbnail: ../images/seeitall/00.png
-categories: review
+categories: travel guide
 ---
-
-<p class="pb3 f6" style="max-width: 650px; margin: auto;"> By
-  <span itemprop="author" itemscope itemtype="http://schema.org/Person"><a href="https://www.instagram.com/sabrinasans/"><span itemprop="name">{{ page.author }}</span></a></span>
-</p>
 
 <img class="mt4-ns mt3 mb4-ns mb3" src="/images/seeitall/00.png">
 

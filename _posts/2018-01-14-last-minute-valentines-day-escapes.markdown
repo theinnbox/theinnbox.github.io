@@ -2,6 +2,7 @@
 layout: post
 title:  "12 Low-Key, Last-Minute Valentine's Day Getaways for Everyone"
 author: Sabrina Majeed
+author_ig: sabrinasans
 date:   2018-01-14 00:10:36 -0400
 thumbnail: ../images/valentines/valentines_header.png
 categories: travel guide

@@ -2,6 +2,7 @@
 layout: post
 title:  "Where to stay in Bedford-Stuyvesant for under $100 per night"
 author: Sabrina Majeed
+author_ig: sabrinasans
 date:   2017-11-20 00:10:36 -0400
 thumbnail: ../images/bedstuy/bedstuy_header.png
 categories: travel guide

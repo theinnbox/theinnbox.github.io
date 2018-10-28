@@ -2,16 +2,14 @@
 layout: longform
 title:  "Hotel Review: The Marina Bay Sands in Singapore"
 author: Sabrina Majeed
+author_ig: sabrinasans
 date:   2018-03-04 00:10:36 -0400
 thumbnail: ../images/mbs/17.png
 categories: review
+review_dates: "February 6, 2018"
+review_rate: 408
+review_guests: "Her Boyfriend"
 ---
-
-<div style="max-width: 650px; margin: auto;">
-<p class="f7 di mr4"><b>Dates:</b> February 6th, 2018</p>
-<p class="f7 di mr4"><b>Rate:</b> $408/Night</p>
-<p class="f7 di"><b>Who Stayed:</b> Sabrina & Her Boyfriend</p>
-</div>
 
 <img class="mt4-ns mt3 mb4-ns mb3" src="/images/mbs/17.png">
 

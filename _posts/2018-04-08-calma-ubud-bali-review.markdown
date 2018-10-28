@@ -2,16 +2,14 @@
 layout: longform
 title:  "Hotel Review: Calma Ubud in Ubud, Bali"
 author: Sabrina Majeed
+author_ig: sabrinasans
 date:   2018-04-08 00:10:36 -0400
 thumbnail: ../images/calma/splash.png
 categories: review
+review_dates: "March 8 — 10, 2018"
+review_rate: 87
+review_guests: "Her Best Friend"
 ---
-
-<div style="max-width: 650px; margin: auto;">
-<p class="f7 di mr4"><b>Dates:</b> March 8 — 10, 2018</p>
-<p class="f7 di mr4"><b>Rate:</b> $87/Night</p>
-<p class="f7 di"><b>Who Stayed:</b> Sabrina & Her Best Friend</p>
-</div>
 
 <img class="mt4-ns mt3 mb4-ns mb3" src="/images/calma/splash.png">
 

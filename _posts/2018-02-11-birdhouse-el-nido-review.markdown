@@ -2,16 +2,14 @@
 layout: longform
 title:  "Hotel Review: The Birdhouse El Nido in Palawan, Philippines"
 author: Sabrina Majeed
+author_ig: sabrinasans
 date:   2018-02-11 00:10:36 -0400
 thumbnail: ../images/birdhouse/1.png
 categories: review
+review_dates: "January 30 — February 1, 2018"
+review_rate: 125
+review_guests: "Her Boyfriend"
 ---
-
-<div style="max-width: 650px; margin: auto;">
-<p class="f7 di mr4"><b>Dates:</b> January 30th — February 1st, 2018</p>
-<p class="f7 di mr4"><b>Rate:</b> $125/Night</p>
-<p class="f7 di"><b>Who Stayed:</b> Sabrina & Her Boyfriend</p>
-</div>
 
 <img class="mt4-ns mt3 mb4-ns mb3" src="/images/birdhouse/1.png">
 

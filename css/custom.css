@@ -15,7 +15,7 @@
     width: 400px;
     padding: 20px;
     border-radius: 0px;
-    font-family: 'Inconsolata'; monospace;
+    font-family: 'Inconsolata', monospace;
     text-align: center;
     font-size: 16px;
     margin: 0 auto;
@@ -30,7 +30,7 @@
     width: 400px;
     height: 60px;
     padding: 10px 0;
-    font-family: 'Inconsolata'; monospace;
+    font-family: 'Inconsolata', monospace;
     font-size: 16px;
 }
 
@@ -95,11 +95,15 @@ height: 250px;
 
 }
 
-a:visited {
-   color: #FF6300; }
+.inconsolata {
+  font-family: 'Inconsolata', monospace;
+}
 
-.postlink a:visited {
-color: #FF6300; }
+a,
+a:visited,
+a:hover {
+   color: #FF6300;
+}
 
 .footerlogo {
   fill: #AAA;

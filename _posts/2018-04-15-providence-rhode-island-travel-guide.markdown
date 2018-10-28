@@ -2,6 +2,7 @@
 layout: longform
 title:  "Your travel guide to Providence, Rhode Island: where to stay and what to do."
 author: Sabrina Majeed
+author_ig: sabrinasans
 date:   2018-04-15 00:10:36 -0400
 thumbnail: ../images/providence/splash.png
 categories: travel guide
