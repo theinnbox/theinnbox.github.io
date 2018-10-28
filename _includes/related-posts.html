@@ -1,0 +1,22 @@
+<p class="tc f3 pt5 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'">
+  {% if page.related_posts_custom_title %}
+    {{ page.related_posts_custom_title }}:
+  {% elsif page.categories contains "travelguide" %}
+    Check out more of our travel guides and itineraries:
+  {% elsif page.categories contains "review" %}
+    Check out more of our hotel reviews:
+  {% elsif page.categories contains "airbnb" %}
+    Check out more of our top Airbnb picks:
+  {% else %}
+    <!-- Check out more of our where-to-stay roundups:
+    Check out more of our travel posts: -->
+    Check out more of our posts:
+  {% endif %}
+</p>
+
+{% for related_post in page.related_posts %}
+  {% assign post = site.posts | where: 'id', related_post | first %}
+  <div class="fl w-100 w-50-ns w-50-m pr2-ns mb4">
+    {% include feed-card.html post=post %}
+  </div>
+{% endfor %}
