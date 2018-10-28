@@ -3,11 +3,11 @@ layout: post
 title:  "Your travel guide to Granada, Nicaragua: where to stay and what to do"
 author: Sabrina Majeed
 date:   2017-10-16 00:10:36 -0400
-thumbnail: ../images/granada/NICA_HEADER.png
+thumbnail: ../images/granada/NICA_HEADER.jpg
 categories: travel guide
 ---
 
-![](../images/granada/NICA_HEADER.png)
+![](../images/granada/NICA_HEADER.jpg)
 
 As the winter chill starts knocking on our doors, it’s time to start thinking about sunnier pastures to escape to. I myself will be hiding out all winter and spring in Bangkok as soon as December 1st hits, but if I weren’t doing that I’d be considering returning to one of my favorite vacation spots; a place that seems to top the list of every travel journalist’s “winter escapes”— Nicaragua.
 
@@ -18,10 +18,10 @@ If you like the idea of exploring a region of Central America but yoga retreats 
 
 <p class="f3 pt3 lh-title" style="font-family: 'Gilroy-ExtraBold'">For solo-travellers & low key couples — <a href="http://tribal-hotel.com/" target="_blank" class="link underline-hover orange">Tribal Hotel</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $145/Night</span></p>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/granada/Tribal1.png">
+<img src="../images/granada/Tribal1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3">
-<img src="../images/granada/Tribal2.png">
+<img src="../images/granada/Tribal2.jpg">
 </div>
 The Tribal Hotel is an exercise in quality over quantity. It’s small, with its twelve rooms and a pool that is more suited for wading than swimming, but everything about it from the service to the food to the decor is well executed. We stayed here during our visit to Granada and spent countless nights drinking cocktails by the pool, which is beautiful at night. Their breakfast game is also 💯, I had some unreal banana pancakes accompanied with fresh papaya that I’m still thinking about. The staff is super friendly and will help you book any nearby excursions. The Tribal is also a great value in terms of location— walking distance to many of Granada’s restaurants and city center, but far enough away from the noise at night.
 
@@ -29,10 +29,10 @@ The Tribal Hotel is an exercise in quality over quantity. It’s small, with its
 
 <p class="f3 pt3 lh-title" style="font-family: 'Gilroy-ExtraBold'">For romantics — <a href="http://www.hoteldario.com/" target="_blank" class="link underline-hover orange">Hotel Dario</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $93/Night</span></p>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/granada/Dario1.png">
+<img src="../images/granada/Dario1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3">
-<img src="../images/granada/Dario2.png">
+<img src="../images/granada/Dario2.jpg">
 </div>
 Named after the Nicaraguan poet Rubén Darío, this place is teeming with history. The hotel was originally a mansion built in 9014 and is listed as an official heritage site of the city. It’s also cute AF, conveniently located right next to Granada’s central park and main thoroughfare, has a beautiful courtyard which Instagram dreams were made of, and understated Spanish colonial style rooms with views of the volcano Mombacho. Included in your stay is breakfast at the hotel restaurant, which in addition to local fare also features dishes from Spain.
 
@@ -42,10 +42,10 @@ Named after the Nicaraguan poet Rubén Darío, this place is teeming with histor
 <p class="f3 pt3 lh-title" style="font-family: 'Gilroy-ExtraBold'">For people who kinda-sorta-wanna-be away from other people — <a href="https://www.isletaelespino.com/" target="_blank" class="link underline-hover orange">Isleta El Espino</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $125/Night</span></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/granada/Isleta1.png">
+<img src="../images/granada/Isleta1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3">
-<img src="../images/granada/Isleta2.png">
+<img src="../images/granada/Isleta2.jpg">
 </div>
 One of the coolest parts of Granada are its Islets (see more under ‘what to do’). Isleta El Espino is a small eco-lodge situated on one of these private islands. There’s only 5 rooms, my favorite of which is <a href="https://www.airbnb.com/rooms/5856166">this charming bungalow.</a> The entire lodge is off-the-grid and runs on solar power, and like many places in Granada daily breakfast is included. You’re probably wondering: okay but how do I get to this amazing island? Don’t worry, they’ve got a boat and your initial and final trips to/from the mainland are included with your stay. All other trips are $5 each way.  
 
@@ -55,7 +55,7 @@ One of the coolest parts of Granada are its Islets (see more under ‘what to do
 
 <div class="fl w-100 mb4">
 <div class="fl w-100 w-50-ns">
-<img src="../images/granada/Isletas.png">
+<img src="../images/granada/Isletas.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl4-ns">
 <p class="f4 mb1 lh-title mt0-ns mt3" style="font-family: 'Gilroy-ExtraBold'">Las Isletas de Granada</p>
@@ -66,7 +66,7 @@ One of the coolest parts of Granada are its Islets (see more under ‘what to do
 
 <div class="fl w-100 mb4">
 <div class="fl w-100 w-50-ns">
-<img src="../images/granada/OjodeAgua.png">
+<img src="../images/granada/OjodeAgua.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl4-ns">
 <p class="f4 mb1 lh-title mt0-ns mt3" style="font-family: 'Gilroy-ExtraBold'">Ometepe + Ojo De Agua</p>
@@ -76,7 +76,7 @@ One of the coolest parts of Granada are its Islets (see more under ‘what to do
 
 <div class="fl w-100 mb4">
 <div class="fl w-100 w-50-ns">
-<img src="../images/granada/Apoyo.png">
+<img src="../images/granada/Apoyo.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl4-ns">
 <p class="f4 mb1 lh-title mt0-ns mt3" style="font-family: 'Gilroy-ExtraBold'">Laguna de Apoyo</p>
@@ -86,7 +86,7 @@ One of the coolest parts of Granada are its Islets (see more under ‘what to do
 
 <div class="fl w-100 mb4">
 <div class="fl w-100 w-50-ns">
-<img src="../images/granada/SJDS.png">
+<img src="../images/granada/SJDS.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl4-ns">
 <p class="f4 mb1 lh-title mt0-ns mt3" style="font-family: 'Gilroy-ExtraBold'">San Juan Del Sur</p>
@@ -96,7 +96,7 @@ One of the coolest parts of Granada are its Islets (see more under ‘what to do
 
 <div class="fl w-100 mb4">
 <div class="fl w-100 w-50-ns">
-<img src="../images/granada/Masaya.png">
+<img src="../images/granada/Masaya.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl4-ns">
 <p class="f4 mb1 lh-title mt0-ns mt3" style="font-family: 'Gilroy-ExtraBold'">Volcano Masaya or Cerro Negro</p>

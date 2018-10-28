@@ -3,11 +3,11 @@ layout: post
 title:  "Your travel guide to Tromsø, Norway: where to stay and what to do."
 author: Sabrina Majeed
 date:   2017-11-20 00:10:36 -0400
-thumbnail: ../images/tromso/tromso_header.png
+thumbnail: ../images/tromso/tromso_header.jpg
 categories: travel guide
 ---
 
-<img src="/images/tromso/tromso_header.png">
+<img src="/images/tromso/tromso_header.jpg">
 
 While I've heard that Tromsø is beautiful in the summer, it mainly draws visitors in the colder months because it is one of the best places in the world to view the Aurora Borealis, or northern lights. That's certainly what brought me to this arctic destination— so I didn't expect to fall in love with the city for a whole bunch of other reasons. Of all the cities I visited in Norway, Tromsø was my favorite. The locals were so incredibly friendly, the food was amazing, and it had such a laid-back, cozy atmosphere. If I could describe it in a few words I might call it a metropolitan fishing village.
 
@@ -20,10 +20,10 @@ Tromsø's hospitality scene seems nascent compared to larger Norwegian cities li
 
 <p class="f3 pt3 lh-title" style="font-family: 'Gilroy-ExtraBold'">For solo travelers & the budget conscious — <a href="https://www.booking.com/hotel/no/comfort-xpress-tromso.html" target="_blank" class="link underline-hover orange">Comfort Hotel Xpress Tromsø</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $136/Night</span></p>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/tromso/comforthotel_1.png">
+<img src="../images/tromso/comforthotel_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3">
-<img src="../images/tromso/comforthotel_2.png">
+<img src="../images/tromso/comforthotel_2.jpg">
 </div>
 Comfort Hotel Xpress is part of Scandinavian chain Nordic Choice Hotels, which is a franchise of American-owned Choice Hotels, which operates Comfort Inn & Suites in the US. But this isn't your momma's Comfort  hotel. After spending days of research trying to find a place to stay I ultimately decided to stay at Comfort Hotel because of its location, positive reviews, and the price— since Tromso was the last leg of my trip and Norway is expensive, I really wanted to cut costs here. Honestly, I went into this with low expectations but found myself pleasantly surprised by this Comfort Hotel outpost.
 
@@ -35,10 +35,10 @@ I'd be lying if I said I didn't pay attention the interior design of the places 
 
 <p class="f3 pt3 lh-title" style="font-family: 'Gilroy-ExtraBold'">For bibliophiles & friends traveling together — <a href="http://www.bedandbooks.no/" target="_blank" class="link underline-hover orange">Tromsø Bed & Books</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $95/Night</span></p>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/tromso/bedbooks_1.png">
+<img src="../images/tromso/bedbooks_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3">
-<img src="../images/tromso/bedbooks_2.png">
+<img src="../images/tromso/bedbooks_2.jpg">
 </div>
 So admittedly this was my first choice for where to stay in Tromsø, but the small guest house sells out fast so it's better to book this place way in advance. It's one of the few individually owned lodging options in the city and while single rooms start at $95, the best deal is the triple room that if fully occupied comes out to a little over $50/night. Bed & Books is run similar to a hostel with shared bathrooms and common areas, including, you guessed it, a generous library for your perusal. My only initial hesitation to staying here was that as a solo-traveler it seemed a little farther out from the city center and I was worried about walking back at night, but having now been to Tromsø and I think the distance is actually not that far at all, and I felt fairly safe walking around at night. I would definitely try to stay here the next time I'm in town.
 
@@ -46,10 +46,10 @@ So admittedly this was my first choice for where to stay in Tromsø, but the sma
 
 <p class="f3 pt3 lh-title" style="font-family: 'Gilroy-ExtraBold'">For couples & business travelers — <a href="https://www.booking.com/hotel/no/the-edge.en-gb.html" target="_blank" class="link underline-hover orange">Clarion Hotel The Edge</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $216/Night</span></p>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/tromso/clarion_1.png">
+<img src="../images/tromso/clarion_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3">
-<img src="../images/tromso/clarion_2.png">
+<img src="../images/tromso/clarion_2.jpg">
 </div>
 Clarion is another brand operated by Choice Hotels, the same parent company responsible for Comfort Hotel Express. While our other suggestions are perfectly reasonable for couples, if what you're after is romance than The Edge is a much better choice because of its location on the harbor and majestic views of the water, Arctic cathedral, and surrounding mountains. It's the most centrally located of the options presented here and also a great choice if someone else is footing your hotel bill. The hotel's restaurant, <a href="http://www.kitchenandtable.se/story/">Kitchen & Table</a>, is run by Marcus Samuelsson and features dishes that combine his Scandinavian background with New York influences. Breakfast at the hotel is also included in most rates, and The Edge also offers lower rates for single travelers.
 
@@ -63,10 +63,10 @@ While there are certainly plenty of Airbnbs available, I felt like it was hard t
 <div class="fl w-100 mb4">
 <p class="f3 pt3 lh-title" style="font-family: 'Gilroy-ExtraBold'"><a href="http://enjoythearctic.no/" class="link underline-hover orange" target="_blank">Chase the Northern Lights</a></p>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/tromso/lights_1.png">
+<img src="../images/tromso/lights_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3">
-<img src="../images/tromso/lights_2.png">
+<img src="../images/tromso/lights_2.jpg">
 </div>
 <p>This is what you come to Tromsø for. There's a whole industry around northern light tours and it's fascinating to me because despite being independent competitors all the tour guides essentially work together and constantly communicate with each other throughout the night so that if one person finds the lights, everyone else does too. You'll notice that the tours are often describe as northern light "chases" and that's because there's no guarantee you'll actually see one. But if you pay for a tour these guys will do everything possible to make sure you do. It was raining the night I went on my tour and our guide drove us three hours across the border into Finland to find us a clear patch of sky. The place we ended up, Kilpisjärvi, was <a href="https://www.afar.com/magazine/get-intimate-with-the-aurora-borealis-in-the-finnish-wilderness?inspiration=outdoor-adventure&sub_inspiration=winter-sports&email=sabrinaymajeed%40gmail.com&utm_source=Sailthru&utm_medium=email&utm_campaign=northern%20lights&utm_term=Daily%20Wander%20Newsletter">recently featured in a recent article by Away</a> as the best place to view the lights.</p>
 
@@ -77,7 +77,7 @@ While there are certainly plenty of Airbnbs available, I felt like it was hard t
 
 <div class="fl w-100 mb4">
 <div class="fl w-100 w-50-ns">
-<img src="../images/tromso/reindeer.png">
+<img src="../images/tromso/reindeer.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl4-ns">
 <p class="f4 mb1 lh-title mt0-ns mt3" style="font-family: 'Gilroy-ExtraBold'"><a href="http://www.bardus.no/" class="link underline-hover orange" target="_blank">Reindeer Ragout @ Bardus Bistro</a></p>
@@ -88,7 +88,7 @@ While there are certainly plenty of Airbnbs available, I felt like it was hard t
 
 <div class="fl w-100 mb4">
 <div class="fl w-100 w-50-ns">
-<img src="../images/tromso/cathedral.png">
+<img src="../images/tromso/cathedral.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl4-ns">
 <p class="f4 mb1 lh-title mt0-ns mt3" style="font-family: 'Gilroy-ExtraBold'"><a href="http://www.ishavskatedralen.no/en/the-arctic-cathedral/" class="link underline-hover orange" target="_blank">The Arctic Cathedral</a></p>
@@ -100,7 +100,7 @@ While there are certainly plenty of Airbnbs available, I felt like it was hard t
 <div class="fl w-100 mb4">
 <p class="f3 pt3 lh-title" style="font-family: 'Gilroy-ExtraBold'"><a href="http://www.polaria.no/" class="link underline-hover orange" target="_blank">Polaria</a></p>
 <div class="fl w-100 pr1-ns mb3">
-<img src="../images/tromso/polaria.png">
+<img src="../images/tromso/polaria.jpg">
 </div>
 <p>Polaria is the world's northernmost aquarium and a great option for families with young children (although this adult still had fun by herself). The museum itself is rather small (I probably spent a little less than an hour there) but provides an interactive and educational overview of the area's marine ecology. The main attraction is an open pool with bearded seals, with a live feeding show twice a day. The architecture is also a part of the appeal and is an abstract representation of ice floes pushing up against land. Entrance fees are around $15 for adults and $8 for kids, although they do occasionally have discounted prices (the day I went entrance was 50% off).
 </p>
@@ -108,7 +108,7 @@ While there are certainly plenty of Airbnbs available, I felt like it was hard t
 
 <div class="fl w-100 mb4">
 <div class="fl w-100 w-50-ns">
-<img src="../images/tromso/mathallen.png">
+<img src="../images/tromso/mathallen.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl4-ns">
 <p class="f4 mb1 lh-title mt0-ns mt3" style="font-family: 'Gilroy-ExtraBold'"><a href="http://www.mathallentromso.no/" class="link underline-hover orange" target="_blank">Mathallen Tromsø</a></p>
@@ -119,7 +119,7 @@ While there are certainly plenty of Airbnbs available, I felt like it was hard t
 
 <div class="fl w-100 mb4">
 <div class="fl w-100 w-50-ns">
-<img src="../images/tromso/svalbard.png">
+<img src="../images/tromso/svalbard.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl4-ns">
 <p class="f4 mb1 lh-title mt0-ns mt3" style="font-family: 'Gilroy-ExtraBold'">Visit Svalbard</p>

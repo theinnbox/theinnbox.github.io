@@ -3,11 +3,11 @@ layout: longform
 title:  "Your travel guide to Providence, Rhode Island: where to stay and what to do."
 author: Sabrina Majeed
 date:   2018-04-15 00:10:36 -0400
-thumbnail: ../images/providence/splash.png
+thumbnail: ../images/providence/splash.jpg
 categories: travel guide
 ---
 
-<img class="mt4-ns mt3 mb4-ns mb3" src="/images/providence/splash.png">
+<img class="mt4-ns mt3 mb4-ns mb3" src="/images/providence/splash.jpg">
 
 <p class="pb4 f4" style="max-width: 650px; margin: auto;">
 Providence. The biggest city in America's smallest state. It's a known creative hub; home to one of the country's best art and design schools and a history in textile manufacturing. It's the perfect weekend getaway on the east coast, particularly in the summer season when the surrounding waters warm up and locals and visitors alike embrace the salty seas. Foodies will also appreciate the unending supply of American restaurants, from fine dining spots downtown to the burgeoning brunch scene in the city's more youthful neighborhoods.</p>
@@ -18,16 +18,16 @@ Providence. The biggest city in America's smallest state. It's a known creative 
 <p class="f3 pb3 pt3 lh-title" style="max-width: 650px; margin: auto; font-family: 'Gilroy-ExtraBold'"><a href="http://www.booking.com/hotel/us/the-dean.html?aid=1452227" target="_blank" class="link underline-hover orange">The Dean Hotel</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $149/Night</span></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/providence/dean_2.png">
+<img src="../images/providence/dean_2.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb2">
-<img src="../images/providence/dean_3.png">
+<img src="../images/providence/dean_3.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/providence/dean_5.png">
+<img src="../images/providence/dean_5.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/providence/dean_4.png">
+<img src="../images/providence/dean_4.jpg">
 </div>
 
 <p class="pb3" style="max-width: 650px; margin: auto;">The Dean is often described as New England's answer to the Ace Hotel and it's not surprising to see why: The Dean is also home to a hip coffeeshop, bar, and restaurant, making it more than just a hotel but a place for people in Providence to hang out. The rooms are minimally decorated but with classic east coast twists like off-white walls, golden fixtures, and dark industrial furniture; all of which are an ode to the city's manufacturing background. The building's former life as a strip club and brothel also adds hidden meaning to the hotel's cheeky tagline "Sleep with The Dean". The Dean offers affordable bunk rooms for groups of friends as well as rooms for solo-travelers. We stayed here in a double room for a long weekend in 2015 and loved it's central, downtown location.</p>
@@ -36,16 +36,16 @@ Providence. The biggest city in America's smallest state. It's a known creative 
 <p class="f3 pb3 pt3 lh-title" style="max-width: 650px; margin: auto; font-family: 'Gilroy-ExtraBold'"><a href="http://www.booking.com/hotel/us/dye-house-lofts.html?aid=1452227" target="_blank" class="link underline-hover orange">Dye House Lofts</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $134/Night</span></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/providence/dye_1.png">
+<img src="../images/providence/dye_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb2">
-<img src="../images/providence/dye_2.png">
+<img src="../images/providence/dye_2.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/providence/dye_3.png">
+<img src="../images/providence/dye_3.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/providence/dye_4.png">
+<img src="../images/providence/dye_4.jpg">
 </div>
 
 <p class="pb3" style="max-width: 650px; margin: auto;">Located in a renovated 1880's mill building, Dye House Lofts is home to an adorable couple and their ceramic studio, as well as two tastefully decorated lofts that are available for guests. The warehouse space gets amazing light, features beautiful art and ceramics, and some amazing tile work, like that red shower which is giving me 80's gym vibes, in the best possible way. The property is located in Olneyville, a quiet arts neighborhood that's less central but still only a seven minute drive away from downtown. Dye House Lofts has a three-night minimum stay.</p>
@@ -55,16 +55,16 @@ Providence. The biggest city in America's smallest state. It's a known creative 
 <p id="anchor" class="f3 pb3 pt3 lh-title" style="max-width: 650px; margin: auto; font-family: 'Gilroy-ExtraBold'"><a href="https://www.airbnb.com/rooms/1576859" target="_blank" class="link underline-hover orange">"Providence Pied'De'Terre"</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $100/Night</span></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/providence/pied_1.png">
+<img src="../images/providence/pied_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb2">
-<img src="../images/providence/pied_2.png">
+<img src="../images/providence/pied_2.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/providence/pied_3.png">
+<img src="../images/providence/pied_3.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/providence/pied_4.png">
+<img src="../images/providence/pied_4.jpg">
 </div>
 
 <p class="pb3" style="max-width: 650px; margin: auto;">I can't get over the dreamy, cobalt blue kitchen cupboards, slanted ceilings, and candy-colored exterior that make this Airbnb seem straight out of a storybook. The host, Chip, operate four separate Airbnbs out of this building but this top floor unit with its half-moon windows and pyramid alcoves is our favorite. The Airbnb is located in a safe, diverse, and thus far un-gentrified neighborhood near both Federal Hill and Downtown— where Chip has lived for over 25 years.</p>
@@ -74,16 +74,16 @@ Providence. The biggest city in America's smallest state. It's a known creative 
 <p class="f3 pb3 pt3 lh-title" style="max-width: 650px; margin: auto; font-family: 'Gilroy-ExtraBold'"><a href="https://www.airbnb.com/rooms/17525017" target="_blank" class="link underline-hover orange">"Modern Armory Victorian"</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $105/Night</span></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/providence/armory_1.png">
+<img src="../images/providence/armory_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb2">
-<img src="../images/providence/armory_2.png">
+<img src="../images/providence/armory_2.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/providence/armory_3.png">
+<img src="../images/providence/armory_3.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/providence/armory_4.png">
+<img src="../images/providence/armory_4.jpg">
 </div>
 
 <p class="pb3" style="max-width: 650px; margin: auto;">This bright, modern Airbnb is operated by a jewelry designer who has lived in Providence for the past twelve years. We love how the space is accented with interesting, artful pieces like chunky, knitted throws on the bed or vintage tufted mustard colored chairs in the living room. The bathroom also features a steam-room shower. Even though the Airbnb is big enough for four, at its price point it's also a great deal for a couple or pair of friends. The unit is located in the city's Armory neighborhood, walking distance to several hip cafes and restaurants.</p>
@@ -92,16 +92,16 @@ Providence. The biggest city in America's smallest state. It's a known creative 
 <p class="f3 pb3 pt3 lh-title" style="max-width: 650px; margin: auto; font-family: 'Gilroy-ExtraBold'"><a href="https://www.airbnb.com/rooms/19983622" target="_blank" class="link underline-hover orange">"Home at Harkness"</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $147/Night</span></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/providence/federal_1.png">
+<img src="../images/providence/federal_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb2">
-<img src="../images/providence/federal_2.png">
+<img src="../images/providence/federal_2.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/providence/federal_3.png">
+<img src="../images/providence/federal_3.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/providence/federal_4.png">
+<img src="../images/providence/federal_4.jpg">
 </div>
 
 <p class="pb3" style="max-width: 650px; margin: auto;">This Airbnb is our pick for families and large groups. The Airbnb can comfortably accommodate 5 (but can squeeze in up to 7) which makes it a steal at its price point. This is also a great example of how furniture and decor can add so much personality into a space with relatively straight-forward architecture. White boxes and a standardized kitchen are brought to life with colorful textiles, clashing patterns, tiny trinkets and large sculptures. The home was originally built in 1855 but renovated last year in 2017 and is operated by a mother and daughter duo.</p>
@@ -110,7 +110,7 @@ Providence. The biggest city in America's smallest state. It's a known creative 
 
 <div class="pt4-ns cf" style="max-width: 650px; margin-right: auto; margin-left: auto;">
 <div class="fl w-100 w-50-ns">
-<img src="../images/providence/risd.png">
+<img src="../images/providence/risd.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl4-ns">
 <p class="f4 mb1 lh-title mt0-ns mt3" style="font-family: 'Gilroy-ExtraBold'"><a href="http://risdmuseum.org/" target="blank">Get inspired at the<br>RISD Museum</a></p>
@@ -122,7 +122,7 @@ Providence. The biggest city in America's smallest state. It's a known creative 
 
 <div class="mt4-ns mt3 pt3 cf" style="max-width: 650px; margin-right: auto; margin-left: auto;">
 <div class="fl w-100 w-50-ns">
-<img src="../images/providence/newport.png">
+<img src="../images/providence/newport.jpg">
 </div>
 <div class="fr w-100 w-50-ns pl4-ns">
 <p class="f4 mb1 lh-title mt0-ns mt3" style="font-family: 'Gilroy-ExtraBold'">Get nautical in Newport</p>
@@ -132,7 +132,7 @@ Providence. The biggest city in America's smallest state. It's a known creative 
 
 <div id="anchor2" class="mt4-ns mt3 pt3 cf" style="max-width: 650px; margin-right: auto; margin-left: auto;">
 <div class="fl w-100 w-50-ns">
-<img src="../images/providence/sweetberry.png">
+<img src="../images/providence/sweetberry.jpg">
 </div>
 <div class="fr w-100 w-50-ns pl4-ns">
 <p class="f4 mb1 lh-title mt0-ns mt3" style="font-family: 'Gilroy-ExtraBold'">Pick fruits at Sweet Berry Farm</p>
@@ -142,7 +142,7 @@ Providence. The biggest city in America's smallest state. It's a known creative 
 
 <div class="mt4-ns mt3 pt3 cf" style="max-width: 650px; margin-right: auto; margin-left: auto;">
 <div class="fl w-100 w-50-ns">
-<img src="../images/providence/hangingrock.png">
+<img src="../images/providence/hangingrock.jpg">
 </div>
 <div class="fr w-100 w-50-ns pl4-ns">
 <p class="f4 mb1 lh-title mt0-ns mt3" style="font-family: 'Gilroy-ExtraBold'">Take a hike at Hanging Rock</p>
@@ -152,7 +152,7 @@ Providence. The biggest city in America's smallest state. It's a known creative 
 
 <div class="mt4-ns mt3 pt3 cf" style="max-width: 650px; margin-right: auto; margin-left: auto;">
 <div class="fl w-100 w-50-ns">
-<img src="../images/providence/dorrance.png">
+<img src="../images/providence/dorrance.jpg">
 </div>
 <div class="fr w-100 w-50-ns pl4-ns">
 <p class="f4 mb1 lh-title mt0-ns mt3" style="font-family: 'Gilroy-ExtraBold'"><a href="https://foursquare.com/v/the-dorrance/4e78d70d22714e6e5f2fa733" target="blank">Drinks at The Dorrance</a></p>
@@ -162,7 +162,7 @@ Providence. The biggest city in America's smallest state. It's a known creative 
 
 <div class="mt4-ns mt3 pt3 cf" style="max-width: 650px; margin-right: auto; margin-left: auto;">
 <div class="fl w-100 w-50-ns">
-<img src="../images/providence/julians.png">
+<img src="../images/providence/julians.jpg">
 </div>
 <div class="fr w-100 w-50-ns pl4-ns">
 <p class="f4 mb1 lh-title mt0-ns mt3" style="font-family: 'Gilroy-ExtraBold'"><a href="https://foursquare.com/v/julians/4a8844dff964a520a40520e3" target="blank">Eat Eggs at Julian's</a></p>
@@ -174,7 +174,7 @@ Providence. The biggest city in America's smallest state. It's a known creative 
 
 <div class="fl w-100 w-50-ns pr2-ns mb4">
   <a href="http://theinnbox.co/san-luis-obispo-travel-guide/"><div class="relative" style="height: 450px; background-color:#ECEAE7;">
-    <div class="bg-center cover" style="background-image: url('../images/slo/SLO_Header.png'); padding-bottom:100%; width:100%;"></div>
+    <div class="bg-center cover" style="background-image: url('../images/slo/SLO_Header.jpg'); padding-bottom:100%; width:100%;"></div>
     <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
       <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
       <a class="f5 lh-title post-link" href="http://theinnbox.co/san-luis-obispo-travel-guide/">Why not SLO down in San Luis Obispo for your next weekend trip?</a>
@@ -186,7 +186,7 @@ Providence. The biggest city in America's smallest state. It's a known creative 
 
 <div class="fl w-100 w-50-ns pl2-ns mb1 mb0-ns">
   <a href="http://theinnbox.co/bariloche-argentina-travel-guide/"><div class="relative" style="height: 450px; background-color:#ECEAE7;">
-    <div class="bg-center cover" style="background-image: url('../images/bariloche/bariloche_header.png'); padding-bottom:100%; width:100%;"></div>
+    <div class="bg-center cover" style="background-image: url('../images/bariloche/bariloche_header.jpg'); padding-bottom:100%; width:100%;"></div>
     <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
       <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
       <a class="f5 lh-title post-link" href="http://theinnbox.co/bariloche-argentina-travel-guide/">Your travel guide to Bariloche, Argentina: where to stay and what to do.</a>

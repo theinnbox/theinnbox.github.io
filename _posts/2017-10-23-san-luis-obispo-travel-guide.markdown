@@ -3,11 +3,11 @@ layout: post
 title:  "Why not SLO down in San Luis Obispo for your next weekend trip?"
 author: Sabrina Majeed
 date:   2017-10-16 00:10:36 -0400
-thumbnail: ../images/slo/SLO_Header.png
+thumbnail: ../images/slo/SLO_Header.jpg
 categories: travel guide
 ---
 
-![](../images/slo/SLO_Header.png)
+![](../images/slo/SLO_Header.jpg)
 
 San Luis Obispo is basically the halfway point between San Francisco and Los Angeles. It’s a great place for a stopover during a road trip between the two, but it’s also worth visiting in its own right. What makes SLO stand out from many other charming California coastal towns is that it’s kind of like an influx of many different vibes. You got your beach scene, your wine scene, your food scene, your college scene— SLO is home to Cal Poly, which offers just enough of a college atmosphere to provide decent nightlife without turning it into a total party town. And if you’re a parent that’s interested in a wine-tasting weekend, SLO is a more family friendly option than Napa and Sonoma.
 
@@ -19,10 +19,10 @@ SLO is also home to some truly unique places to stay, which you’ll appreciate 
 
 <p class="f3 pt3 lh-title" style="font-family: 'Gilroy-ExtraBold'">For couples & families — <a href="https://www.applefarm.com/" target="_blank" class="link underline-hover orange">The Apple Farm</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $239/Night</span></p>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/slo/AppleFarm1.png">
+<img src="../images/slo/AppleFarm1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3">
-<img src="../images/slo/AppleFarm2.png">
+<img src="../images/slo/AppleFarm2.jpg">
 </div>
 Maybe you’re an east coast transplant living out west but you’re missing that fall-in-New-England lifestyle right about now. Apple cider doughnuts, upstate farms, the whole shebang. Well, the Apple Farm could be your home away from home. In true B&B fashion no two rooms are exactly alike, and they somehow manage to pull off that grandma’s cottage aesthetic without feeling stuffy. The beautiful, well-kept grounds include a working waterwheel, a restaurant (which I’d recommend hitting up for brunch), and a gift shop where you can buy the apple butter they make on site. Other fancy amenities include complimentary wine on check-in and a fireplace in each room. If you’re one of those people who can’t shut up about fall being their favorite season, well, this one’s for you.
 
@@ -30,10 +30,10 @@ Maybe you’re an east coast transplant living out west but you’re missing tha
 
 <p class="f3 pt3 lh-title" style="font-family: 'Gilroy-ExtraBold'">For solo travellers — <a href="http://www.granadahotelandbistro.com/" target="_blank" class="link underline-hover orange">Granada Hotel & Bistro</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $199/Night</span></p>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/slo/Granada1.png">
+<img src="../images/slo/Granada1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3">
-<img src="../images/slo/Granada2.png">
+<img src="../images/slo/Granada2.jpg">
 </div>
 I had the pleasure of visiting Granada Bistro when it was just a tiny, jewel-box sized bar. It has since changed owners and is now a tiny, jewel-sized hotel as well, with its size only adding to its charm. The original building is rumored to have been a brothel during the 20s, and so many of the hotel’s design cues intentionally hark back to that era. Granada is located downtown, right in the middle of all the action and walking distance to several bars and restaurants. This is exactly the type of place I would stay if I were "trying to get away from it all" or write the next great American novel (we're all working on that one, right?). Your stay also includes a complimentary <a href="https://www.linusbike.com/">Linus bike</a> for use.
 
@@ -43,10 +43,10 @@ I had the pleasure of visiting Granada Bistro when it was just a tiny, jewel-box
 <p class="f3 pt3 lh-title" style="font-family: 'Gilroy-ExtraBold'">For big celebrations — <a href="http://www.madonnainn.com/" target="_blank" class="link underline-hover orange">Madonna Inn</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $219/Night</span></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/slo/Madonna1.png">
+<img src="../images/slo/Madonna1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3">
-<img src="../images/slo/Madonna2.png">
+<img src="../images/slo/Madonna2.jpg">
 </div>
 
 This kitschy landmark motel first opened in the late 1950s and suffice to say, the current aesthetic is very much a product of its time. Each of the one hundred and ten rooms is uniquely themed and decorated by Mrs. Madonna, from the whimsical <a href="http://www.madonnainn.com/rooms/203.php">Wilhelm Tell</a>, which could pass for the set of an Anna Biller film, to <a href="http://www.madonnainn.com/rooms/143.php">Rock Bottom</a>, an over-the-top man cave. The Madonna Inn manages to embrace both over-the-top sweetness with a western edge, like a Las Vegas wedding chapel meets a California ranch. It’s the perfect place to stay for bachelor or bachelorette parties, birthdays, anniversaries— any occasion where you need to go big or go home. We also can’t talk about The Madonna Inn without mentioning their eclectic restaurant, the Gold Rush Steakhouse, but more on that later… ;) Check out this <a href="https://www.buzzfeed.com/louispeitzman/the-madonna-inn-rooms-you-have-to-stay-in-before-you-die?utm_term=.be2DgOeeW#.agaR8zggm">BuzzFeed post</a> about the most iconic rooms.
@@ -55,10 +55,10 @@ This kitschy landmark motel first opened in the late 1950s and suffice to say, t
 
 <p class="f3 pt3 lh-title" style="font-family: 'Gilroy-ExtraBold'">For homebodies — <a href="https://www.airbnb.com/rooms/9851897" target="_blank" class="link underline-hover orange">Coyote Tiny House</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $129/Night</span></p>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/slo/Coyote1.png">
+<img src="../images/slo/Coyote1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3">
-<img src="../images/slo/Coyote2.png">
+<img src="../images/slo/Coyote2.jpg">
 </div>
 Okay, so I cheated a little and this Airbnb home is actually located just outside of the neighboring town of Paso Robles. But this is still a totally legit option for a homebase when visiting SLO, especially if you want to avoid the downtown traffic and nightlife while being closer to the outdoors and many wineries. The house sits on 10 acres of land and is owned and operated by a family that also lives on the land nearby. Hat tip to my friend Kat for finding this lovely place!
 
@@ -70,7 +70,7 @@ I was really hoping to recommend <a href="https://www.yelp.com/biz/the-sanitariu
 
 <div class="fl w-100 mb4">
 <div class="fl w-100 w-50-ns">
-<img src="../images/slo/HotSprings.png">
+<img src="../images/slo/HotSprings.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl4-ns">
 <p class="f4 mb1 lh-title mt0-ns mt3" style="font-family: 'Gilroy-ExtraBold'"><a href="https://www.sycamoresprings.com/mineral-springs-resort/" class="link underline-hover orange" target="_blank">Hillside Mineral Hot Tubs @ Sycamore Springs</a></p>
@@ -81,7 +81,7 @@ I was really hoping to recommend <a href="https://www.yelp.com/biz/the-sanitariu
 
 <div class="fl w-100 mb4">
 <div class="fl w-100 w-50-ns">
-<img src="../images/slo/SplashCafe.png">
+<img src="../images/slo/SplashCafe.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl4-ns">
 <p class="f4 mb1 lh-title mt0-ns mt3" style="font-family: 'Gilroy-ExtraBold'">Pismo or Avila Beach</p>
@@ -92,7 +92,7 @@ I was really hoping to recommend <a href="https://www.yelp.com/biz/the-sanitariu
 
 <div class="fl w-100 mb4">
 <div class="fl w-100 w-50-ns">
-<img src="../images/slo/GoldRush.png">
+<img src="../images/slo/GoldRush.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl4-ns">
 <p class="f4 mb1 lh-title mt0-ns mt3" style="font-family: 'Gilroy-ExtraBold'"><a href="http://www.madonnainn.com/steakhouse.php" target="_blank" class="link underline-hover red">Alex Madonna's Gold Rush Steakhouse</a></p>
@@ -103,7 +103,7 @@ I was really hoping to recommend <a href="https://www.yelp.com/biz/the-sanitariu
 
 <div class="fl w-100 mb4">
 <div class="fl w-100 w-50-ns">
-<img src="../images/slo/KelseyWines.png">
+<img src="../images/slo/KelseyWines.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl4-ns">
 <p class="f4 mb1 lh-title mt0-ns mt3" style="font-family: 'Gilroy-ExtraBold'">Wine Tasting</p>
@@ -115,7 +115,7 @@ I was really hoping to recommend <a href="https://www.yelp.com/biz/the-sanitariu
 
 <div class="fl w-100 mb4">
 <div class="fl w-100 w-50-ns">
-<img src="../images/slo/BigSkyCafe.png">
+<img src="../images/slo/BigSkyCafe.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl4-ns">
 <p class="f4 mb1 lh-title mt0-ns mt3" style="font-family: 'Gilroy-ExtraBold'"><a href="http://bigskycafe.com/" target="_blank" class="link underline-hover orange">Big Sky Cafe</a></p>
@@ -126,7 +126,7 @@ I was really hoping to recommend <a href="https://www.yelp.com/biz/the-sanitariu
 
  <div class="fl w-100 mb4">
  <div class="fl w-100 w-50-ns">
- <img src="../images/slo/BluffTrail.png">
+ <img src="../images/slo/BluffTrail.jpg">
  </div>
  <div class="fl w-100 w-50-ns pl4-ns">
 <p class="f4 mb1 lh-title mt0-ns mt3" style="font-family: 'Gilroy-ExtraBold'">Hiking</p>

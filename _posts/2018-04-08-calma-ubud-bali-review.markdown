@@ -3,7 +3,7 @@ layout: longform
 title:  "Hotel Review: Calma Ubud in Ubud, Bali"
 author: Sabrina Majeed
 date:   2018-04-08 00:10:36 -0400
-thumbnail: ../images/calma/splash.png
+thumbnail: ../images/calma/splash.jpg
 categories: review
 ---
 
@@ -13,7 +13,7 @@ categories: review
 <p class="f7 di"><b>Who Stayed:</b> Sabrina & Her Best Friend</p>
 </div>
 
-<img class="mt4-ns mt3 mb4-ns mb3" src="/images/calma/splash.png">
+<img class="mt4-ns mt3 mb4-ns mb3" src="/images/calma/splash.jpg">
 
 <p class="pb4 f4" style="max-width: 650px; margin: auto;">
 A ten minute motorbike ride outside of central Ubud is the residential village Kutuh Kaja, where at night the skies are dotted with more stars than many of us city dwellers are used to seeing, and by day large swaths of rice fields dominate the scenery. Here is where you'll find the <a href="https://www.agoda.com/partners/partnersearch.aspx?cid=1801609&pcs=1&hl=en&hid=1258271" targt="new">Calma Ubud</a>, the most accurate picture of a boutique hotel if there ever was one, and one of the best values in Ubud.</p>
@@ -27,10 +27,10 @@ The Calma Ubud consists of ten individual rooms set in what feels like a very pr
 Checking in at the Ubud was a fairly straight forward process, although finding the hotel for the first time is a little tricker— keep those eagle eyes out because it's very easy to drive by as the hotel blends so seamlessly into the surrounding area.</p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/calma/6.png">
+<img src="../images/calma/6.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/calma/3.png">
+<img src="../images/calma/3.jpg">
 </div>
 
 <p class="pb4-ns pb3" style="max-width: 650px; margin: auto;">
@@ -43,20 +43,20 @@ The Calma's lobby is open aired and elegantly decorated, a little taste of what'
 We had booked a "Superior Room" and honestly I was a little surprised at the size of the bedroom, which was smaller than I had expected. The Calma Ubud has ten rooms but six different room types, and it gets kind of confusing to keep track of the hierarchy here. I think I had mistaken the "Superior Room" for the "Superior Double or Twin" which appears a little more spacious in photos.</p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb2-ns">
-<img src="../images/calma/1.png">
+<img src="../images/calma/1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/calma/5.png">
+<img src="../images/calma/5.jpg">
 </div>
 
 <p class="pb4-ns pb3" style="max-width: 650px; margin: auto;">
 Nonetheless, it wasn't a huge disappointment and because of the large bathroom and easy access to the hotel's common areas, we never felt cramped or like there wasn't enough room for the two of us. Since Ubud is also packed with sights to see and we had a relatively short time there (two days) we weren't spending that much time in our room anyway. Our room also included a little patio in front with two chairs, straw blind for privacy, and buddha statue out front.</p>
 
 <div class="fl w-100 mb1 mb2-ns">
-<img src="../images/calma/4.png">
+<img src="../images/calma/4.jpg">
 </div>
 <div class="fl w-100 mb3 mb4-ns">
-<img src="../images/calma/2.png">
+<img src="../images/calma/2.jpg">
 </div>
 
 <p class="pb4-ns pb3" style="max-width: 650px; margin: auto;">
@@ -68,17 +68,17 @@ The room itself was very minimal in decoration. I loved the carved white wooden 
 <p class="pb4-ns pb3" style="max-width: 650px; margin: auto;">As usual, the bathroom is always a highlight for me and the Calma Ubud is no exception. The open shower area has a skylight that fills the room with the most wonderful warm ambiance in the morning.</p>
 
 <div class="fn center mb3 mb4-ns tc" style="max-width: 650px">
-<img src="../images/calma/7.png">
+<img src="../images/calma/7.jpg">
 </div>
 
 <p class="pb4-ns pb3" style="max-width: 650px; margin: auto;">
 There was plenty of counter space around the sink for all of our things and the landscape mirror was perfect for two girls to get ready at the same time. The bathroom also has a drying rack in addition to a ladder-style towel rack.</p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb2-ns">
-<img src="../images/calma/9.png">
+<img src="../images/calma/9.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/calma/8.png">
+<img src="../images/calma/8.jpg">
 </div>
 
 
@@ -88,20 +88,20 @@ There was plenty of counter space around the sink for all of our things and the 
 </p>
 
 <div class="fl w-100 mb3 mb4-ns">
-<img src="../images/calma/18.png">
+<img src="../images/calma/18.jpg">
 </div>
 
 <p class="pb4-ns pb3" style="max-width: 650px; margin: auto;">The pool is connected to the hotel's restaurant, which is tastefully decorated with a variety of seating options: bar, coffee tables with sofas, hammocks, a large communal table, and more traditional cafe-style tables for two.
 </p>
 
 <div class="fl w-100 mb1 mb2-ns">
-<img src="../images/calma/11.png">
+<img src="../images/calma/11.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/calma/12.png">
+<img src="../images/calma/12.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/calma/13.png">
+<img src="../images/calma/13.jpg">
 </div>
 
 <p class="f3 pb2" style="max-width: 650px; margin: auto; font-family: 'Gilroy-ExtraBold';">The Service</p>
@@ -117,13 +117,13 @@ There was plenty of counter space around the sink for all of our things and the 
 <p class="pb4-ns pb3" style="max-width: 650px; margin: auto;">Despite my complaints about the slow service in the kitchen, I have to say the food itself was amazing. The strawberry crepes we had for breakfast the first day were some of the best I've ever had. I think it's super impressive albeit ambitious that their free breakfast is made to order from a decently varied menu, considering most hotels with free breakfast will either set out a buffet or limit their menu to two or three options at most. The free breakfast also includes your choice of juice or a smoothie in addition to tea and/or coffee.</p>
 
 <div class="fl w-100 mb1 mb2-ns">
-<img src="../images/calma/14.png">
+<img src="../images/calma/14.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/calma/15.png">
+<img src="../images/calma/15.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/calma/16.png">
+<img src="../images/calma/16.jpg">
 </div>
 
 <p class="f3 pb2" style="max-width: 650px; margin: auto; font-family: 'Gilroy-ExtraBold';">The Neighborhood</p>
@@ -140,7 +140,7 @@ I'm still kind of torn on whether or not I would've liked to stay in Central Ubu
 While there are ground-floor rooms available at the Calma, there are steps all over the hotel grounds that it's hard for me to recommend this place for wheelchair users. With the exception of the upper-floor suites these tend to be short flights, but they are there separating the rooms from the pathway to the restaurant, from the restaurant to the pool, from the pool to the spa area and the lounge/deck area on the other side of the pool. There are also shallow steps around the various thresholds and doorways leading to the suites from the lobby.</p>
 
 <div class="fl w-100 mb3 mb4-ns">
-<img src="../images/calma/17.png">
+<img src="../images/calma/17.jpg">
 </div>
 
 <p class="f3 pb2" style="max-width: 650px; margin: auto; font-family: 'Gilroy-ExtraBold';">TL;DR</p>
@@ -157,7 +157,7 @@ If you really want to go "all out" during your stay to Ubud there are definitely
 
 <div class="fl w-100 w-50-ns pr2-ns mb4">
   <a href="http://theinnbox.co/birdhouse-el-nido-review/"><div class="relative" style="height: 450px; background-color:#ECEAE7;">
-    <div class="bg-center cover" style="background-image: url('../images/birdhouse/1.png'); padding-bottom:100%; width:100%;"></div>
+    <div class="bg-center cover" style="background-image: url('../images/birdhouse/1.jpg'); padding-bottom:100%; width:100%;"></div>
     <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
       <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
       <a class="f5 lh-title post-link" href="http://theinnbox.co/birdhouse-el-nido-review/">Hotel Review: The Birdhouse El Nido in Palawan, Philippines</a>
@@ -169,7 +169,7 @@ If you really want to go "all out" during your stay to Ubud there are definitely
 
 <div class="fl w-100 w-50-ns pl2-ns mb1 mb0-ns">
   <a href="http://theinnbox.co/the-slow-canggu-bali-review/"><div class="relative" style="height: 450px; background-color:#ECEAE7;">
-    <div class="bg-center cover" style="background-image: url('../images/slow/01.png'); padding-bottom:100%; width:100%;"></div>
+    <div class="bg-center cover" style="background-image: url('../images/slow/01.jpg'); padding-bottom:100%; width:100%;"></div>
     <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
       <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
       <a class="f5 lh-title post-link" href="http://theinnbox.co/the-slow-canggu-bali-review/">Hotel Review: The Slow in Canggu, Bali</a>

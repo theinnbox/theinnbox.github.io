@@ -3,13 +3,13 @@ layout: longform
 title:  Vacation like the protagonist in a romantic film with 8 affordable movie set alternatives.
 author: Sabrina Majeed
 date:   2018-07-08 00:10:36 -0400
-thumbnail: ../images/moviespots/romanticmovieheader.png
+thumbnail: ../images/moviespots/romanticmovieheader.jpg
 categories: list
 ---
 
 
 
-<img class="mt3-ns mt3 mb4-ns mb3" src="../images/moviespots/romanticmovieheader.png">
+<img class="mt3-ns mt3 mb4-ns mb3" src="../images/moviespots/romanticmovieheader.jpg">
 
 <p class="pb3" style="max-width: 650px; margin: auto;">If you've been on Netflix lately, you've probably noticed that the romantic comedy is having a comeback (I'm talking about <i>Set It Up</i>, which is so so good). It's a good thing too because I, for one, am starving for the tastefully decorated apartments and wanderlust-inducing locales that the genre (along with it's parent category, romance) often sweeps us away to.</p>
 
@@ -20,16 +20,16 @@ categories: list
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">1. <i>Under The Tuscan Sun</i> — <a href="https://www.airbnb.com/rooms/9676103?wl_source=list&wl_id=329621833&role=wishlist_owner&adults=1&children=0&infants=0" target="_blank" class="link underline-hover orange">La Villa Scoula</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $118/Night</span></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/moviespots/tuscan_1.png">
+<img src="../images/moviespots/tuscan_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb2">
-<img src="../images/moviespots/tuscan_2.png">
+<img src="../images/moviespots/tuscan_2.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/moviespots/tuscan_3.png">
+<img src="../images/moviespots/tuscan_3.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/moviespots/tuscan_4.png">
+<img src="../images/moviespots/tuscan_4.jpg">
 </div>
 
 <p class="pb2" style="max-width: 650px; margin: auto;">
@@ -41,16 +41,16 @@ In <i>Under the Tuscan Sun</i> Diane Lane plays a divorcée who spontaneously bu
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">2. <i>Mamma Mia!</i> — <a href="https://www.airbnb.com/rooms/2863822" target="_blank" class="link underline-hover orange">"Mirabilia Skopelos"</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $42/Night</span></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/moviespots/mammamia_1.png">
+<img src="../images/moviespots/mammamia_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb2">
-<img src="../images/moviespots/mammamia_2.png">
+<img src="../images/moviespots/mammamia_2.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/moviespots/mammamia_3.png">
+<img src="../images/moviespots/mammamia_3.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/moviespots/mammamia_4.png">
+<img src="../images/moviespots/mammamia_4.jpg">
 </div>
 
 <p id="anchor" class="pb2" style="max-width: 650px; margin: auto;">
@@ -62,16 +62,16 @@ The movie musical that launched a thousand trips to Greece. In the movie, Meryl 
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">3. <i>Leap Year</i> — <a href="https://www.airbnb.com/rooms/16828159" target="_blank" class="link underline-hover orange">Geoghegans Old Stone Cottage</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $67/Night</span></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/moviespots/leapyear_1.png">
+<img src="../images/moviespots/leapyear_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb2">
-<img src="../images/moviespots/leapyear_2.png">
+<img src="../images/moviespots/leapyear_2.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/moviespots/leapyear_3.png">
+<img src="../images/moviespots/leapyear_3.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/moviespots/leapyear_4.png">
+<img src="../images/moviespots/leapyear_4.jpg">
 </div>
 
 <p class="pb2" style="max-width: 650px; margin: auto;">
@@ -82,16 +82,16 @@ In <i>Leap Year</i>, Amy Adams hires a surly Irishman played by Matthew Goode to
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">4. <i>The Notebook</i> — <a href="https://www.airbnb.com/rooms/14995365" target="_blank" class="link underline-hover orange">Historical Southern Home in Paradise</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $200/Night</span></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/moviespots/notebook_1.png">
+<img src="../images/moviespots/notebook_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb2">
-<img src="../images/moviespots/notebook_2.png">
+<img src="../images/moviespots/notebook_2.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/moviespots/notebook_3.png">
+<img src="../images/moviespots/notebook_3.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/moviespots/notebook_4.png">
+<img src="../images/moviespots/notebook_4.jpg">
 </div>
 
 <p class="pb2" style="max-width: 650px; margin: auto;">
@@ -102,16 +102,16 @@ In <i>The Notebook</i>, Ryan Gosling builds Rachel McAdams a house even though t
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">5. <i>In The Mood For Love</i> — <a href="https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1801609&hl=en&hid=3494" target="_blank" class="link underline-hover orange">The Luxe Manor</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $125/Night</span></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/moviespots/moodforlove_1.png">
+<img src="../images/moviespots/moodforlove_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb2">
-<img src="../images/moviespots/moodforlove_2.png">
+<img src="../images/moviespots/moodforlove_2.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/moviespots/moodforlove_3.png">
+<img src="../images/moviespots/moodforlove_3.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/moviespots/moodforlove_4.png">
+<img src="../images/moviespots/moodforlove_4.jpg">
 </div>
 
 <p class="pb2" style="max-width: 650px; margin: auto;">
@@ -123,16 +123,16 @@ The Luxe Manor has in-room accessibility and roll-in showers.</p>
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">6. <i>Notting Hill</i> — <a href="https://www.airbnb.com/rooms/10088507" target="_blank" class="link underline-hover orange">Beautifully Designed 2 Bedroom Near Notting Hill</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $215/Night</span></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/moviespots/nottinghill_1.png">
+<img src="../images/moviespots/nottinghill_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb2">
-<img src="../images/moviespots/nottinghill_2.png">
+<img src="../images/moviespots/nottinghill_2.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/moviespots/nottinghill_3.png">
+<img src="../images/moviespots/nottinghill_3.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/moviespots/nottinghill_4.png">
+<img src="../images/moviespots/nottinghill_4.jpg">
 </div>
 
 <p class="pb2" style="max-width: 650px; margin: auto;">
@@ -144,16 +144,16 @@ In <i>Notting Hill</i> Hugh Grant plays Will, the owner of a travel bookstore (b
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">7. <i>The Lake House</i> — <a href="https://www.candlewoodcabins.com/meadowhouse" target="_blank" class="link underline-hover orange">Meadow House</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $195/Night</span></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/moviespots/lakehouse_1.png">
+<img src="../images/moviespots/lakehouse_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb2">
-<img src="../images/moviespots/lakehouse_2.png">
+<img src="../images/moviespots/lakehouse_2.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/moviespots/lakehouse_3.png">
+<img src="../images/moviespots/lakehouse_3.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/moviespots/lakehouse_4.png">
+<img src="../images/moviespots/lakehouse_4.jpg">
 </div>
 
 <p class="pb2" style="max-width: 650px; margin: auto;">
@@ -167,16 +167,16 @@ Access to Meadow House requires ascending a flight of stairs from an unpaved roa
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">8. <i>Nights in Rodanthe</i> — <a href="https://www.airbnb.com/rooms/13980800" target="_blank" class="link underline-hover orange">Octopus' Garden Cottage</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $115/Night</span></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/moviespots/rodanthe_1.png">
+<img src="../images/moviespots/rodanthe_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb2">
-<img src="../images/moviespots/rodanthe_2.png">
+<img src="../images/moviespots/rodanthe_2.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/moviespots/rodanthe_3.png">
+<img src="../images/moviespots/rodanthe_3.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/moviespots/rodanthe_4.png">
+<img src="../images/moviespots/rodanthe_4.jpg">
 </div>
 
 <p class="pb2" style="max-width: 650px; margin: auto;">

@@ -3,12 +3,12 @@ layout: longform
 title:  "The 13 Best Airbnbs in San Francisco"
 author: Sabrina Majeed
 date:   2018-02-04 00:10:36 -0400
-thumbnail: ../images/sf/sf_bnb_header.png
+thumbnail: ../images/sf/sf_bnb_header.jpg
 categories: list
 ---
 
 <p class="pb3" style="max-width: 650px; margin: auto;">
-<img class="mt3-ns mt3 mb4-ns mb3" src="/images/sf/sf_bnb_header.png">
+<img class="mt3-ns mt3 mb4-ns mb3" src="/images/sf/sf_bnb_header.jpg">
 San Francisco is our most requested city to cover, so we're starting out with a deep dive into the city's Airbnb scene. Before moving to New York I spent my first two years out of college living in San Francisco and I'm still nostalgic for the beautifully painted Victorians and breathless bay windows. Not to mention the space! Sure, New York and San Francisco are equally crippling expensive but at least you can rely on San Francisco's California address for a few extra square feet and pleasant weather to distract you from the burning hole in your paycheck.</p>
 
 <p class="pb4-ns pb3" style="max-width: 650px; margin: auto;">
@@ -19,10 +19,10 @@ The other good news is that Airbnbs in San Francisco are actually quite reasonab
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;"><a href="https://www.airbnb.com/rooms/11924237" target="_blank" class="link underline-hover orange">"The Pavilion"</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $120/Night</span></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/sf/solo_pavilion_1.png">
+<img src="../images/sf/solo_pavilion_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb3-ns">
-<img src="../images/sf/solo_pavilion_2.png">
+<img src="../images/sf/solo_pavilion_2.jpg">
 </div>
 
 <p class="pb2" style="max-width: 650px; margin: auto;">
@@ -33,10 +33,10 @@ This so called tiny house has everything you could ever need or want: big window
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;"><a href="https://www.airbnb.com/rooms/14804950" target="_blank" class="link underline-hover orange">"Private Bernal Heights Studio"</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $90/Night</span></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/sf/solo_bernal_1.png">
+<img src="../images/sf/solo_bernal_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb3-ns">
-<img src="../images/sf/solo_bernal_2.png">
+<img src="../images/sf/solo_bernal_2.jpg">
 </div>
 
 <p class="pb2" id="anchor" style="max-width: 650px; margin: auto;">
@@ -47,10 +47,10 @@ Have you ever wandered around the IKEA showroom and wished that your apartment c
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;"><a href="https://www.airbnb.com/rooms/16824774" target="_blank" class="link underline-hover orange">"Sunny Misson/Noe/Bernal Studio"</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $110/Night</span></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/sf/solo_mnb_1.png">
+<img src="../images/sf/solo_mnb_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb3-ns">
-<img src="../images/sf/solo_mnb_2.png">
+<img src="../images/sf/solo_mnb_2.jpg">
 </div>
 
 <p class="pb2" style="max-width: 650px; margin: auto;">
@@ -63,10 +63,10 @@ This studio has a brilliant layout and big windows for soaking up all that Calif
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;"><a href="https://www.airbnb.com/rooms/14917006" target="_blank" class="link underline-hover orange">"Noe Apartment with Luscious Garden"</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $135/Night</span></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/sf/pair_plant_1.png">
+<img src="../images/sf/pair_plant_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb3-ns">
-<img src="../images/sf/pair_plant_2.png">
+<img src="../images/sf/pair_plant_2.jpg">
 </div>
 
 <p class="pb2" style="max-width: 650px; margin: auto;">
@@ -77,10 +77,10 @@ We love the dark, moody vibes of this abode, which will please any plant lover. 
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;"><a href="https://www.airbnb.com/rooms/8192881" target="_blank" class="link underline-hover orange">"Modern Cole Valley Studio"</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $150/Night</span></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/sf/pair_cole_1.png">
+<img src="../images/sf/pair_cole_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb3-ns">
-<img src="../images/sf/pair_cole_2.png">
+<img src="../images/sf/pair_cole_2.jpg">
 </div>
 
 <p class="pb2" style="max-width: 650px; margin: auto;">
@@ -91,10 +91,10 @@ If dark and cozy basements aren't your thing, then this light-filled top unit ma
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;"><a href="https://www.airbnb.com/rooms/14996188" target="_blank" class="link underline-hover orange">"Private Golden Gate Park Suite"</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $130/Night</span></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/sf/pair_gg_1.png">
+<img src="../images/sf/pair_gg_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb3-ns">
-<img src="../images/sf/pair_gg_2.png">
+<img src="../images/sf/pair_gg_2.jpg">
 </div>
 
 <p class="pb2" style="max-width: 650px; margin: auto;">
@@ -105,16 +105,16 @@ A gorgeous, light-filled apartment close to Golden Gate Park and the vibrant Inn
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;"><a href="https://www.airbnb.com/rooms/18359884" target="_blank" class="link underline-hover orange">"Executive Garden Studio"</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $250/Night</span></p>
 
 <div class="fl w-50 w-25-ns pr1-ns mb1 mb0-ns">
-<img src="../images/sf/pair_exec_1.png">
+<img src="../images/sf/pair_exec_1.jpg">
 </div>
 <div class="fl w-50 w-25-ns pr1-ns mb1 mb0-ns">
-<img src="../images/sf/pair_exec_2.png">
+<img src="../images/sf/pair_exec_2.jpg">
 </div>
 <div class="fl w-50 w-25-ns pr1-ns mb1 mb0-ns">
-<img src="../images/sf/pair_exec_3.png">
+<img src="../images/sf/pair_exec_3.jpg">
 </div>
 <div class="fl w-50 w-25-ns pl1-ns mb3 mb3-ns">
-<img src="../images/sf/pair_exec_4.png">
+<img src="../images/sf/pair_exec_4.jpg">
 </div>
 
 <p class="pb2" style="max-width: 650px; margin: auto;">
@@ -127,10 +127,10 @@ This apartment is serving executive realness with its sumptuous velvet and leath
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;"><a href="https://www.airbnb.com/rooms/20077167" target="_blank" class="link underline-hover orange">"Quiet & Comfy Mission"</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $130/Night</span></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/sf/group_mission_1.png">
+<img src="../images/sf/group_mission_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb3-ns">
-<img src="../images/sf/group_mission_2.png">
+<img src="../images/sf/group_mission_2.jpg">
 </div>
 
 <p class="pb2" style="max-width: 650px; margin: auto;">
@@ -141,10 +141,10 @@ This spacious Mission apartment is an incredible value, especially when fully oc
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;"><a href="https://www.airbnb.com/rooms/7845599" target="_blank" class="link underline-hover orange">"The Ugliest Dump In The World"</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $150/Night</span></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/sf/group_ugly_1.png">
+<img src="../images/sf/group_ugly_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb3-ns">
-<img src="../images/sf/group_ugly_2.png">
+<img src="../images/sf/group_ugly_2.jpg">
 </div>
 
 <p class="pb2" style="max-width: 650px; margin: auto;">
@@ -155,10 +155,10 @@ The San Francisco design aesthetic these days is sunny and minimal— and I love
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;"><a href="https://www.airbnb.com/rooms/2612741" target="_blank" class="link underline-hover orange">"Cozy Garden Cottage"</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $200/Night</span></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/sf/group_garden_1.png">
+<img src="../images/sf/group_garden_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb3-ns">
-<img src="../images/sf/group_garden_2.png">
+<img src="../images/sf/group_garden_2.jpg">
 </div>
 
 <p class="pb2" style="max-width: 650px; margin: auto;">
@@ -171,10 +171,10 @@ This Castro apartment is full of personality and splashes of vibrant color, incl
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;"><a href="https://www.airbnb.com/rooms/14826774" target="_blank" class="link underline-hover orange">"Luxury Loft in SOMA"</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $459/Night</span></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/sf/bg_soma_1.png">
+<img src="../images/sf/bg_soma_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb3-ns">
-<img src="../images/sf/bg_soma_2.png">
+<img src="../images/sf/bg_soma_2.jpg">
 </div>
 
 <p class="pb2" style="max-width: 650px; margin: auto;">
@@ -185,10 +185,10 @@ This industrial-style loft is a classic example of SOMA residences, and a fantas
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;"><a href="https://www.airbnb.com/rooms/6107359" target="_blank" class="link underline-hover orange">"Mission Foodie Paradise"</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $284/Night</span></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/sf/bg_mission_1.png">
+<img src="../images/sf/bg_mission_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb3-ns">
-<img src="../images/sf/bg_mission_2.png">
+<img src="../images/sf/bg_mission_2.jpg">
 </div>
 
 <p class="pb2" style="max-width: 650px; margin: auto;">
@@ -199,10 +199,10 @@ This apartment is located in the same area of the Mission I used to live and in 
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;"><a href="https://www.airbnb.com/rooms/20126616" target="_blank" class="link underline-hover orange">"The Location You Want"</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $420/Night</span></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/sf/bg_mission_3.png">
+<img src="../images/sf/bg_mission_3.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb3-ns">
-<img src="../images/sf/bg_mission_4.png">
+<img src="../images/sf/bg_mission_4.jpg">
 </div>
 
 <p class="pb2" style="max-width: 650px; margin: auto;">
@@ -214,7 +214,7 @@ Another East Mission abode, although this one is filled with quirky and artful l
 
 <div class="fl w-100 w-50-ns pr2-ns mb3 mb0-ns">
   <a href="http://theinnbox.co/best-airbnbs-austin-texas/"><div class="relative" style="height: 450px; background-color:#ECEAE7;">
-    <div class="bg-center cover" style="background-image: url('../images/austin/stay_header.png'); padding-bottom:100%; width:100%;"></div>
+    <div class="bg-center cover" style="background-image: url('../images/austin/stay_header.jpg'); padding-bottom:100%; width:100%;"></div>
     <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
       <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
       <a class="f5 lh-title post-link" href="http://theinnbox.co/best-airbnbs-austin-texas/">Where to Stay in Austin, Texas— Including the 9 Best Airbnbs</a>
@@ -226,7 +226,7 @@ Another East Mission abode, although this one is filled with quirky and artful l
 
 <div class="fl w-100 w-50-ns pl2-ns mb1 mb0-ns">
   <a href="http://theinnbox.co/best-airbnbs-asheville-north-carolina/"><div class="relative" style="height: 450px; background-color:#ECEAE7;">
-    <div class="bg-center cover" style="background-image: url('../images/asheville/asheville_header.png'); padding-bottom:100%; width:100%;"></div>
+    <div class="bg-center cover" style="background-image: url('../images/asheville/asheville_header.jpg'); padding-bottom:100%; width:100%;"></div>
     <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
       <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
       <a class="f5 lh-title post-link" href="http://theinnbox.co/best-airbnbs-asheville-north-carolina/">The 13 Best Airbnbs in Asheville, North Carolina</a>

@@ -3,11 +3,11 @@ layout: post
 title:  "Why right now is actually a good and most helpful time to visit Mexico City"
 author: Sabrina Majeed
 date:   2017-10-16 00:10:36 -0400
-thumbnail: ../images/mexicocity/MexicoCity_Header.png
+thumbnail: ../images/mexicocity/MexicoCity_Header.jpg
 categories: travel guide
 ---
 
-![](../images/mexicocity/MexicoCity_Header.png)
+![](../images/mexicocity/MexicoCity_Header.jpg)
 
 So it wasn’t my original intention to write about Mexico City for the first issue of The InnBox. I was just there last week and I usually like a little more time to process and reflect before writing about a place I’ve visited. However, the aftermath of the earthquake on September 19th has presented a sense of urgency.
 
@@ -36,7 +36,7 @@ If you’re still not convinced, then consider the fact that many of the otherwi
 <img src="../images/mexicocity/Itza1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3">
-<img src="../images/mexicocity/Itza3.png">
+<img src="../images/mexicocity/Itza3.jpg">
 </div>
 This is the hotel we chose to stay at, and I absolutely adored it. The place is low-key, kind of like staying in an Airbnb with 24 hour security and a daily cleaning service. They have hostel-style rooms with bunk beds starting as low as $60 per night, or if you’re a family or group of friends you can opt for one of their lofts rooms at $189. Keep in mind that the bedrooms in the lofts do not have doors, so privacy is limited. The building itself is beautiful and perfectly located in Hipódromo, putting it right in between the popular Roma and Condesa neighborhoods, next to tons of great restaurants and bars, and also right across from Parque Mexico, and if you’re a dog lover this is definitely the place you want to be.
 
@@ -94,7 +94,7 @@ Hat tip to my friend Gopal, who told me about his experience staying in an Airbn
 
 <div class="fl w-100 mb4">
 <div class="fl w-100 w-50-ns">
-<img src="../images/mexicocity/StreetFoodTour.png">
+<img src="../images/mexicocity/StreetFoodTour.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl4-ns">
 <p class="f4 mb1 lh-title mt0-ns mt3" style="font-family: 'Gilroy-ExtraBold'">Street Food Tour</p>
@@ -104,7 +104,7 @@ Hat tip to my friend Gopal, who told me about his experience staying in an Airbn
 
 <div class="fl w-100 mb4">
 <div class="fl w-100 w-50-ns">
-<img src="../images/mexicocity/Pujol.png">
+<img src="../images/mexicocity/Pujol.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl4-ns">
 <p class="f4 mb1 lh-title mt0-ns mt3" style="font-family: 'Gilroy-ExtraBold'"><a href="https://www.pujol.com.mx/" target="_blank" class="link underline-hover red">Pujol</a></p>
@@ -126,7 +126,7 @@ Hat tip to my friend Gopal, who told me about his experience staying in an Airbn
 
 <div class="fl w-100 mb4">
 <div class="fl w-100 w-50-ns">
-<img src="../images/mexicocity/Anthropologia.png">
+<img src="../images/mexicocity/Anthropologia.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl4-ns">
 <p class="f4 mb1 lh-title mt0-ns mt3" style="font-family: 'Gilroy-ExtraBold'"><a href="http://www.mna.inah.gob.mx/" target="_blank" class="link underline-hover orange">Museo Nacional de Antropología</a></p>
@@ -136,7 +136,7 @@ Hat tip to my friend Gopal, who told me about his experience staying in an Airbn
 
  <div class="fl w-100 mb4">
  <div class="fl w-100 w-50-ns">
- <img src="../images/mexicocity/Biblioteca.png">
+ <img src="../images/mexicocity/Biblioteca.jpg">
  </div>
  <div class="fl w-100 w-50-ns pl4-ns">
 <p class="f4 mb1 lh-title mt0-ns mt3" style="font-family: 'Gilroy-ExtraBold'">Biblioteca Vasconcelos</p>

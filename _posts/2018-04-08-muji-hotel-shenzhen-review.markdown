@@ -256,7 +256,7 @@ Mintlodica is Susan’s creative studio. Check out her studio’s <a href="https
 
 <div class="fl w-100 w-50-ns pr2-ns mb4">
   <a href="http://theinnbox.co/birdhouse-el-nido-review/"><div class="relative" style="height: 450px; background-color:#ECEAE7;">
-    <div class="bg-center cover" style="background-image: url('../images/birdhouse/1.png'); padding-bottom:100%; width:100%;"></div>
+    <div class="bg-center cover" style="background-image: url('../images/birdhouse/1.jpg'); padding-bottom:100%; width:100%;"></div>
     <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
       <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
       <a class="f5 lh-title post-link" href="http://theinnbox.co/birdhouse-el-nido-review/">Hotel Review: The Birdhouse El Nido in Palawan, Philippines</a>
@@ -268,7 +268,7 @@ Mintlodica is Susan’s creative studio. Check out her studio’s <a href="https
 
 <div class="fl w-100 w-50-ns pl2-ns mb1 mb0-ns">
   <a href="http://theinnbox.co/marina-bay-sands-singapore-review/"><div class="relative" style="height: 450px; background-color:#ECEAE7;">
-    <div class="bg-center cover" style="background-image: url('../images/mbs/17.png'); padding-bottom:100%; width:100%;"></div>
+    <div class="bg-center cover" style="background-image: url('../images/mbs/17.jpg'); padding-bottom:100%; width:100%;"></div>
     <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
       <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
       <a class="f5 lh-title post-link" href="http://theinnbox.co/marina-bay-sands-singapore-review/">Hotel Review: The Marina Bay Sands in Singapore</a>
