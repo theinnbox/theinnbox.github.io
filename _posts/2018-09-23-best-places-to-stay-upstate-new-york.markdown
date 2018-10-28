@@ -6,6 +6,8 @@ author_ig: sabrinasans
 date:   2018-09-23 00:10:36 -0400
 thumbnail: ../images/upstate/arnold_1.jpg
 categories: list
+related_posts: [/best-boutique-hotels-paris, /where-to-stay-palm-springs]
+related_posts_custom_title: "Check out more of our where-to-stay roundups"
 ---
 
 
@@ -364,29 +366,3 @@ I saved my personal favorite for last. This Hudson property was originally built
 
 <p class="f6 i light-silver pb4" style="max-width: 650px; margin: auto;">
 One of This Old Hudson's units is located on the ground floor, but we recommend reaching out directly to the host for more accessibility details.</p>
-
-<p class="tc f3 pt5 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'">Check out more of our where-to-stay roundups:</p>
-
-<div class="fl w-100 w-50-ns pr2-ns mb4">
-  <a href="http://theinnbox.co/best-boutique-hotels-paris/"><div class="relative" style="height: 450px; background-color:#ECEAE7;">
-    <div class="bg-center cover" style="background-image: url('http://theinnbox.co/images/paris/paris_header.jpg'); padding-bottom:100%; width:100%;"></div>
-    <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
-      <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
-      <a class="f5 lh-title post-link" href="http://theinnbox.co/best-boutique-hotels-paris/">The 7 best boutique hotels in Paris under $300</a>
-      </h2>
-    </div>
-  </div>
-</a>
-</div>
-
-<div class="fl w-100 w-50-ns pl2-ns mb1 mb0-ns">
-  <a href="http://theinnbox.co/where-to-stay-palm-springs/"><div class="relative" style="height: 450px; background-color:#ECEAE7;">
-    <div class="bg-center cover" style="background-image: url('http://theinnbox.co/images/palmsprings/ps_header.jpg'); padding-bottom:100%; width:100%;"></div>
-    <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
-      <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
-      <a class="f5 lh-title post-link" href="http://theinnbox.co/where-to-stay-palm-springs/">8 Places to Stay in Palm Springs that aren't the Ace Hotel & Pool Club</a>
-      </h2>
-    </div>
-  </div>
-</a>
-</div>

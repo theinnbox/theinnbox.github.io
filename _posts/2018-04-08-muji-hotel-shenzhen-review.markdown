@@ -8,6 +8,7 @@ thumbnail: ../images/muji/00_Cover.jpg
 categories: review
 review_dates: "April 5 — 6, 2018"
 review_rate: 150
+related_posts: [/birdhouse-el-nido-review, /marina-bay-sands-singapore-review]
 ---
 
 <img class="mt4-ns mt3 mb4-ns mb3" src="/images/muji/00_Cover.jpg">
@@ -247,30 +248,3 @@ If you found this review helpful, please let the MUJI Hotel know when you book!<
 
 <p class="pb3" style="max-width: 650px; margin: auto;">
 Mintlodica is Susan’s creative studio. Check out her studio’s <a href="https://twitter.com/mintlodica">Twitter</a> and <a href="https://www.instagram.com/mintlodica/">Instagram</a>. If you are looking for art for your walls, check out her <a href="https://susan.level.press/">art prints shop</a>! She also offers <a href="http://mintlodica.storenvy.com/">shiba inu pixel art apparel</a> and has a <a href="http://mintlodica.tictail.com/">limited edition enamel pin</a> up for grabs.</p>
-
-
-<p class="tc f3 pt5 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'">Check out more of our hotel reviews:</p>
-
-<div class="fl w-100 w-50-ns pr2-ns mb4">
-  <a href="http://theinnbox.co/birdhouse-el-nido-review/"><div class="relative" style="height: 450px; background-color:#ECEAE7;">
-    <div class="bg-center cover" style="background-image: url('../images/birdhouse/1.jpg'); padding-bottom:100%; width:100%;"></div>
-    <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
-      <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
-      <a class="f5 lh-title post-link" href="http://theinnbox.co/birdhouse-el-nido-review/">Hotel Review: The Birdhouse El Nido in Palawan, Philippines</a>
-      </h2>
-    </div>
-  </div>
-</a>
-</div>
-
-<div class="fl w-100 w-50-ns pl2-ns mb1 mb0-ns">
-  <a href="http://theinnbox.co/marina-bay-sands-singapore-review/"><div class="relative" style="height: 450px; background-color:#ECEAE7;">
-    <div class="bg-center cover" style="background-image: url('../images/mbs/17.jpg'); padding-bottom:100%; width:100%;"></div>
-    <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
-      <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
-      <a class="f5 lh-title post-link" href="http://theinnbox.co/marina-bay-sands-singapore-review/">Hotel Review: The Marina Bay Sands in Singapore</a>
-      </h2>
-    </div>
-  </div>
-</a>
-</div>

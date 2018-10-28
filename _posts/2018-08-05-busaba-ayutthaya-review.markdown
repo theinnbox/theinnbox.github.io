@@ -9,6 +9,7 @@ categories: review
 review_dates: "June 18 — 19, 2018"
 review_rate: 54
 review_guests: "Three Companions"
+related_posts: [/hotel-1-busan-review, /my-love-inn-lijiang-review]
 ---
 
 
@@ -168,30 +169,4 @@ I highly recommend the Busaba for those on a budget who still want to stay somew
 <p class="lh-copy">
 Please use our link below to book at Busaba Ayutthaya (or any other hotel!). The InnBox may collect a small share of sales.</p>
 <a target="_blank" class="f5 link ba bw1 ph3 pv2 mb2 dib orange" href="https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1801609&hid=4489474">Book your stay @ Busaba Ayutthaya</a>
-</div>
-
-<p class="tc f3 pt5 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'">Check out more of our hotel reviews:</p>
-
-<div class="fl w-100 w-50-ns pr2-ns mb4">
-  <a href="http://theinnbox.co/hotel-1-busan-review/"><div class="relative" style="height: 450px; background-color:#ECEAE7;">
-    <div class="bg-center cover" style="background-image: url('../images/hotel1/04.jpg'); padding-bottom:100%; width:100%;"></div>
-    <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
-      <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
-      <a class="f5 lh-title post-link" href="http://theinnbox.co/hotel-1-busan-review/">Hotel Review: Hotel 1 in Busan, South Korea</a>
-      </h2>
-    </div>
-  </div>
-</a>
-</div>
-
-<div class="fl w-100 w-50-ns pl2-ns mb1 mb0-ns">
-  <a href="http://theinnbox.co/my-love-inn-lijiang-review/"><div class="relative" style="height: 450px; background-color:#ECEAE7;">
-    <div class="bg-center cover" style="background-image: url('http://theinnbox.co/images/myloveinn/1.jpg'); padding-bottom:100%; width:100%;"></div>
-    <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
-      <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
-      <a class="f5 lh-title post-link" href="http://theinnbox.co/my-love-inn-lijiang-review/">Hotel Review: My Love Inn in Lijiang, China</a>
-      </h2>
-    </div>
-  </div>
-</a>
 </div>

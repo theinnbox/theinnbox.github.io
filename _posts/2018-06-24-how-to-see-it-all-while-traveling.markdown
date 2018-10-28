@@ -5,7 +5,8 @@ author: Sabrina Majeed
 author_ig: sabrinasans
 date:   2018-06-23 00:10:36 -0400
 thumbnail: ../images/seeitall/00.jpg
-categories: travel guide
+categories: travelguide
+related_posts: [/bariloche-argentina-travel-guide, /granada-nicaragua-travel-guide]
 ---
 
 
@@ -137,29 +138,3 @@ If you are going to visit multiple sites in a day, multiple neighborhoods in a w
 <p class="tc mid-gray mb3 mb4-ns i f7">Gamcheon Cultural Village in Busan, South Korea. Tourist-y? Yes. Worth it? Yes. Plus conveniently located on a circuit with fellow attractions Taejongdae Park and BIFF Square.</p>
 
 <p class="pb3 pb4-ns" style="max-width: 650px; margin: auto;">I hope this helps reduce some of the stress and anxiety associated with planning itineraries, but if all else fails just remember this: you're going somewhere different from your day to day so it's going to be exciting no matter what. Even if you don't see any major tourist attractions. Even if it that's all you see. At the end of the day it's still a vacation and the only way you can mess that up is if you forget to delete Slack from your phone.</p>
-
-<p class="tc f3 pt5 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'">Check out more of my travel guides:</p>
-
-<div class="fl w-100 w-50-ns pr2-ns mb4">
-  <a href="http://theinnbox.co/bariloche-argentina-travel-guide/"><div class="relative" style="height: 450px; background-color:#ECEAE7;">
-    <div class="bg-center cover" style="background-image: url('../images/bariloche/bariloche_header.jpg'); padding-bottom:100%; width:100%;"></div>
-    <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
-      <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
-      <a class="f5 lh-title post-link" href="http://theinnbox.co/bariloche-argentina-travel-guide/">Your travel guide to Bariloche, Argentina: where to stay and what to do.</a>
-      </h2>
-    </div>
-  </div>
-</a>
-</div>
-
-<div class="fl w-100 w-50-ns pl2-ns mb1 mb0-ns">
-  <a href="http://theinnbox.co/granada-nicaragua-travel-guide/"><div class="relative" style="height: 450px; background-color:#ECEAE7;">
-    <div class="bg-center cover" style="background-image: url('../images/granada/NICA_HEADER.jpg'); padding-bottom:100%; width:100%;"></div>
-    <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
-      <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
-      <a class="f5 lh-title post-link" href="http://theinnbox.co/granada-nicaragua-travel-guide/">Your travel guide to Granada, Nicaragua: where to stay and what to do.</a>
-      </h2>
-    </div>
-  </div>
-</a>
-</div>

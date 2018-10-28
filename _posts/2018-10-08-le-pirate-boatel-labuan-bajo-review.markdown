@@ -9,6 +9,7 @@ categories: review
 review_dates: "September 15 — 18, 2018"
 review_rate: 43
 review_guests: "Her Boyfriend"
+related_posts: [/what-hokkaido-taught-me-about-hospitality, birdhouse-el-nido-review]
 ---
 
 <img class="mt4-ns mt3 mb4-ns mb3" src="/images/boatel/00.jpg">
@@ -177,31 +178,4 @@ Le Pirate also offers a cruise-like experience in Labuan Bajo on a smaller boat 
 <div class="tc tl-ns" style="max-width: 650px; margin: auto;">
 <p class="lh-copy">If you found this review helpful, please let Le Pirate know when you book!</p>
 <a target="_blank" class="f5 link ba bw1 ph3 pv2 mb2 dib orange" href="https://lepirate.com/boatel/" target="new">Book your stay @ Le Pirate Boatel</a>
-</div>
-
-
-<p class="tc f3 pt5 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'">Check out more of our hotel reviews:</p>
-
-<div class="fl w-100 w-50-ns pr2-ns mb4">
-  <a href="http://theinnbox.co/what-hokkaido-taught-me-about-hospitality/"><div class="relative" style="height: 450px; background-color:#ECEAE7;">
-    <div class="bg-center cover" style="background-image: url('http://theinnbox.co/images/hokkaido/hokkaidolodging_thumb.jpg'); padding-bottom:100%; width:100%;"></div>
-    <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
-      <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
-      <a class="f5 lh-title post-link" href="http://theinnbox.co/what-hokkaido-taught-me-about-hospitality/">What Hokkaido taught me about hospitality</a>
-      </h2>
-    </div>
-  </div>
-</a>
-</div>
-
-<div class="fl w-100 w-50-ns pl2-ns mb1 mb0-ns">
-  <a href="http://theinnbox.co/birdhouse-el-nido-review/"><div class="relative" style="height: 450px; background-color:#ECEAE7;">
-    <div class="bg-center cover" style="background-image: url('http://theinnbox.co/images/birdhouse/1.jpg'); padding-bottom:100%; width:100%;"></div>
-    <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
-      <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
-      <a class="f5 lh-title post-link" href="http://theinnbox.co/birdhouse-el-nido-review/">Hotel Review: The Birdhouse El Nido in Palawan, Philippines</a>
-      </h2>
-    </div>
-  </div>
-</a>
 </div>
