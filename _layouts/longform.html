@@ -10,10 +10,14 @@ layout: default
 
   <header class="post-header" style="max-width: 650px; margin: auto;">
     <h1 class="post-title lh-title f1-ns f2 mb3" itemprop="name headline" style="font-family: 'Gilroy-ExtraBold'">{{ page.title | escape }}</h1>
-      <blockquote>
-        {{ page.intro }}
-      </blockquote>
-
+    {% if page.categories contains "review" %}
+      {% include post-review-info.html %}
+    {% else %}
+      {% include post-byline.html %}
+    {% endif %}
+    <blockquote>
+      {{ page.intro }}
+    </blockquote>
   </header>
 
   <div class="post-content" itemprop="articleBody" style="font-family: 'Inconsolata', monospace;">

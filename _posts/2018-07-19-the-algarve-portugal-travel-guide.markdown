@@ -2,16 +2,11 @@
 layout: longform
 title:  "Your travel guide to The Algarve, Portugal: where to stay and what to do."
 author: Joanne Yae
+author_ig: jyae7777
 date:   2018-07-19 00:10:36 -0400
 thumbnail: ../images/algarve/00.jpg
 categories: review
-
-
 ---
-
-<div style="max-width: 650px; margin: auto;">
-<p class="f7 di mr4"><b>By</b> <a href="https://www.instagram.com/jyae7777/">Joanne Yae</a></p>
-</div>
 
 <img class="mt4-ns mt3 mb4-ns mb3" src="/images/algarve/00.jpg">
 

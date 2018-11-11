@@ -2,16 +2,13 @@
 layout: longform
 title:  "Hotel Review: The first ever MUJI Hotel in Shenzhen, Guangdong, China"
 author: Mintlodica
+author_ig: mintlodica
 date:   2018-04-30 00:10:36 -0400
 thumbnail: ../images/muji/00_Cover.jpg
 categories: review
+review_dates: "April 5 — 6, 2018"
+review_rate: 150
 ---
-
-<div style="max-width: 650px; margin: auto;">
-<p class="f7 di mr4"><b>Dates:</b> April 5 — 6, 2018</p>
-<p class="f7 di mr4"><b>Rate:</b> $150/Night</p>
-<span class="dib"><p class="f7 di"><b>Who Stayed:</b> <a href="https://www.instagram.com/mintlodica/" target="blank">Mintlodica</a></p></span>
-</div>
 
 <img class="mt4-ns mt3 mb4-ns mb3" src="/images/muji/00_Cover.jpg">
 

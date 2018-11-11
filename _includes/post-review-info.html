@@ -1,0 +1,10 @@
+<div class="inconsolata" style="max-width: 650px; margin: auto;">
+  <p class="f7 di mr4"><b>Dates:</b> {{ page.review_dates }}</p>
+  <p class="f7 di mr4"><b>Rate:</b> ${{ page.review_rate }}/Night</p>
+  <span class="dib">
+    <p class="f7 di"><b>Who Stayed:</b>
+      <a href="https://www.instagram.com/{{ page.author_ig }}" target="blank">
+        {{ page.author | split: " " | first }}</a>
+        {% if page.review_guests %} & {{ page.review_guests }}{% endif %}</p>
+  </span>
+</div>

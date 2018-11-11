@@ -2,18 +2,18 @@
 layout: longform
 title:  "Hotel Review: Calma Ubud in Ubud, Bali"
 author: Sabrina Majeed
+author_ig: sabrinasans
 date:   2018-04-08 00:10:36 -0400
 thumbnail: ../images/calma/splash.jpg
 categories: review
+review_dates: "March 8 — 10, 2018"
+review_rate: 87
+review_guests: "Her Best Friend"
 ---
 
-<div style="max-width: 650px; margin: auto;">
-<p class="f7 di mr4"><b>Dates:</b> March 8 — 10, 2018</p>
-<p class="f7 di mr4"><b>Rate:</b> $87/Night</p>
-<p class="f7 di"><b>Who Stayed:</b> Sabrina & Her Best Friend</p>
-</div>
 
 <img class="mt4-ns mt3 mb4-ns mb3" src="/images/calma/splash.jpg">
+
 
 <p class="pb4 f4" style="max-width: 650px; margin: auto;">
 A ten minute motorbike ride outside of central Ubud is the residential village Kutuh Kaja, where at night the skies are dotted with more stars than many of us city dwellers are used to seeing, and by day large swaths of rice fields dominate the scenery. Here is where you'll find the <a href="https://www.agoda.com/partners/partnersearch.aspx?cid=1801609&pcs=1&hl=en&hid=1258271" targt="new">Calma Ubud</a>, the most accurate picture of a boutique hotel if there ever was one, and one of the best values in Ubud.</p>

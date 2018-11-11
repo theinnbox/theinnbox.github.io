@@ -2,6 +2,7 @@
 layout: post
 title:  "Your travel guide to Bariloche, Argentina: where to stay and what to do."
 author: Sabrina Majeed
+author_ig: sabrinasans
 date:   2017-12-17 00:10:36 -0400
 thumbnail: ../images/bariloche/bariloche_header.jpg
 categories: travel guide

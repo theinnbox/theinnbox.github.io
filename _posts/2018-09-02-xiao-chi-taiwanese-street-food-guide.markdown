@@ -2,18 +2,16 @@
 layout: longform
 title:  "Xiao Chi: A comprehensive guide to street food in Taiwan"
 author: Julius Tarng
+author_ig: tarngerine
 date:   2018-09-02 00:10:36 -0400
 thumbnail: ../images/taiwanfood/MBS.jpg
 categories: list
-
 ---
 
-<div class="pb3" style="max-width: 650px; margin: auto;">
-<p class="f7 di mr4"><b>By</b> <a href="https://www.instagram.com/tarngerine/">Julius Tarng</a></p>
-</div>
 
 
 <img class="mt3-ns mt3 mb4-ns mb3" src="../images/taiwanfood/ST.jpg">
+
 
 <p class="f4 pb3" style="max-width: 650px; margin: auto;">There’s a saying in Taiwan, 「吃就對了」,  and it’s often the advice I get when I visit a new city and ask my host for recommendations. It roughly translates to “just eat — you can’t go wrong”. I love this advice because it matches with the way I explore both cities and markets — comb every block on foot and eat anything that looks good.</p>
 

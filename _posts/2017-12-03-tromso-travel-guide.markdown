@@ -2,6 +2,7 @@
 layout: post
 title:  "Your travel guide to Tromsø, Norway: where to stay and what to do."
 author: Sabrina Majeed
+author_ig: sabrinasans
 date:   2017-11-20 00:10:36 -0400
 thumbnail: ../images/tromso/tromso_header.jpg
 categories: travel guide

@@ -2,14 +2,15 @@
 layout: longform
 title:  17 cool places to stay in Upstate New York
 author: Sabrina Majeed
+author_ig: sabrinasans
 date:   2018-09-23 00:10:36 -0400
 thumbnail: ../images/upstate/arnold_1.jpg
 categories: list
 ---
 
 
-
 <img class="mt3-ns mt3" src="../images/upstate/arnold_1.jpg">
+
 <p class="f7 pb3 pb4-ns" style="max-width: 650px; margin: auto;">
 Photos via <a href="http://www.thearnoldhouse.com" target="blank">thearnoldhouse.com</a></p>
 

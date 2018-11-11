@@ -2,19 +2,18 @@
 layout: longform
 title:  "Hotel Review: Busaba Ayutthaya in Ayutthaya, Thailand"
 author: Sabrina Majeed
+author_ig: sabrinasans
 date:   2018-08-05 00:10:36 -0400
 thumbnail: ../images/busaba/00.jpg
 categories: review
-
+review_dates: "June 18 — 19, 2018"
+review_rate: 54
+review_guests: "Three Companions"
 ---
 
-<div style="max-width: 650px; margin: auto;">
-<p class="f7 di mr4"><b>Dates:</b> June 18 — 19, 2018</p>
-<p class="f7 di mr4"><b>Rate:</b> $54/Night</p>
-<span class="dib"><p class="f7 di"><b>Who Stayed:</b> <a href="https://www.instagram.com/sabrinasans/" target="blank">Sabrina</a> & Three Companions</p></span>
-</div>
 
 <img class="mt4-ns mt3 mb4-ns mb3" src="/images/busaba/00.jpg">
+
 
 <p class="pb3 f4" style="max-width: 650px; margin: auto;">
 <a href="https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1801609&hid=4489474" target="new">Busaba Ayutthaya's</a> minimalist white-washed facade provides a stunning contrast against the eroded red and brown ruins that the region is known for. The crisp, cool whites combined with lush greenery make the hostel feel kind of like an oasis in the middle of this hot, dry city which once served as Thailand's capital.</p>

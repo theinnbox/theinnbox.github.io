@@ -2,18 +2,16 @@
 layout: longform
 title:  "How I learned to travel like a Type-B in Corsica, France"
 author: Arielle Benedek
+author_ig: therelzoe
 date:   2018-07-28 00:10:36 -0400
 thumbnail: ../images/typeb/15.jpg
 categories: longform
-
 ---
 
-<div style="max-width: 650px; margin: auto;">
-<p class="f7 di mr4"><b>By</b> <a href="https://www.instagram.com/therelzoe/" target="blank">Arielle Benedek</a></p>
-</div>
 
 
 <img class="mt4-ns mt3 mb4-ns mb3" src="/images/typeb/15.jpg">
+
 
 <p class="pb3 f4" style="max-width: 650px; margin: auto;">
 <i>“Where’s Corsica?”</i> most people asked me. <i>“Is it a country?”</i> No, but fair question as it’s a bit off the beaten path when you think of traveling in Europe, especially for non-Europeans. Most of you are probably more familiar with the beaches of Southern France à la Nice, Marseille, Cannes and the like. Chic shopping along cobblestoned streets, fancy beach clubs with rows of orange parasols, and everyone decked out in white linen.</p>

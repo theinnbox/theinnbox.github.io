@@ -2,6 +2,7 @@
 layout: post
 title:  "Why not SLO down in San Luis Obispo for your next weekend trip?"
 author: Sabrina Majeed
+author_ig: sabrinasans
 date:   2017-10-16 00:10:36 -0400
 thumbnail: ../images/slo/SLO_Header.jpg
 categories: travel guide

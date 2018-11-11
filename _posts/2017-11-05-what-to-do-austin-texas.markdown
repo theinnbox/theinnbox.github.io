@@ -2,6 +2,7 @@
 layout: post
 title:  "The top 9 things to do for first-timers in Austin, Texas"
 author: Sabrina Majeed
+author_ig: sabrinasans
 date:   2017-11-05 00:10:36 -0400
 thumbnail: ../images/austin/Austin_Header.jpg
 categories: travel guide

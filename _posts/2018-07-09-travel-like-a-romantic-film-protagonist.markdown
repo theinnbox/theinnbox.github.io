@@ -2,6 +2,7 @@
 layout: longform
 title:  Vacation like the protagonist in a romantic film with 8 affordable movie set alternatives.
 author: Sabrina Majeed
+author_ig: sabrinasans
 date:   2018-07-08 00:10:36 -0400
 thumbnail: ../images/moviespots/romanticmovieheader.jpg
 categories: list
@@ -10,6 +11,7 @@ categories: list
 
 
 <img class="mt3-ns mt3 mb4-ns mb3" src="../images/moviespots/romanticmovieheader.jpg">
+
 
 <p class="pb3" style="max-width: 650px; margin: auto;">If you've been on Netflix lately, you've probably noticed that the romantic comedy is having a comeback (I'm talking about <i>Set It Up</i>, which is so so good). It's a good thing too because I, for one, am starving for the tastefully decorated apartments and wanderlust-inducing locales that the genre (along with it's parent category, romance) often sweeps us away to.</p>
 

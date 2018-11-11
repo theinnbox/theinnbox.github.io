@@ -2,16 +2,15 @@
 layout: longform
 title:  "How I make time to 'see it all' when I travel"
 author: Sabrina Majeed
+author_ig: sabrinasans
 date:   2018-06-23 00:10:36 -0400
 thumbnail: ../images/seeitall/00.jpg
-categories: review
+categories: travel guide
 ---
 
-<p class="pb3 f6" style="max-width: 650px; margin: auto;"> By
-  <span itemprop="author" itemscope itemtype="http://schema.org/Person"><a href="https://www.instagram.com/sabrinasans/"><span itemprop="name">{{ page.author }}</span></a></span>
-</p>
 
 <img class="mt4-ns mt3 mb4-ns mb3" src="/images/seeitall/00.jpg">
+
 
 <p class="pb3 f4" style="max-width: 650px; margin: auto;">
 One of the most stressful aspects of planning a vacation is figuring out your itinerary. If you're like me then you may feel pressured to pack as much as possible into your trip in order to justify the financial investment— but bouncing around from one tourist site to another is no fun either and takes time away from one of the best parts of traveling: stumbling upon your own serendipitous discoveries.</p>

@@ -2,17 +2,14 @@
 layout: longform
 title:  "Hotel Review: The Marshall House in Savannah, Georgia"
 author: Sabrina Majeed
+author_ig: sabrinasans
 date:   2018-09-09 00:10:36 -0400
 thumbnail: ../images/marshall/00.jpg
 categories: review
-
+review_dates: "May 30 — June 1, 2018"
+review_rate: 161
+review_guests: "Her Best Friend"
 ---
-
-<div style="max-width: 650px; margin: auto;">
-<p class="f7 di mr4"><b>Dates:</b> May 30 — June 1, 2018</p>
-<p class="f7 di mr4"><b>Rate:</b> $161/Night</p>
-<span class="dib"><p class="f7 di"><b>Who Stayed:</b> <a href="https://www.instagram.com/sabrinasans/" target="blank">Sabrina</a> & Her Best Friend</p></span>
-</div>
 
 <img class="mt4-ns mt3 mb4-ns mb3" src="/images/marshall/00.jpg">
 

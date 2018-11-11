@@ -2,16 +2,14 @@
 layout: longform
 title:  "Hotel Review: My Love Inn in Lijiang, China"
 author: Sabrina Majeed
+author_ig: sabrinasans
 date:   2018-01-21 00:10:36 -0400
 thumbnail: ../images/myloveinn/1.jpg
 categories: review
+review_dates: "October 24 — 26, 2017"
+review_rate: 70
+review_guests: "Her Mom"
 ---
-
-<div style="max-width: 650px; margin: auto;">
-<p class="f7 di mr4"><b>Dates:</b> October 24th — 26th, 2017</p>
-<p class="f7 di mr4"><b>Rate:</b> $70/Night</p>
-<p class="f7 di"><b>Who Stayed:</b> Sabrina & Her Mom</p>
-</div>
 
 <img class="mt4-ns mt3 mb4-ns mb3" src="/images/myloveinn/1.jpg">
 

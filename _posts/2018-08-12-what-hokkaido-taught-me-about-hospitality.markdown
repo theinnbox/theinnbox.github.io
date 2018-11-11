@@ -2,17 +2,16 @@
 layout: longform
 title:  What Hokkaido taught me about hospitality
 author: Sabrina Majeed
+author_ig: sabrinasans
 date:   2018-08-12 00:10:36 -0400
 thumbnail: ../images/hokkaido/hokkaidolodging_thumb.jpg
 categories: list
 ---
 
-<div class="pb3" style="max-width: 650px; margin: auto;">
-<p class="f7 di mr4"><b>By</b> <a href="https://www.instagram.com/sabrinasans/">Sabrina Majeed</a></p>
-</div>
 
 
 <img class="mt3-ns mt3 mb4-ns mb3" src="../images/hokkaido/hokkaidolodging_thumb.jpg">
+
 
 <p class="pb3" style="max-width: 650px; margin: auto;">Let me cut to the chase and say that Japan is one of the more challenging places I've booked lodging in. Japan is known for being an expensive country and thus that desired combination of affordability and intentional, sophisticated design is elusive.
 Where you'd expect clean lines, natural textures, and minimalism, you'll more often find the interior design of hotels and guesthouses to reflect the compact, pastel plastic aesthetic of the 90s. At least in Tokyo the density of Airbnbs has been able to fill the gap, but the farther out you travel in Japan, the slimmer the pickings.</p>

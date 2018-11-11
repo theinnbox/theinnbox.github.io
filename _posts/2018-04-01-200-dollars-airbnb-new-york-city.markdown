@@ -2,6 +2,7 @@
 layout: longform
 title:  "Here's what $200 on Airbnb can get you in New York City"
 author: Sabrina Majeed
+author_ig: sabrinasans
 date:   2018-04-01 00:10:36 -0400
 thumbnail: ../images/nycair/Splash.jpg
 categories: list
