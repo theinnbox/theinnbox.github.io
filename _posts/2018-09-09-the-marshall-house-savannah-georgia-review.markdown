@@ -9,6 +9,7 @@ categories: review
 review_dates: "May 30 — June 1, 2018"
 review_rate: 161
 review_guests: "Her Best Friend"
+related_posts: [/the-slow-canggu-bali-review, /the-aviary-hotel-siem-reap-review]
 ---
 
 <img class="mt4-ns mt3 mb4-ns mb3" src="/images/marshall/00.jpg">
@@ -147,30 +148,4 @@ If I were to go back to Savannah I’d probably want to stay in a less central l
 <p class="lh-copy">
 Please use our link below to book at The Marshall House (or any other hotel!). The InnBox may collect a small share of sales.</p>
 <a target="_blank" class="f5 link ba bw1 ph3 pv2 mb2 dib orange" href="https://www.booking.com/hotel/us/the-marshall-house.en.html?aid=1452227">Book your stay @ The Marshall House</a>
-</div>
-
-<p class="tc f3 pt5 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'">Check out more of our hotel reviews:</p>
-
-<div class="fl w-100 w-50-ns pr2-ns mb4">
-  <a href="http://theinnbox.co/the-slow-canggu-bali-review/"><div class="relative" style="height: 450px; background-color:#ECEAE7;">
-    <div class="bg-center cover" style="background-image: url('http://theinnbox.co/images/slow/01.jpg'); padding-bottom:100%; width:100%;"></div>
-    <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
-      <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
-      <a class="f5 lh-title post-link" href="http://theinnbox.co/the-slow-canggu-bali-review/">Hotel Review: The Slow in Canggu, Bali</a>
-      </h2>
-    </div>
-  </div>
-</a>
-</div>
-
-<div class="fl w-100 w-50-ns pl2-ns mb1 mb0-ns">
-  <a href="http://theinnbox.co/the-aviary-hotel-siem-reap-review/"><div class="relative" style="height: 450px; background-color:#ECEAE7;">
-    <div class="bg-center cover" style="background-image: url('http://theinnbox.co/images/aviary/00.jpg'); padding-bottom:100%; width:100%;"></div>
-    <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
-      <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
-      <a class="f5 lh-title post-link" href="http://theinnbox.co/the-aviary-hotel-siem-reap-review/">Hotel Review: The Aviary Hotel in Siem Reap, Cambodia</a>
-      </h2>
-    </div>
-  </div>
-</a>
 </div>

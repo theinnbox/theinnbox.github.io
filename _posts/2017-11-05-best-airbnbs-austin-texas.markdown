@@ -5,7 +5,7 @@ author: Sabrina Majeed
 author_ig: sabrinasans
 date:   2017-11-05 00:10:36 -0400
 thumbnail: ../images/austin/stay_header.jpg
-categories: travel guide
+categories: airbnb, list
 ---
 
 ![](../images/austin/stay_header.jpg)

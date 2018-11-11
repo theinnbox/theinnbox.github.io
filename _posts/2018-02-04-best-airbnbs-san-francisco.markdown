@@ -5,7 +5,8 @@ author: Sabrina Majeed
 author_ig: sabrinasans
 date:   2018-02-04 00:10:36 -0400
 thumbnail: ../images/sf/sf_bnb_header.jpg
-categories: list
+categories: list airbnb
+related_posts: [/best-airbnbs-austin-texas, /best-airbnbs-asheville-north-carolina]
 ---
 
 <p class="pb3" style="max-width: 650px; margin: auto;">
@@ -210,29 +211,3 @@ This apartment is located in the same area of the Mission I used to live and in 
 Another East Mission abode, although this one is filled with quirky and artful little details and vintage vibes befitting of the neighborhood. The apartment itself also has a huge kitchen island for a group to gather around, and a backyard patio table for dining al fresco. A few scenes from the movie "Blue Jasmine" were even filmed in the backyard. Accommodates up to 8.</p>
 
 <p class="f6 i light-silver pb4" style="max-width: 650px; margin: auto;">This airbnb is not wheelchair accessible.</p>
-
-<p class="tc f3 pt4 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'">Check out more of our top Airbnb picks:</p>
-
-<div class="fl w-100 w-50-ns pr2-ns mb3 mb0-ns">
-  <a href="http://theinnbox.co/best-airbnbs-austin-texas/"><div class="relative" style="height: 450px; background-color:#ECEAE7;">
-    <div class="bg-center cover" style="background-image: url('../images/austin/stay_header.jpg'); padding-bottom:100%; width:100%;"></div>
-    <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
-      <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
-      <a class="f5 lh-title post-link" href="http://theinnbox.co/best-airbnbs-austin-texas/">Where to Stay in Austin, Texas— Including the 9 Best Airbnbs</a>
-      </h2>
-    </div>
-  </div>
-</a>
-</div>
-
-<div class="fl w-100 w-50-ns pl2-ns mb1 mb0-ns">
-  <a href="http://theinnbox.co/best-airbnbs-asheville-north-carolina/"><div class="relative" style="height: 450px; background-color:#ECEAE7;">
-    <div class="bg-center cover" style="background-image: url('../images/asheville/asheville_header.jpg'); padding-bottom:100%; width:100%;"></div>
-    <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
-      <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
-      <a class="f5 lh-title post-link" href="http://theinnbox.co/best-airbnbs-asheville-north-carolina/">The 13 Best Airbnbs in Asheville, North Carolina</a>
-      </h2>
-    </div>
-  </div>
-</a>
-</div>

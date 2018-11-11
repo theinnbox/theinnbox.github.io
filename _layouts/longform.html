@@ -28,8 +28,9 @@ layout: default
     {% include disqus_comments.html %}
   {% endif %}
 </article>
-
+{% if page.related_posts.size > 0 %}
+  {% include related-posts.html %}
+{% endif %}
 </div>
-
 {% include signupform.html %}
 {% include footer.html %}

@@ -5,7 +5,8 @@ author: Sabrina Majeed
 author_ig: sabrinasans
 date:   2018-08-18 00:10:36 -0400
 thumbnail: ../images/hokkaido-2/AKA_1.jpg
-categories: list
+categories: travelguide
+related_posts: [/san-luis-obispo-travel-guide, /why-right-now-is-actually-a-good-and-helpful-time-to-visit-mexico-city]
 ---
 
 
@@ -336,30 +337,3 @@ The next morning we dropped our car off at the OTS lot in the airport and a shut
 </li>
 </li>
 </ul>
-
-
-<p class="tc f3 pt5 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'">Check out more of our travel guides:</p>
-
-<div class="fl w-100 w-50-ns pr2-ns mb4">
-  <a href="http://theinnbox.co/san-luis-obispo-travel-guide/"><div class="relative" style="height: 450px; background-color:#ECEAE7;">
-    <div class="bg-center cover" style="background-image: url('http://theinnbox.co/images/slo/SLO_Header.jpg'); padding-bottom:100%; width:100%;"></div>
-    <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
-      <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
-      <a class="f5 lh-title post-link" href="http://theinnbox.co/san-luis-obispo-travel-guide/">Why not SLO down in San Luis Obispo for your next weekend trip?</a>
-      </h2>
-    </div>
-  </div>
-</a>
-</div>
-
-<div class="fl w-100 w-50-ns pl2-ns mb1 mb0-ns">
-  <a href="http://theinnbox.co/why-right-now-is-actually-a-good-and-helpful-time-to-visit-mexico-city/"><div class="relative" style="height: 450px; background-color:#ECEAE7;">
-    <div class="bg-center cover" style="background-image: url('http://theinnbox.co/images/mexicocity/MexicoCity_Header.jpg'); padding-bottom:100%; width:100%;"></div>
-    <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
-      <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
-      <a class="f5 lh-title post-link" href="http://theinnbox.co/why-right-now-is-actually-a-good-and-helpful-time-to-visit-mexico-city/">Why right now is actually a good and most helpful time to visit Mexico City</a>
-      </h2>
-    </div>
-  </div>
-</a>
-</div>

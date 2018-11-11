@@ -5,7 +5,7 @@ author: Sabrina Majeed
 author_ig: sabrinasans
 date:   2017-11-20 00:10:36 -0400
 thumbnail: ../images/bedstuy/bedstuy_food_header.jpg
-categories: travel guide
+categories: travelguide
 ---
 
 <p class="mt3">This is the InnBox’s first list that’s exclusively about food and boy, is it personal. I hesitate to even say these are “the best” places to eat at in Bed-Stuy, it’s more like these are the places which I often frequented during my time living in the neighborhood (so don’t be surprised if you notice a disproportionate amount of Asian restaurants featured here). Bed-Stuy is also a very big neighborhood and many of these eateries are located on the west side, closer to where I’m based and near the Bedford-Nostrand G stop as well as the Franklin Avenue C stop.

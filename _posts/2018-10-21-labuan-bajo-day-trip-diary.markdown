@@ -5,7 +5,8 @@ author: Sabrina Majeed
 author_ig: sabrinasans
 date:   2018-10-21 00:10:36 -0400
 thumbnail: ../images/lb/01.jpg
-categories: list
+categories: list travelguide
+related_posts: [/hokkaido-road-trip-itinerary-and-guide, /granada-nicaragua-travel-guide]
 ---
 
 <img class="mt3-ns mt3 mb4-ns mb3" src="../images/lb/00.jpg">
@@ -163,30 +164,3 @@ Julius opted to just sit higher up on the beach in the shade (where we found the
 
 <p class="pb3 pb4-ns" style="max-width: 650px; margin: auto;">
 I would highly recommend the Red Whale island tour to anyone visiting Labuan Bajo. For one, it's pretty rare for a tour like this to go to six different places so I felt like we got a good value out of the tour. I also felt like 12 people was a good amount of people for a group tour. It felt more intimate than other tours we had been on, but less awkward than the group tours where it's been just us and one or two other couples. The Red Whale boats are also quite clean and cute looking— with an iconic red color and a sun deck on top. The guides were a little less extroverted than some of the ones I've encountered on similar tours in Thailand and the Philippines but they were by no means unfriendly— and one of them truly had an eye for photography and was always volunteering to take photos of the various couples amongst the group. Red Whale can be easily reached through WhatsApp if you want to book a tour in advance, or you can easily walk to their office near Labuan Bajo harbor to book in person.</p>
-
-
-<p class="tc f3 pt5 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'">Check out more of our travel guides and itineraries:</p>
-
-<div class="fl w-100 w-50-ns pr2-ns mb4">
-  <a href="http://theinnbox.co/hokkaido-road-trip-itinerary-and-guide/"><div class="relative" style="height: 450px; background-color:#ECEAE7;">
-    <div class="bg-center cover" style="background-image: url('http://theinnbox.co/images/hokkaido-2/AKA_1.jpg'); padding-bottom:100%; width:100%;"></div>
-    <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
-      <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
-      <a class="f5 lh-title post-link" href="http://theinnbox.co/hokkaido-road-trip-itinerary-and-guide/">Traversing Hokkaido in 8 days: a road trip itinerary and travel guide</a>
-      </h2>
-    </div>
-  </div>
-</a>
-</div>
-
-<div class="fl w-100 w-50-ns pl2-ns mb1 mb0-ns">
-  <a href="http://theinnbox.co/granada-nicaragua-travel-guide/"><div class="relative" style="height: 450px; background-color:#ECEAE7;">
-    <div class="bg-center cover" style="background-image: url('http://theinnbox.co/images/granada/NICA_HEADER.jpg'); padding-bottom:100%; width:100%;"></div>
-    <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
-      <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
-      <a class="f5 lh-title post-link" href="http://theinnbox.co/granada-nicaragua-travel-guide/">Your travel guide to Granada, Nicaragua: where to stay and what to do</a>
-      </h2>
-    </div>
-  </div>
-</a>
-</div>

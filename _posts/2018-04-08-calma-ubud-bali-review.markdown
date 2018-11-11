@@ -9,6 +9,7 @@ categories: review
 review_dates: "March 8 — 10, 2018"
 review_rate: 87
 review_guests: "Her Best Friend"
+related_posts: [/birdhouse-el-nido-review, /the-slow-canggu-bali-review]
 ---
 
 
@@ -151,30 +152,4 @@ If you really want to go "all out" during your stay to Ubud there are definitely
 <div class="tc tl-ns" style="max-width: 650px; margin: auto;">
 <p class="lh-copy">If you found this review helpful, please use our link below to book at Calma Ubud (or any other hotel!). The InnBox may collect a small share of sales.</p>
 <a target="_blank" class="f5 link ba bw1 ph3 pv2 mb2 dib orange" href="https://www.agoda.com/partners/partnersearch.aspx?cid=1801609&pcs=1&hl=en&hid=1258271">Book your stay @ Calma Ubud</a>
-</div>
-
-<p class="tc f3 pt5 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'">Check out more of our hotel reviews:</p>
-
-<div class="fl w-100 w-50-ns pr2-ns mb4">
-  <a href="http://theinnbox.co/birdhouse-el-nido-review/"><div class="relative" style="height: 450px; background-color:#ECEAE7;">
-    <div class="bg-center cover" style="background-image: url('../images/birdhouse/1.jpg'); padding-bottom:100%; width:100%;"></div>
-    <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
-      <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
-      <a class="f5 lh-title post-link" href="http://theinnbox.co/birdhouse-el-nido-review/">Hotel Review: The Birdhouse El Nido in Palawan, Philippines</a>
-      </h2>
-    </div>
-  </div>
-</a>
-</div>
-
-<div class="fl w-100 w-50-ns pl2-ns mb1 mb0-ns">
-  <a href="http://theinnbox.co/the-slow-canggu-bali-review/"><div class="relative" style="height: 450px; background-color:#ECEAE7;">
-    <div class="bg-center cover" style="background-image: url('../images/slow/01.jpg'); padding-bottom:100%; width:100%;"></div>
-    <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
-      <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
-      <a class="f5 lh-title post-link" href="http://theinnbox.co/the-slow-canggu-bali-review/">Hotel Review: The Slow in Canggu, Bali</a>
-      </h2>
-    </div>
-  </div>
-</a>
 </div>

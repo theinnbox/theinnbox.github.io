@@ -5,7 +5,8 @@ author: Joanne Yae
 author_ig: jyae7777
 date:   2018-07-19 00:10:36 -0400
 thumbnail: ../images/algarve/00.jpg
-categories: review
+categories: travelguide
+related_posts: [/bariloche-argentina-travel-guide, /granada-nicaragua-travel-guide]
 ---
 
 <img class="mt4-ns mt3 mb4-ns mb3" src="/images/algarve/00.jpg">
@@ -180,29 +181,3 @@ Train is the best way to get here from Lagos, and it is an 1hr 40 min ride.  Onc
 
 <p class="pb3" style="max-width: 650px; margin: auto;">
 Joanne is a developer and surfer girl wannabe based in NYC with a serious skill for getting the perfect tan.  She enjoys seafood, travel photography, and flights paid with points.  Her upcoming travel plans include Hawaii in August and New Zealand in November, with lots of Miami in between. You can follow her travels on <a href="https://www.instagram.com/jyae7777/" target="blank">Instagram</a>, her <a href="https://www.instagram.com/jyae7777/" target="blank">Travel Photo Blog</a>, or <a href="yae.joanne@gmail.com">contact her directly</a>.</p>
-
-<p class="tc f3 pt5 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'">Check out more of our travel guides:</p>
-
-<div class="fl w-100 w-50-ns pr2-ns mb4">
-  <a href="http://theinnbox.co/bariloche-argentina-travel-guide/"><div class="relative" style="height: 450px; background-color:#ECEAE7;">
-    <div class="bg-center cover" style="background-image: url('../images/bariloche/bariloche_header.jpg'); padding-bottom:100%; width:100%;"></div>
-    <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
-      <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
-      <a class="f5 lh-title post-link" href="http://theinnbox.co/bariloche-argentina-travel-guide/">Your travel guide to Bariloche, Argentina: where to stay and what to do.</a>
-      </h2>
-    </div>
-  </div>
-</a>
-</div>
-
-<div class="fl w-100 w-50-ns pl2-ns mb1 mb0-ns">
-  <a href="http://theinnbox.co/granada-nicaragua-travel-guide/"><div class="relative" style="height: 450px; background-color:#ECEAE7;">
-    <div class="bg-center cover" style="background-image: url('../images/granada/NICA_HEADER.jpg'); padding-bottom:100%; width:100%;"></div>
-    <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
-      <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
-      <a class="f5 lh-title post-link" href="http://theinnbox.co/granada-nicaragua-travel-guide/">Your travel guide to Granada, Nicaragua: where to stay and what to do.</a>
-      </h2>
-    </div>
-  </div>
-</a>
-</div>

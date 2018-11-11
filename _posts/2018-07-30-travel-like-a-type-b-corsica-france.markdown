@@ -6,6 +6,8 @@ author_ig: therelzoe
 date:   2018-07-28 00:10:36 -0400
 thumbnail: ../images/typeb/15.jpg
 categories: longform
+related_posts: [/how-to-see-it-all-while-traveling, /200-dollars-airbnb-new-york-city]
+related_posts_custom_title: Check out more of our travel posts
 ---
 
 
@@ -205,29 +207,3 @@ There are all sorts of vacations you could take; cities like Paris, beaches like
 
 <p class="pb3" style="max-width: 650px; margin: auto;">
 Arielle works in Product by day and spends her free time exploring her own city, New York, and planning trips to off the beaten path locales before they become the hot new thing. She’s a sucker for French pastries and ethnic eats. Her next trips include Copenhagen for some summertime hygge and Bolivian salt flats for some 4x4 adventuring. You can follow her travels <a href="https://www.instagram.com/therelzoe/">on Instagram.</a></p>
-
-<p class="tc f3 pt5 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'">Check out more of our travel posts:</p>
-
-<div class="fl w-100 w-50-ns pr2-ns mb4">
-  <a href="http://theinnbox.co/how-to-see-it-all-while-traveling/"><div class="relative" style="height: 450px; background-color:#ECEAE7;">
-    <div class="bg-center cover" style="background-image: url('http://theinnbox.co/images/seeitall/00.jpg'); padding-bottom:100%; width:100%;"></div>
-    <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
-      <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
-      <a class="f5 lh-title post-link" href="http://theinnbox.co/how-to-see-it-all-while-traveling/">How I make time to 'see it all' when I travel</a>
-      </h2>
-    </div>
-  </div>
-</a>
-</div>
-
-<div class="fl w-100 w-50-ns pl2-ns mb1 mb0-ns">
-  <a href="http://theinnbox.co/200-dollars-airbnb-new-york-city/"><div class="relative" style="height: 450px; background-color:#ECEAE7;">
-    <div class="bg-center cover" style="background-image: url('http://theinnbox.co/images/nycair/Splash.jpg'); padding-bottom:100%; width:100%;"></div>
-    <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
-      <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
-      <a class="f5 lh-title post-link" href="http://theinnbox.co/200-dollars-airbnb-new-york-city/">Here's what $200 on Airbnb can get you in New York City</a>
-      </h2>
-    </div>
-  </div>
-</a>
-</div>

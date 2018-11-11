@@ -5,7 +5,9 @@ author: Sabrina Majeed
 author_ig: sabrinasans
 date:   2018-04-01 00:10:36 -0400
 thumbnail: ../images/nycair/Splash.jpg
-categories: list
+categories: list airbnb
+related_posts: [/best-airbnbs-san-francisco, /best-airbnbs-asheville-north-carolina]
+related_posts_custom_title: Want to see how New York Airbnbs compare with other cities?<br> Check out our other Airbnb lists
 ---
 
 <p class="pb3" style="max-width: 650px; margin: auto;">
@@ -350,29 +352,3 @@ This sun-drenched Airbnb gave me déjà vu because it has the same layout as an 
 
 <p class="f6 i light-silver pb4" style="max-width: 650px; margin: auto;">
 This Airbnb has elevator access, but we'd recommend directly contacting the host for more accessibility details.</p>
-
-<p class="tc f3 pt4 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'">Want to see how New York Airbnbs compare with other cities?<br>Check out our other Airbnb lists:</p>
-
-<div class="fl w-100 w-50-ns pr2-ns mb3 mb0-ns">
-  <a href="http://theinnbox.co/best-airbnbs-san-francisco/"><div class="relative" style="height: 450px; background-color:#ECEAE7;">
-    <div class="bg-center cover" style="background-image: url('../images/sf/sf_bnb_header.jpg'); padding-bottom:100%; width:100%;"></div>
-    <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
-      <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
-      <a class="f5 lh-title post-link" href="http://theinnbox.co/best-airbnbs-san-francisco/">The 13 Best Airbnbs in San Francisco</a>
-      </h2>
-    </div>
-  </div>
-</a>
-</div>
-
-<div class="fl w-100 w-50-ns pl2-ns mb1 mb0-ns">
-  <a href="http://theinnbox.co/best-airbnbs-asheville-north-carolina/"><div class="relative" style="height: 450px; background-color:#ECEAE7;">
-    <div class="bg-center cover" style="background-image: url('../images/asheville/asheville_header.jpg'); padding-bottom:100%; width:100%;"></div>
-    <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
-      <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
-      <a class="f5 lh-title post-link" href="http://theinnbox.co/best-airbnbs-asheville-north-carolina/">The 13 Best Airbnbs in Asheville, North Carolina</a>
-      </h2>
-    </div>
-  </div>
-</a>
-</div>

@@ -5,7 +5,8 @@ author: Sabrina Majeed
 author_ig: sabrinasans
 date:   2018-04-15 00:10:36 -0400
 thumbnail: ../images/providence/splash.jpg
-categories: travel guide
+categories: travelguide
+related_posts: [/san-luis-obispo-travel-guide, /bariloche-argentina-travel-guide]
 ---
 
 <img class="mt4-ns mt3 mb4-ns mb3" src="/images/providence/splash.jpg">
@@ -169,30 +170,4 @@ Providence. The biggest city in America's smallest state. It's a known creative 
 <p class="f4 mb1 lh-title mt0-ns mt3" style="font-family: 'Gilroy-ExtraBold'"><a href="https://foursquare.com/v/julians/4a8844dff964a520a40520e3" target="blank">Eat Eggs at Julian's</a></p>
 <p>While there are many new brunch restaurants that have cropped up in recent years in Providence's hip Federal Hill neighborhood, Julian's has been a neighborhood establishment for over twenty years. Their signature also happens to be my favorite brunch dish: Eggs Benedict. Take your pick of seven different varieties and one of their creative hash sides. If Benedicts aren't your thing the restaurant also offer you eggs wrapped, poached in shakshuka, scrambled into a pizza, or fried into an omelet. </p>
 </div>
-</div>
-
-<p class="tc f3 pt5 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'">Check out more of our travel guides:</p>
-
-<div class="fl w-100 w-50-ns pr2-ns mb4">
-  <a href="http://theinnbox.co/san-luis-obispo-travel-guide/"><div class="relative" style="height: 450px; background-color:#ECEAE7;">
-    <div class="bg-center cover" style="background-image: url('../images/slo/SLO_Header.jpg'); padding-bottom:100%; width:100%;"></div>
-    <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
-      <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
-      <a class="f5 lh-title post-link" href="http://theinnbox.co/san-luis-obispo-travel-guide/">Why not SLO down in San Luis Obispo for your next weekend trip?</a>
-      </h2>
-    </div>
-  </div>
-</a>
-</div>
-
-<div class="fl w-100 w-50-ns pl2-ns mb1 mb0-ns">
-  <a href="http://theinnbox.co/bariloche-argentina-travel-guide/"><div class="relative" style="height: 450px; background-color:#ECEAE7;">
-    <div class="bg-center cover" style="background-image: url('../images/bariloche/bariloche_header.jpg'); padding-bottom:100%; width:100%;"></div>
-    <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
-      <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
-      <a class="f5 lh-title post-link" href="http://theinnbox.co/bariloche-argentina-travel-guide/">Your travel guide to Bariloche, Argentina: where to stay and what to do.</a>
-      </h2>
-    </div>
-  </div>
-</a>
 </div>
