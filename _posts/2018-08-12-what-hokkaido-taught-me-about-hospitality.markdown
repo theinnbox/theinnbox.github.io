@@ -4,11 +4,14 @@ title:  What Hokkaido taught me about hospitality
 author: Sabrina Majeed
 author_ig: sabrinasans
 date:   2018-08-12 00:10:36 -0400
-thumbnail: ../images/hokkaido/hokkaidolodging_thumb.png
+thumbnail: ../images/hokkaido/hokkaidolodging_thumb.jpg
 categories: list
 ---
 
-<img class="mt3-ns mt3 mb4-ns mb3" src="../images/hokkaido/hokkaidolodging_thumb.png">
+
+
+<img class="mt3-ns mt3 mb4-ns mb3" src="../images/hokkaido/hokkaidolodging_thumb.jpg">
+
 
 <p class="pb3" style="max-width: 650px; margin: auto;">Let me cut to the chase and say that Japan is one of the more challenging places I've booked lodging in. Japan is known for being an expensive country and thus that desired combination of affordability and intentional, sophisticated design is elusive.
 Where you'd expect clean lines, natural textures, and minimalism, you'll more often find the interior design of hotels and guesthouses to reflect the compact, pastel plastic aesthetic of the 90s. At least in Tokyo the density of Airbnbs has been able to fill the gap, but the farther out you travel in Japan, the slimmer the pickings.</p>
@@ -26,19 +29,19 @@ Where you'd expect clean lines, natural textures, and minimalism, you'll more of
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;"><a href="https://www.booking.com/hotel/jp/pension-jokura.en.html?aid=1452227" target="blank" class="link underline-hover orange">Pension Jokura</a><span class="f5 light-silver">&nbsp; &nbsp;$90/Night</span></p>
 
 <div class="fl w-100 mb1 mb2-ns">
-<img src="../images/hokkaido/jokura_1.png">
+<img src="../images/hokkaido/jokura_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/hokkaido/jokura_4.png">
+<img src="../images/hokkaido/jokura_4.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb1 mb2-ns">
-<img src="../images/hokkaido/jokura_3.png">
+<img src="../images/hokkaido/jokura_3.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/hokkaido/jokura_2.png">
+<img src="../images/hokkaido/jokura_2.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/hokkaido/jokura_5.png">
+<img src="../images/hokkaido/jokura_5.jpg">
 </div>
 
 <p id="anchor" class="pb2" style="max-width: 650px; margin: auto;">
@@ -50,22 +53,22 @@ Pensions, which are quite popular in Japan, are simply another name for a guesth
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;"><a href="https://www.booking.com/hotel/jp/small-town-hostel-hakodate.en.html?aid=1452227" target="blank" class="link underline-hover orange">Small Town Hostel</a><span class="f5 light-silver">&nbsp; &nbsp;$92/Night</span></p>
 
 <div class="fl w-100 mb1 mb2-ns">
-<img src="../images/hokkaido/smalltown_1.png">
+<img src="../images/hokkaido/smalltown_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/hokkaido/smalltown_3.png">
+<img src="../images/hokkaido/smalltown_3.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb1 mb2-ns">
-<img src="../images/hokkaido/smalltown_2.png">
+<img src="../images/hokkaido/smalltown_2.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/hokkaido/smalltown_4.png">
+<img src="../images/hokkaido/smalltown_4.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb1 mb2-ns">
-<img src="../images/hokkaido/smalltown_5.png">
+<img src="../images/hokkaido/smalltown_5.jpg">
 </div>
 <div class="fl w-100 mb3 mb4-ns">
-<img src="../images/hokkaido/smalltown_6.png">
+<img src="../images/hokkaido/smalltown_6.jpg">
 </div>
 
 <p class="pb2" style="max-width: 650px; margin: auto;">
@@ -79,25 +82,25 @@ We stayed at Small Town Hostel on our last night in Hokkaido, in which we return
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;"><a href="https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1801609&hl=en&hid=1622626" target="blank" class="link underline-hover orange">Unwind Hotel</a><span class="f5 light-silver">&nbsp; &nbsp;$172/Night</span></p>
 
 <div class="fl w-100 mb1 mb2-ns">
-<img src="../images/hokkaido/unwind_1.png">
+<img src="../images/hokkaido/unwind_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/hokkaido/unwind_4.png">
+<img src="../images/hokkaido/unwind_4.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb1 mb2-ns">
-<img src="../images/hokkaido/unwind_5.png">
+<img src="../images/hokkaido/unwind_5.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/hokkaido/unwind_3.png">
+<img src="../images/hokkaido/unwind_3.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb1 mb2-ns">
-<img src="../images/hokkaido/unwind_2.png">
+<img src="../images/hokkaido/unwind_2.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/hokkaido/unwind_6.png">
+<img src="../images/hokkaido/unwind_6.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/hokkaido/unwind_7.png">
+<img src="../images/hokkaido/unwind_7.jpg">
 </div>
 
 <p class="pb2" style="max-width: 650px; margin: auto;">
@@ -110,22 +113,22 @@ Unwind Hotel was one of our two splurges of the trip, and the only true hotel we
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;"><a href="http://furanohostel.sakura.ne.jp/english.htm" target="blank" class="link underline-hover orange">Furano Hostel</a><span class="f5 light-silver">&nbsp; &nbsp;$31/Person/Night</span></p>
 
 <div class="fl w-100 mb1 mb2-ns">
-<img src="../images/hokkaido/furano_1.png">
+<img src="../images/hokkaido/furano_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/hokkaido/furano_3.png">
+<img src="../images/hokkaido/furano_3.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb1 mb2-ns">
-<img src="../images/hokkaido/furano_2.png">
+<img src="../images/hokkaido/furano_2.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/hokkaido/furano_5.png">
+<img src="../images/hokkaido/furano_5.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb1 mb2-ns">
-<img src="../images/hokkaido/furano_4.png">
+<img src="../images/hokkaido/furano_4.jpg">
 </div>
 <div class="fl w-100 mb3 mb4-ns">
-<img src="../images/hokkaido/furano_6.png">
+<img src="../images/hokkaido/furano_6.jpg">
 </div>
 
 <p class="pb2" style="max-width: 650px; margin: auto;">
@@ -139,28 +142,28 @@ Furano in the summer season stands out as the island’s most packed little town
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;"><a href="https://www.booking.com/hotel/jp/mimatsuso-ryokan.en.html?aid=1452227" target="blank" class="link underline-hover orange">Mimatsuso Ryokan</a><span class="f5 light-silver">&nbsp; &nbsp;$102/Night</span></p>
 
 <div class="fl w-100 mb1 mb2-ns">
-<img src="../images/hokkaido/mimat_1.png">
+<img src="../images/hokkaido/mimat_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/hokkaido/mimat_2.png">
+<img src="../images/hokkaido/mimat_2.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb1 mb2-ns">
-<img src="../images/hokkaido/mimat_3.png">
+<img src="../images/hokkaido/mimat_3.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/hokkaido/mimat_5.png">
+<img src="../images/hokkaido/mimat_5.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb1 mb2-ns">
-<img src="../images/hokkaido/mimat_6.png">
+<img src="../images/hokkaido/mimat_6.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/hokkaido/mimat_4.png">
+<img src="../images/hokkaido/mimat_4.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb1 mb2-ns">
-<img src="../images/hokkaido/mimat_7.png">
+<img src="../images/hokkaido/mimat_7.jpg">
 </div>
 <div class="fl w-100 mb3 mb4-ns">
-<img src="../images/hokkaido/mimat_8.png">
+<img src="../images/hokkaido/mimat_8.jpg">
 </div>
 
 <p class="pb2" style="max-width: 650px; margin: auto;">
@@ -174,22 +177,22 @@ Mimatsuso is a curious little guesthouse located in the thick of downtown Asahik
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;"><a href="https://www.airbnb.com/rooms/7164771" target="blank" class="link underline-hover orange">Tida House ティダハウス</a><span class="f5 light-silver">&nbsp; &nbsp;$114/Night</span></p>
 
 <div class="fl w-100 mb1 mb2-ns">
-<img src="../images/hokkaido/tida_1.png">
+<img src="../images/hokkaido/tida_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/hokkaido/tida_2.png">
+<img src="../images/hokkaido/tida_2.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb1 mb2-ns">
-<img src="../images/hokkaido/tida_3.png">
+<img src="../images/hokkaido/tida_3.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/hokkaido/tida_5.png">
+<img src="../images/hokkaido/tida_5.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb1 mb2-ns">
-<img src="../images/hokkaido/tida_4.png">
+<img src="../images/hokkaido/tida_4.jpg">
 </div>
 <div class="fl w-100 mb3 mb4-ns">
-<img src="../images/hokkaido/tida_6.png">
+<img src="../images/hokkaido/tida_6.jpg">
 </div>
 
 <p class="pb3" style="max-width: 650px; margin: auto;">
@@ -209,16 +212,16 @@ As the cherry on top of our unexpected ice-cream sundae, Yuya informed us that o
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;"><a href="https://www.booking.com/hotel/jp/kushiro-guesthouse-cooka-doodle-doo.en.html?aid=1452227" target="blank" class="link underline-hover orange">Guesthouse Cocka-Doodle-Doo</a><span class="f5 light-silver">&nbsp; &nbsp;$63/Night</span></p>
 
 <div class="fl w-100 mb1 mb2-ns">
-<img src="../images/hokkaido/cocka_1.png">
+<img src="../images/hokkaido/cocka_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/hokkaido/cocka_2.png">
+<img src="../images/hokkaido/cocka_2.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb1 mb2-ns">
-<img src="../images/hokkaido/cocka_3.png">
+<img src="../images/hokkaido/cocka_3.jpg">
 </div>
 <div class="fl w-100 mb3 mb4-ns">
-<img src="../images/hokkaido/cocka_4.png">
+<img src="../images/hokkaido/cocka_4.jpg">
 </div>
 
 <p class="pb2" style="max-width: 650px; margin: auto;">
@@ -232,22 +235,22 @@ After a day spent driving around and exploring Akan National Park, we needed som
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;"><a href="https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1801609&hl=en&hid=442365" target="blank" class="link underline-hover orange">Morinoyu Sanseikan Ryokan</a><span class="f5 light-silver">&nbsp; &nbsp;$275/Night (Including Meals)</span></p>
 
 <div class="fl w-100 mb1 mb2-ns">
-<img src="../images/hokkaido/mimo_1.png">
+<img src="../images/hokkaido/mimo_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/hokkaido/mimo_4.png">
+<img src="../images/hokkaido/mimo_4.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb1 mb2-ns">
-<img src="../images/hokkaido/mimo_5.png">
+<img src="../images/hokkaido/mimo_5.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/hokkaido/mimo_2.png">
+<img src="../images/hokkaido/mimo_2.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb1 mb2-ns">
-<img src="../images/hokkaido/mimo_3.png">
+<img src="../images/hokkaido/mimo_3.jpg">
 </div>
 <div class="fl w-100 mb3 mb4-ns">
-<img src="../images/hokkaido/mimo_6.png">
+<img src="../images/hokkaido/mimo_6.jpg">
 </div>
 
 <p class="pb3" style="max-width: 650px; margin: auto;">

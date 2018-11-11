@@ -4,11 +4,11 @@ title:  "Your travel guide to The Algarve, Portugal: where to stay and what to d
 author: Joanne Yae
 author_ig: jyae7777
 date:   2018-07-19 00:10:36 -0400
-thumbnail: ../images/algarve/00.png
+thumbnail: ../images/algarve/00.jpg
 categories: review
 ---
 
-<img class="mt4-ns mt3 mb4-ns mb3" src="/images/algarve/00.png">
+<img class="mt4-ns mt3 mb4-ns mb3" src="/images/algarve/00.jpg">
 
 <p class="pb3 f4" style="max-width: 650px; margin: auto;">
 The Algarve is a region in the southernmost part of Portugal and home to some seriously beautiful beaches, of which the town of Lagos is particularly famous for. The waters are cool and clear,  and the coast is dotted with massive, majestic rock formations.</p>
@@ -21,10 +21,10 @@ If you’re the type to be highly active while traveling then... Lagos <i>isn’
 <p class="f4 pt4 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;"><a href="https://www.booking.com/hotel/pt/vivenda-solmar.en-gb.html?aid=1452227" target="_blank" class="link underline-hover orange">Vivenda Solmar</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $74/Night</span></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/algarve/01.png">
+<img src="../images/algarve/01.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb2">
-<img src="../images/algarve/02.png">
+<img src="../images/algarve/02.jpg">
 </div>
 <p class="f7 pb3" style="max-width: 650px; margin: auto;">
 Left photo via <a href="https://www.booking.com/hotel/pt/vivenda-solmar.en-gb.html?aid=1452227" target="blank">Booking.com</a>; right photo via <a href="https://www.instagram.com/jyae7777/" target="blank">Joanne Yae</a></p>
@@ -37,10 +37,10 @@ Vivenda Solmar is a rarity and the photos do not do it justice. It’s located i
 <p id="anchor" class="f4 pt4 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;"><a href="https://www.booking.com/hotel/pt/vila-gale-lagos.en-gb.html?aid=1452227" target="_blank" class="link underline-hover orange">Vila Gale Lagos</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $200/Night</span></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/algarve/04.png">
+<img src="../images/algarve/04.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb2">
-<img src="../images/algarve/03.png">
+<img src="../images/algarve/03.jpg">
 </div>
 <p class="f7 pb3" style="max-width: 650px; margin: auto;">
 Photos via <a href="https://www.booking.com/hotel/pt/vila-gale-lagos.en-gb.html?aid=1452227" target="blank">Booking.com</a></p>
@@ -55,16 +55,16 @@ If I had wanted to really splurge and treat myself in Lagos, Vila Gale Lagos wou
 <p class="f4 pt4 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;"><a href="https://www.google.com/maps/d/u/0/viewer?mid=1KXcSxqKeFfZ2UCEWLvs2V6crE5_iOS3N&ll=37.08938703537126%2C-8.67025000000001&z=15" target="_blank" class="link underline-hover orange">Go beach hopping</a></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/algarve/20.png">
+<img src="../images/algarve/20.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb1 mb2-ns">
-<img src="../images/algarve/05.png">
+<img src="../images/algarve/05.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/algarve/21.png">
+<img src="../images/algarve/21.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb2">
-<img src="../images/algarve/19.png">
+<img src="../images/algarve/19.jpg">
 </div>
 <p class="f7 pb3" style="max-width: 650px; margin: auto;">
 Photos via <a href="https://www.instagram.com/jyae7777/" target="blank">Joanne Yae</a></p>
@@ -78,10 +78,10 @@ Lagos has a handful of beaches and the best way to explore them is to go on a co
 <p class="f4 pt4 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;"><a href="https://www.tripadvisor.com/Restaurant_Review-g189117-d1791275-Reviews-Cervejaria_Ferradura_Lagos-Lagos_Faro_District_Algarve.html" target="_blank" class="link underline-hover orange">Eat at Cervejaria Ferradura</a></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/algarve/06.png">
+<img src="../images/algarve/06.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb2">
-<img src="../images/algarve/07.png">
+<img src="../images/algarve/07.jpg">
 </div>
 <p class="f7 pb3" style="max-width: 650px; margin: auto;">
 Photos via <a href="https://www.instagram.com/jyae7777/" target="blank">Joanne Yae</a></p>
@@ -92,13 +92,13 @@ This is where we ended up when my friend and I were trying to find a place to ea
 <p class="f4 pt4 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">Take a boat ride around Ponta de Piedade</p>
 
 <div class="fl w-100 mb1 mb2-ns">
-<img src="../images/algarve/08.png">
+<img src="../images/algarve/08.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/algarve/09.png">
+<img src="../images/algarve/09.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb2">
-<img src="../images/algarve/10.png">
+<img src="../images/algarve/10.jpg">
 </div>
 <p class="f7 pb3" style="max-width: 650px; margin: auto;">
 Photos via <a href="https://www.instagram.com/jyae7777/" target="blank">Joanne Yae</a></p>
@@ -112,7 +112,7 @@ I tend to avoid tourist traps or stereotypical touristy activities — like payi
 It’s fresh, it’s plentiful, it’s cheap, and it’s what Lagos does best.  I can honestly say, no matter where you go, it’s gonna be good. A couple I met recommended <a href="https://www.google.com/maps/place/Restaurante+O+Camilo/@37.086889,-8.6697266,15z/data=!4m2!3m1!1s0x0:0xcc3afe433395edac?sa=X&ved=2ahUKEwia5J7GwJrcAhWOON8KHeTPBwUQ_BIwDnoECAoQCw" target="blank">O Camilo</a> which is located by the stairway leading down to Praia do Camilo. It was a bit bougie, but had breathtaking views.  I ordered the mackerel and clams which was un-surprisingly delicious, fresh, and cheap.  The potatoes that came with it were just as delicious.</p>
 
 <div class="fl w-100 mb1 mb2-ns">
-<img src="../images/algarve/11.png">
+<img src="../images/algarve/11.jpg">
 </div>
 <p class="f7 pb3" style="max-width: 650px; margin: auto;">
 <i>O Camilo</i> - Photo via <a href="https://www.instagram.com/jyae7777/" target="blank">Joanne Yae</a></p>
@@ -121,7 +121,7 @@ It’s fresh, it’s plentiful, it’s cheap, and it’s what Lagos does best.  
 For dinner, we checked out <a href="https://www.google.com/maps/place/Os+Lambertos/@37.1003456,-8.6788408,15z/data=!4m2!3m1!1s0x0:0x5590e4237bb81ab3?sa=X&ved=2ahUKEwif4IKawZrcAhWJdd8KHX17AuQQ_BIwCnoECAoQCw" target="blank">Os Lambertos</a> - a favorite among locals and taxi drivers, known for their down home cooking and traditional Portuguese dishes.  Surprisingly, the non-seafood dish - Portuguese steak with potatoes - was the star.  And the potatoes were damn good.</p>
 
 <div class="fl w-100 mb1 mb2-ns">
-<img src="../images/algarve/12.png">
+<img src="../images/algarve/12.jpg">
 </div>
 <p class="f7 pb3" style="max-width: 650px; margin: auto;">
 <i>Os Lambertos</i> - Photo via <a href="https://www.instagram.com/jyae7777/" target="blank">Joanne Yae</a></p>
@@ -130,7 +130,7 @@ For dinner, we checked out <a href="https://www.google.com/maps/place/Os+Lambert
 <a href="https://www.google.com/maps/place/Campimar+Restaurante+Bar/@37.0857124,-8.6874175,15z/data=!4m2!3m1!1s0x0:0x3c0211806d7437d5?sa=X&ved=2ahUKEwiXrrjKwZrcAhVPPN8KHQUxCmoQ_BIwC3oECAoQCw">Campimar Restaurant Bar</a> is located right on Porto de Mós and was my first (and very delicious) meal in Lagos.  I would recommend getting some sort of fresh fish - the flavors are so clean, it’s tender, and never overcooked.  I ordered the sea bream but let me tell you, those potatoes were flavorful AF here too.</p>
 
 <div class="fl w-100 mb1 mb2-ns">
-<img src="../images/algarve/13.png">
+<img src="../images/algarve/13.jpg">
 </div>
 <p class="f7 pb3" style="max-width: 650px; margin: auto;">
 <i>Campimar Restaurant Bar</i> - Photo via <a href="https://www.instagram.com/jyae7777/" target="blank">Joanne Yae</a></p>
@@ -138,10 +138,10 @@ For dinner, we checked out <a href="https://www.google.com/maps/place/Os+Lambert
 <p class="f4 pt4 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">Take a surf lesson</p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/algarve/14.png">
+<img src="../images/algarve/14.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb2">
-<img src="../images/algarve/15.png">
+<img src="../images/algarve/15.jpg">
 </div>
 <p class="f7 pb3" style="max-width: 650px; margin: auto;">
 Photos via <a href="https://www.instagram.com/jyae7777/" target="blank">Joanne Yae</a></p>
@@ -157,13 +157,13 @@ As beautiful as Lagos is, the most beautiful thing about this town were the loca
 <p class="f4 pt4 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">Take a day trip to Faro</p>
 
 <div class="fl w-100 mb1 mb2-ns">
-<img src="../images/algarve/16.png">
+<img src="../images/algarve/16.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/algarve/17.png">
+<img src="../images/algarve/17.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb2">
-<img src="../images/algarve/18.png">
+<img src="../images/algarve/18.jpg">
 </div>
 <p class="f7 pb3" style="max-width: 650px; margin: auto;">
 Photos via <a href="https://www.instagram.com/jyae7777/" target="blank">Joanne Yae</a></p>
@@ -185,7 +185,7 @@ Joanne is a developer and surfer girl wannabe based in NYC with a serious skill 
 
 <div class="fl w-100 w-50-ns pr2-ns mb4">
   <a href="http://theinnbox.co/bariloche-argentina-travel-guide/"><div class="relative" style="height: 450px; background-color:#ECEAE7;">
-    <div class="bg-center cover" style="background-image: url('../images/bariloche/bariloche_header.png'); padding-bottom:100%; width:100%;"></div>
+    <div class="bg-center cover" style="background-image: url('../images/bariloche/bariloche_header.jpg'); padding-bottom:100%; width:100%;"></div>
     <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
       <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
       <a class="f5 lh-title post-link" href="http://theinnbox.co/bariloche-argentina-travel-guide/">Your travel guide to Bariloche, Argentina: where to stay and what to do.</a>
@@ -197,7 +197,7 @@ Joanne is a developer and surfer girl wannabe based in NYC with a serious skill 
 
 <div class="fl w-100 w-50-ns pl2-ns mb1 mb0-ns">
   <a href="http://theinnbox.co/granada-nicaragua-travel-guide/"><div class="relative" style="height: 450px; background-color:#ECEAE7;">
-    <div class="bg-center cover" style="background-image: url('../images/granada/NICA_HEADER.png'); padding-bottom:100%; width:100%;"></div>
+    <div class="bg-center cover" style="background-image: url('../images/granada/NICA_HEADER.jpg'); padding-bottom:100%; width:100%;"></div>
     <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
       <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
       <a class="f5 lh-title post-link" href="http://theinnbox.co/granada-nicaragua-travel-guide/">Your travel guide to Granada, Nicaragua: where to stay and what to do.</a>

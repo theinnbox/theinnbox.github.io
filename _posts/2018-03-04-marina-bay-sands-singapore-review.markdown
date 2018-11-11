@@ -4,14 +4,16 @@ title:  "Hotel Review: The Marina Bay Sands in Singapore"
 author: Sabrina Majeed
 author_ig: sabrinasans
 date:   2018-03-04 00:10:36 -0400
-thumbnail: ../images/mbs/17.png
+thumbnail: ../images/mbs/17.jpg
 categories: review
 review_dates: "February 6, 2018"
 review_rate: 408
 review_guests: "Her Boyfriend"
 ---
 
-<img class="mt4-ns mt3 mb4-ns mb3" src="/images/mbs/17.png">
+
+<img class="mt4-ns mt3 mb4-ns mb3" src="/images/mbs/17.jpg">
+
 
 <p class="pb4 f4" style="max-width: 650px; margin: auto;">
 It was 2017's most instagrammed hotel in the world and has dozens of other accolades thanks to its iconic rooftop pool, which is the largest elevated swimming pool in the world. The <a href="http://www.booking.com/hotel/sg/marina-bay-sands.html?aid=1452227" target="new">Marina Bay Sands</a> is an architectural marvel at the top of many traveler's bucket list. </p>
@@ -34,13 +36,13 @@ Turns out that because we had booked a "Premier" room— the cheapest option ava
 With check-in having gone smoother than expected, we headed to the room... </p>
 
 <div class="fl w-100 mb1 mb2-ns">
-<img src="../images/mbs/2.png">
+<img src="../images/mbs/2.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/mbs/3.png">
+<img src="../images/mbs/3.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/mbs/4.png">
+<img src="../images/mbs/4.jpg">
 </div>
 
 <p class="f3 pb2" style="max-width: 650px; margin: auto; font-family: 'Gilroy-ExtraBold';">The Room</p>
@@ -52,20 +54,20 @@ So my one reservation when it came to booking the Marina Bay Sands was that in t
 So it was a sense of relief I felt when I saw a hazy figure of myself reflected back in the silvery fabric panel behind the bed, cool grey walls, and blonde wood paneling. Maybe they'd updated their rooms since the original photos were taken. Whatever they did, I was just grateful I didn't just spend $400 to stay in like, a room at the Marriott in the 80's. The overall look was actually a bit understated and refined. Was it super unique or trendy? No, but I don't think it's trying to be. She may not be the most charismatic hotel on the block, but Marina is a classy lady who knows who she is.</p>
 
 <div class="fl w-100 mb1 mb2-ns">
-<img src="../images/mbs/5.png">
+<img src="../images/mbs/5.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/mbs/6.png">
+<img src="../images/mbs/6.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/mbs/1.png">
+<img src="../images/mbs/1.jpg">
 </div>
 
 <p class="pb4-ns pb3" style="max-width: 650px; margin: auto;">
 Our room was designated a "Garden View" room. The alternatives being Sky View, Harbor View, and City View. The distinction between each is a little confusing to me, but I was really happy with our view. We could see both the gardens as well as all the boats docked at sea. I would definitely recommend a Garden/Sea-facing view over the City view because you'll get to see the City view anyway when you visit the pool!</p>
 
 <div class="fl w-100 mb3 mb4-ns">
-<img src="../images/mbs/7.png">
+<img src="../images/mbs/7.jpg">
 </div>
 
 <p class="f3 pb2" style="max-width: 650px; margin: auto; font-family: 'Gilroy-ExtraBold';"> Bathrooms</p>
@@ -73,29 +75,29 @@ Our room was designated a "Garden View" room. The alternatives being Sky View, H
 <p class="pb4-ns pb3" style="max-width: 650px; margin: auto;">The bathroom may have been my favorite part about our stay at the Marina Bay Sands. It felt glamorous and spacious, and the huge bathtub was perfect for a nighttime soak. I also appreciated that the shower and the toilet were in separate rooms. I love full-steam room showers and while I'm not sure if the Marina Bay's set up fully counts as one, it felt close enough to me. They also get bonus points for putting a little bench in the shower room.</p>
 
 <div class="fl w-100 mb1 mb2-ns">
-<img src="../images/mbs/8.png">
+<img src="../images/mbs/8.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/mbs/9.png">
+<img src="../images/mbs/9.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/mbs/10.png">
+<img src="../images/mbs/10.jpg">
 </div>
 
 <p class="pb4-ns pb3" style="max-width: 650px; margin: auto;">
 Out of their toiletries I only used the body-wash because I brought my own conditioner/shampoo. It smelled really good but wasn't particularly memorable. I was kind of hoping that a hotel of this caliber would partner with a more well known brand like how the Park Hyatt Tokyo supplies Aesop products.</p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/mbs/12.png">
+<img src="../images/mbs/12.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb2">
-<img src="../images/mbs/11.png">
+<img src="../images/mbs/11.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/mbs/13.png">
+<img src="../images/mbs/13.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/mbs/14.png">
+<img src="../images/mbs/14.jpg">
 </div>
 
 <p class="f3 pb2" style="max-width: 650px; margin: auto; font-family: 'Gilroy-ExtraBold';">The Pool</p>
@@ -104,16 +106,16 @@ Out of their toiletries I only used the body-wash because I brought my own condi
 </p>
 
 <div class="fl w-100 mb3 mb4-ns">
-<img src="../images/mbs/15.png">
+<img src="../images/mbs/15.jpg">
 </div>
 
 <p class="pb4-ns pb3" style="max-width: 650px; margin: auto;">Hanging off the edge of the pool and seeing all of Singapore before me, it really makes any other infinity pool that isn't paired with that kind of view pale in comparison. Like this is what infinity pools were <i>made</i> for. You really do feel like you're on top of the world, and it's hard not to think about how lucky you are to be there. For those who are interested in swimming laps, the most central pool section does have swim lanes in the morning. However, because of the size the pool sections it seems more useful for wading, chilling, and taking in the view rather than active swimming.</p>
 
 <div class="fl w-100 mb1">
-<img src="../images/mbs/16.png">
+<img src="../images/mbs/16.jpg">
 </div>
 <div class="fl w-100 mb3 mb4-ns">
-<img src="../images/mbs/18.png">
+<img src="../images/mbs/18.jpg">
 </div>
 
 
@@ -135,7 +137,7 @@ There's not much else around the Marina Bay Sands besides other attractions whic
 </p>
 
 <div class="fl w-100 mb3 mb4-ns">
-<img src="../images/mbs/19.png">
+<img src="../images/mbs/19.jpg">
 </div>
 
 
@@ -149,7 +151,7 @@ What the immediate area around the hotel lacks in culture it gains in convenient
 The Marina Bay Sands has elevators for days, facilities for disabled guests and wheelchairs available for rent on a first-come-first-serve basis (though I think you can reserve one in advance). Many of the attractions nearby the hotel are also wheelchair friendly, such as the Gardens by the Bay, ArtScience Museum, and the SkyPark at the top of the hotel. I recommend checking out this helpful <a href="http://spintheglobe.net/dir/2018/02/27/wheelchair-accessible-things-to-do-singapore/">article</a> on wheelchair accessible things to do in Singapore.</p>
 
 <div class="fl w-100 mb3 mb4-ns">
-<img src="../images/mbs/20.png">
+<img src="../images/mbs/20.jpg">
 </div>
 <p class="f3 pb2" style="max-width: 650px; margin: auto; font-family: 'Gilroy-ExtraBold';">TL;DR</p>
 
@@ -173,7 +175,7 @@ As for me, I typically think booking anywhere over $200/night range is a splurge
 
 <div class="fl w-100 w-50-ns pr2-ns mb4">
   <a href="http://theinnbox.co/birdhouse-el-nido-review/"><div class="relative" style="height: 450px; background-color:#ECEAE7;">
-    <div class="bg-center cover" style="background-image: url('../images/birdhouse/1.png'); padding-bottom:100%; width:100%;"></div>
+    <div class="bg-center cover" style="background-image: url('../images/birdhouse/1.jpg'); padding-bottom:100%; width:100%;"></div>
     <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
       <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
       <a class="f5 lh-title post-link" href="http://theinnbox.co/birdhouse-el-nido-review/">Hotel Review: The Birdhouse El Nido in Palawan, Philippines</a>
@@ -185,7 +187,7 @@ As for me, I typically think booking anywhere over $200/night range is a splurge
 
 <div class="fl w-100 w-50-ns pl2-ns mb1 mb0-ns">
   <a href="http://theinnbox.co/my-love-inn-lijiang-review/"><div class="relative" style="height: 450px; background-color:#ECEAE7;">
-    <div class="bg-center cover" style="background-image: url('../images/myloveinn/1.png'); padding-bottom:100%; width:100%;"></div>
+    <div class="bg-center cover" style="background-image: url('../images/myloveinn/1.jpg'); padding-bottom:100%; width:100%;"></div>
     <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
       <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
       <a class="f5 lh-title post-link" href="http://theinnbox.co/my-love-inn-lijiang-review/">Hotel Review: My Love Inn in Lijiang, China</a>

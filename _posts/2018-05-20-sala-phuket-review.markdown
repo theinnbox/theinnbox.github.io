@@ -4,14 +4,16 @@ title:  "Hotel Review: SALA Phuket Resort & Spa in Phuket, Thailand"
 author: Sabrina Majeed
 author_ig: sabrinasans
 date:   2018-04-30 00:10:36 -0400
-thumbnail: ../images/sala/01.png
+thumbnail: ../images/sala/01.jpg
 categories: review
 review_dates: "May 8 — 10, 2018"
 review_rate: 249
 review_guests: "Her Boyfriend"
 ---
 
-<img class="mt4-ns mt3 mb4-ns mb3" src="/images/sala/01.png">
+
+<img class="mt4-ns mt3 mb4-ns mb3" src="/images/sala/01.jpg">
+
 
 <p class="pb3 f4" style="max-width: 650px; margin: auto;">
 If you've been following The Innbox for awhile now, you've probably picked up on the fact that I'm not a big fan of resorts. My main reasons for avoiding them being that they are expensive, often devoid of any personality, and too insulated from the actual place you're there to visit. I know, I know, <i>#notallresorts</i>— that's exactly what this review is about.</p>
@@ -32,10 +34,10 @@ I decided on the <a href="https://www.agoda.com/partners/partnersearch.aspx?pcs=
 We arrived at the Sala Phuket at exactly 4 PM— their designated check-in time. After being greeted with a refreshing glass of lemongrass iced tea and a short wait, we were escorted to our suite by one of the hotel staff. They gave us a quick tour of the premises and then left us to enjoy ourselves in our new space.</p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/sala/02.png">
+<img src="../images/sala/02.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/sala/03.png">
+<img src="../images/sala/03.jpg">
 </div>
 
 <p class="pb4-ns pb3" style="max-width: 650px; margin: auto;">
@@ -51,36 +53,36 @@ The Sala Phuket offers a vast range of different room options, from the most aff
 Upon entering the suite the first thing we saw was its centerpiece— a bright blue pool that's the perfect size for two to four people to comfortably enjoy. Directly across from the entrance is a narrow, glass windowed building which serves as the suite's bedroom.</p>
 
 <div class="fl w-100 mb1 mb2-ns">
-<img src="../images/sala/04.png">
+<img src="../images/sala/04.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/sala/06.png">
+<img src="../images/sala/06.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb1 mb2-ns">
-<img src="../images/sala/07.png">
+<img src="../images/sala/07.jpg">
 </div>
 <div class="fl w-100 mb3 mb4-ns">
-<img src="../images/sala/05.png">
+<img src="../images/sala/05.jpg">
 </div>
 
 <p class="pb4-ns pb3" style="max-width: 650px; margin: auto;">
 The bedroom has an extremely spacious layout: there's a large king bed right in the middle of the room, with plenty of space for a desk on one side of it and a sofa and coffee-table on the other. There is a narrow walkway behind the bed reserved for the mini-bar as well as closet space. I was relieved to find that one of the closets had a full-length mirror in it; an amenity that should be guarantee but isn't always.</p>
 
 <div class="fl w-100 mb1 mb2-ns">
-<img src="../images/sala/08.png">
+<img src="../images/sala/08.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/sala/09.png">
+<img src="../images/sala/09.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/sala/10.png">
+<img src="../images/sala/10.jpg">
 </div>
 
 <p class="pb4-ns pb3" style="max-width: 650px; margin: auto;">
 Like many hotels in Asia, electricity in the suite is controlled by your key. While inside we always managed to stay comfortably cool thanks to the 5-speed fans, which can be controlled for either side of the room. The room's small living area also includes a comfortable sofa which I could easily see being used as an additional bed for a small child. In the middle of the day when it was too hot to be outdoors we retreated inside the breezy bedroom and spent the next few hours lounging around watching cable TV movies on the flatscreen before it was cool enough for another dip in the pool.</p>
 
 <div class="fl w-100 mb3 mb4-ns">
-<img src="../images/sala/11.png">
+<img src="../images/sala/11.jpg">
 </div>
 
 <p class="f3 pb2" style="max-width: 650px; margin: auto; font-family: 'Gilroy-ExtraBold';">The Bathroom</p>
@@ -90,23 +92,23 @@ The outdoor bathroom is one of the suite's highlights— particularly the glamor
 </p>
 
 <div class="fl w-100 mb1 mb2-ns">
-<img src="../images/sala/12.png">
+<img src="../images/sala/12.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/sala/13.png">
+<img src="../images/sala/13.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/sala/14.png">
+<img src="../images/sala/14.jpg">
 </div>
 
 <p class="pb4-ns pb3" style="max-width: 650px; margin: auto;">
 For quicker rinses there's also an outdoor shower on a wooden platform to the right of the bath tub. There's an optional privacy curtain you can use around it if needed, although when not in use it adds to the suite's palatial ambiance.</p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb2-ns">
-<img src="../images/sala/16.png">
+<img src="../images/sala/16.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/sala/15.png">
+<img src="../images/sala/15.jpg">
 </div>
 
 <p class="pb3" style="max-width: 650px; margin: auto;">
@@ -116,13 +118,13 @@ Kitty corner from the shower is the outdoor toilet, which feels quite private th
 I do want to make it clear though that despite the unwanted intruder, the bathroom is <i>impeccably</i> clean. Cleaner than many indoor bathrooms in hotels I've stayed at. I think the resort does an amazing job at maintaining a space that's ripe for insect life— we are staying on an island after all, so it's to be expected. There were occasionally baby geckos hanging around the walls of the toilet area but they are always harmless and if anything help to deter other pests from the area. For anyone who really can't deal, some of the less expensive rooms and suites do have indoor bathrooms that look just as nice.</p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/sala/17.png">
+<img src="../images/sala/17.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb1 mb2-ns">
-<img src="../images/sala/18.png">
+<img src="../images/sala/18.jpg">
 </div>
 <div class="fl w-100 mb3 mb4-ns">
-<img src="../images/sala/19.png">
+<img src="../images/sala/19.jpg">
 </div>
 
 
@@ -134,27 +136,27 @@ To the left of the mirror is a spacious lounge area, outfitted with the same plu
 <p class="pb4-ns pb3" style="max-width: 650px; margin: auto;">The food at SALA certainly ranks in my top hotel food experiences, and was on par with what I would expect for a resort. Their breakfast, which was inclusive with our rate, consists of both a vast breakfast buffet <i>and</i> your choice of a made-to-order entree from their menu. I ordered the salmon bagel which seemed to be one of their most popular choices at breakfast.</p>
 
 <div class="fl w-100 mb1 mb2-ns">
-<img src="../images/sala/21.png">
+<img src="../images/sala/21.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/sala/22.png">
+<img src="../images/sala/22.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/sala/23.png">
+<img src="../images/sala/23.jpg">
 </div>
 
 <p class="pb4-ns pb3" style="max-width: 650px; margin: auto;">
 The buffet included a cereal/yogurt/granola bar at one end of the room, a hot food bar at the other, a vegetarian/mezze and cold cut station in the middle, a fruit stand, and a toast station with a vast array of spreads to choose from. That's not including the drinks where in addition to your choice between their signature teas (roselle and lemongrass) they also offered vegetable tonics in shot form and — the crème de la crème — a complimentary bloody mary bar.</p>
 
 <div class="fl w-100 mb3 mb4-ns">
-<img src="../images/sala/24.png">
+<img src="../images/sala/24.jpg">
 </div>
 
 <p class="pb4-ns pb3" style="max-width: 650px; margin: auto;">
 We took advantage of room service a couple of times during our stay— and I have to admit I actually preferred the room service meals I ordered to the meal we ate when we actually ventured down to the restaurant for dinner. For room service I ordered their lamb meatballs one day and their open faced steak sandwich the next, both of which were delicious.</p>
 
 <div class="fl w-100 mb3 mb4-ns">
-<img src="../images/sala/20.png">
+<img src="../images/sala/20.jpg">
 </div>
 
 <p class="pb4-ns pb3" style="max-width: 650px; margin: auto;">
@@ -165,35 +167,35 @@ The menu options are expanded if you physically go to the restaurant for dinner.
 <p class="pb3" style="max-width: 650px; margin: auto;">It's funny, since I normally stay in hotels with cozy little rooms, I find myself hanging out in the common areas more often. This was not the case at the SALA Phuket. With our own private pool and outdoor lounging area <i>and</i> room service available, we had little reason to leave the privacy of our suite outside of going to breakfast. That said, there are some really nice facilities here that I would've taken more advantage of if we had a longer stay.</p>
 
 <div class="fl w-100 mb3 mb4-ns">
-<img src="../images/sala/25.png">
+<img src="../images/sala/25.jpg">
 </div>
 
 <p class="pb3 pb4-ns" style="max-width: 650px; margin: auto;">There's a small but clean on-site gym on the hotel grounds with a few machines and hand-weight racks. When I saw it I definitely thought to myself "I'm totally going to work out here" but then I went back to my suite and drank a glass of wine instead.
 </p>
 
 <div class="fl w-100 mb1 mb2-ns">
-<img src="../images/sala/26.png">
+<img src="../images/sala/26.jpg">
 </div>
 <div class="fl w-100 mb3 mb4-ns">
-<img src="../images/sala/27.png">
+<img src="../images/sala/27.jpg">
 </div>
 
 <p class="pb4-ns pb3" style="max-width: 650px; margin: auto;">In the same area as the gym there's also a hair salon, spa, and a sauna.</p>
 
 <div class="fl w-100 mb1 mb2-ns">
-<img src="../images/sala/28.png">
+<img src="../images/sala/28.jpg">
 </div>
 <div class="fl w-100 mb3 mb4-ns">
-<img src="../images/sala/29.png">
+<img src="../images/sala/29.jpg">
 </div>
 
 <p class="pb4-ns pb3" style="max-width: 650px; margin: auto;">The resort's restaurant has both an indoor and outdoor area, with plenty of lounge seating and a roof deck. There's also two communal pools. The restaurant and pool are located right by the property's private beach. Compared to other beaches across Thailand and other countries in Southeast Asia, it's not particularly noteworthy but it is clean and peaceful.</p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/sala/30.png">
+<img src="../images/sala/30.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/sala/31.png">
+<img src="../images/sala/31.jpg">
 </div>
 
 <p class="f3 pb2" style="max-width: 650px; margin: auto; font-family: 'Gilroy-ExtraBold';">The Service</p>
@@ -201,10 +203,10 @@ The menu options are expanded if you physically go to the restaurant for dinner.
 <p class="pb3 pb4-ns" style="max-width: 650px; margin: auto;">We didn't have too much interaction with hotel staff outside from check-in/out and food service but everyone we interacted with was really pleasant. I was also really impressed with their turndown service— aside from turning down the sheets they also come and set up mosquito repellant lights by your bed and also in the outdoor bathroom area, as well as leave you a bottle of one of their homemade teas to enjoy.</p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/sala/32.png">
+<img src="../images/sala/32.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/sala/33.png">
+<img src="../images/sala/33.jpg">
 </div>
 
 <p class="pb3 pb4-ns" style="max-width: 650px; margin: auto;">In addition, because we stayed during my birthday, the hotel sent a complimentary chocolate cake to our suite! It was super fudge-y and surprisingly big (I thought they'd send, like, a slice but it was the whole damn cake). I really appreciated the thoughtful touch.</p>
@@ -220,7 +222,7 @@ You would definitely need to hire a car or cab to come and take you to many of t
 </p>
 
 <div class="fl w-100 mb3 mb4-ns">
-<img src="../images/sala/34.png">
+<img src="../images/sala/34.jpg">
 </div>
 
 <p class="f3 pb2" style="max-width: 650px; margin: auto; font-family: 'Gilroy-ExtraBold';">Accessibility</p>
@@ -232,7 +234,7 @@ I'm genuinely surprised that a resort of this size seems so inaccessible for whe
 <p class="f3 pb2" style="max-width: 650px; margin: auto; font-family: 'Gilroy-ExtraBold';">TL;DR</p>
 
 <div class="fl w-100 mb3 mb4-ns">
-<img src="../images/sala/35.png">
+<img src="../images/sala/35.jpg">
 </div>
 
 <p class="pb3" style="max-width: 650px; margin: auto;">
@@ -267,7 +269,7 @@ Please use our link below to book at SALA Phuket Resort & Spa (or any other hote
 
 <div class="fl w-100 w-50-ns pl2-ns mb1 mb0-ns">
   <a href="http://theinnbox.co/marina-bay-sands-singapore-review/"><div class="relative" style="height: 450px; background-color:#ECEAE7;">
-    <div class="bg-center cover" style="background-image: url('../images/mbs/17.png'); padding-bottom:100%; width:100%;"></div>
+    <div class="bg-center cover" style="background-image: url('../images/mbs/17.jpg'); padding-bottom:100%; width:100%;"></div>
     <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
       <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
       <a class="f5 lh-title post-link" href="http://theinnbox.co/marina-bay-sands-singapore-review/">Hotel Review: The Marina Bay Sands in Singapore</a>

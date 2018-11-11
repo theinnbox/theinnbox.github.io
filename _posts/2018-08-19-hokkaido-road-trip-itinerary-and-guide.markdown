@@ -4,11 +4,13 @@ title:  "Traversing Hokkaido in 8 days: a road trip itinerary and travel guide"
 author: Sabrina Majeed
 author_ig: sabrinasans
 date:   2018-08-18 00:10:36 -0400
-thumbnail: ../images/hokkaido-2/AKA_1.png
+thumbnail: ../images/hokkaido-2/AKA_1.jpg
 categories: list
 ---
 
-<img class="mt3-ns mt3 mb4-ns mb3" src="../images/hokkaido-2/AKA_1.png">
+
+
+<img class="mt3-ns mt3 mb4-ns mb3" src="../images/hokkaido-2/AKA_1.jpg">
 
 <p class="pb3" style="max-width: 650px; margin: auto;">When one imagines traveling to Japan, the first image that comes to mind may be the bustling neon lights of Tokyo, or the tranquil temples in Kyoto. Perhaps even the southern beaches of Kyushu. Hokkaido, Japan’s northerly pastoral island, doesn’t typically rank high on the list— but I have a feeling that’s about to change. While it still feels off the radar for American travelers, vacationers in Asian countries such as Taiwan, China, South Korea, and Thailand have been increasingly flocking to this bountiful island.</p>
 
@@ -26,7 +28,7 @@ categories: list
 <p class="f3 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">Day 1: Arrive in Hakodate</p>
 
 <div class="fl w-100 mb3 mb4-ns">
-<img src="../images/hokkaido-2/HKD_1.png">
+<img src="../images/hokkaido-2/HKD_1.jpg">
 </div>
 
 <p id="anchor" class="pb3" style="max-width: 650px; margin: auto;">
@@ -39,10 +41,10 @@ You can reach Hakodate from Honshu via the recently opened Shinkansen station, o
 Once you're there; drive to the top of <a href="https://goo.gl/maps/JT6BhxM1nZu" target="new">Mt. Hakodate</a> at night for a stunning view of the city and surrounding bay. Take a stroll around the star-shaped <a href="https://goo.gl/maps/WUriky9CsoC2" target="new">Goryokaku Fort</a> and learn about its’s role and history in the Boshin War. Eat at <a href="https://goo.gl/maps/CDUifJUYyTo" target="new">Lucky Pierrot</a>, a colorful clown-themed local chain that serves some dope burgers and spaghetti. Eat breakfast at the Morning Seafood Market, and indulge in all the ice-cream your heart desires— Hokkaido's known for their dairy! My first cone was at a simple stand in the hills of Hakodate, <a href="https://www.google.co.th/search?tbm=lcl&q=%E6%89%8B%E4%BD%9C%E3%82%8A%E3%82%BD%E3%83%95%E3%83%88%E5%A4%A7%E4%B8%89%E5%9D%82&rflfq=1&num=20&stick=H4sIAAAAAAAAAB1Ru00DQRSUE0R-iGAjl_D-814XtGAhIwJLRqYx6qIKZpE2OM3efPf5ab2oSk2YmnqNVSER6wivDJGcdrSlmAxBUQSiO8p9ZqRBfrnIpOikF1wsWtfhrZkd6dJZqY3eotaAB93GrUU7ex2tKNKnLEMFMFOKisoMo2zjdjXxWkfCDUzozBxBKRD0QfFbbIrKvfORn9TTkNBAlnVlOdFQxqIgdjZvlNs6oCXVVuPCU4oNsrWOsJh0WKiHyzqqWvhfNQnKAYBt5RjKSdKTRYNJ2IqYD5fhrsYtOcd_K0mD7Kk1qwa82Wh7O40yyAo-BXRvTSeuMcGyjNXQn9Pp9_T6dr1_3a7ny-37fv6-Xh7vn-eP--MPFGB0QsoBAAA&ved=2ahUKEwjs8euXv_ncAhVMXCsKHaKoCvUQjHIwGHoECAgQSA&rldimm=11069421213692667574&tbs=lrf:,lf:1#rlfi=hd:;si:10937000227201825274;mv:!1m3!1d47460.1348473532!2d140.73820099999998!3d41.80668899999999!2m3!1f0!2f0!3f0!3m2!1i183!2i383!4f13.1" target="new">手作りソフト 大三坂</a>. On the other end of the ice-cream spectrum was the decadent strawberry ice-cream parfait at <a href="https://goo.gl/maps/Rm7VsrDEF4x" target="new">glacier c’est chouette</a> near Goryokaku Park.</p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/hokkaido-2/HKD_2.png">
+<img src="../images/hokkaido-2/HKD_2.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/hokkaido-2/HKD_3.png">
+<img src="../images/hokkaido-2/HKD_3.jpg">
 </div>
 
 <p id="anchor" class="pb3 pb4-ns" style="max-width: 650px; margin: auto;">
@@ -52,27 +54,27 @@ Hakodate is also one of Hokkaido’s three “ramen cities”. Each city has its
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">Day 2: Hakodate → Otaru → Sapporo</p>
 
 <div class="fl w-100 mb3 mb4-ns">
-<img src="../images/hokkaido-2/SAP_1.png">
+<img src="../images/hokkaido-2/SAP_1.jpg">
 </div>
 
 <p class="pb3 pb4-ns" style="max-width: 650px; margin: auto;">
 Hit up Hakodate’s <a href="https://goo.gl/maps/FnyUsD99tVM2" target="new">Morning Seafood Market</a> on your way out of the city— it’ll help guarantee an early start. We tried some fresh uni from a crowded stand and then picked a restaurant next door to the indoor market for some chirashi for breakfast.</p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/hokkaido-2/HKD_4.png">
+<img src="../images/hokkaido-2/HKD_4.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/hokkaido-2/OTA_2.png">
+<img src="../images/hokkaido-2/OTA_2.jpg">
 </div>
 
 <p class="pb3 pb4-ns" style="max-width: 650px; margin: auto;">
 We decided to take a slight detour and hit up the town of Otaru on the way to Sapporo. Both cities are about a four hour drive from Hakodate, with Otaru being about an hour west of Sapporo. Otaru is most known for it’s small canal by the coast, which is particularly pretty when the water reflects back a sunny, cloudless day. We also stopped by <a href="https://goo.gl/maps/TcFLdnPfSDB2" target="new">Naruto Honten</a> to fuel up on some fried chicken before getting back in the car and heading to Sapporo in time to make our hotel’s happy hour.</p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/hokkaido-2/OTA_1.png">
+<img src="../images/hokkaido-2/OTA_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/hokkaido-2/HKD_5.png">
+<img src="../images/hokkaido-2/HKD_5.jpg">
 </div>
 
 <p class="pb3 pb4-ns" style="max-width: 650px; margin: auto;">
@@ -81,43 +83,43 @@ Sapporo is Hokkaido’s largest city and in retrospect, it would’ve been nice 
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">Day 3: Sapporo → Nakafurano</p>
 
 <div class="fl w-100 mb3 mb4-ns">
-<img src="../images/hokkaido-2/FUR_1.png">
+<img src="../images/hokkaido-2/FUR_1.jpg">
 </div>
 
 <p class="pb3 pb4-ns" style="max-width: 650px; margin: auto;">
 It takes about three hours to drive from Sapporo to Nakafurano, but I highly recommend making a slight detour to <a href="https://goo.gl/maps/nRhGQDUHwcQ2" target="new">Makomanai Takino Cemetery</a>. Here you’ll find a stunning, giant stone Buddha enshrined by a minimalist cement circle designed by Tadao Ando. We got to see more of Ando’s work on Naoshima and Teshima but this temple may be my favorite of all his spaces that I’ve experienced. From afar you can see the Buddha’s head just peeking out from a hill surrounded by seasonal lavender blooms. It was like no other temple I’ve seen before, and a nice sneak preview of the flower fields we’d soon see in Nakafurano.</p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/hokkaido-2/SAP_2.png">
+<img src="../images/hokkaido-2/SAP_2.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/hokkaido-2/SAP_3.png">
+<img src="../images/hokkaido-2/SAP_3.jpg">
 </div>
 
 <p class="pb3 pb4-ns" style="max-width: 650px; margin: auto;">
 Taking the detour to Makomanai will also help you arrive in Nakafurano later in the afternoon. Here’s why that’s a good idea— Furano is going to be the most crowded and tourist-packed place you’ll visit in Hokkaido. <a href="https://goo.gl/maps/46ntAfiP7GM2" target="new">Farm Tomita</a>, which has free admission, is the spot to view epic flower fields and rows upon rows of local lavender in July. By getting there as close to its closing at 6:00pm you can get your golden hour pics and also arrive just as the last of the mega-tour-buses are pulling out of the parking lot. There’s one large lavender field right off the road that most people will be taking photos at. However, if you walk up the left side of that field there’s a little opening that will lead you to another, more secluded field for more optimum photo taking.</p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/hokkaido-2/FUR_3.png">
+<img src="../images/hokkaido-2/FUR_3.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/hokkaido-2/FUR_2.png">
+<img src="../images/hokkaido-2/FUR_2.jpg">
 </div>
 
 <p class="pb3 pb4-ns" style="max-width: 650px; margin: auto;">
 Next door to Farm Tomita is <a href="https://goo.gl/maps/t3gxML4kqw22" target="new">Tomita Melon House</a>, a complex that exclusively sells the town’s famous sweet melons and derivative treats. Melon House closes at 5:30pm so I recommend hitting that up first (and taking advantage of their parking lot). Purchase a slice, half, or whole melon and pair it with some ice-cream, but save room for the famous Lavender ice-cream at Farm Tomita as well. By the time you’re done at Melon House, the crowds at Farm Tomita should be thinning out.</p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/hokkaido-2/FUR_4.png">
+<img src="../images/hokkaido-2/FUR_4.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns pb4 pb5-ns">
-<img src="../images/hokkaido-2/FUR_5.png">
+<img src="../images/hokkaido-2/FUR_5.jpg">
 </div>
 
 <p class="f4 pt3 pt4-ns pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">Day 4: Nakafurano → Biei → Daisetsuzan National Park → Asahikawa</p>
 
 <div class="fl w-100 mb3 mb4-ns">
-<img src="../images/hokkaido-2/DAI_1.png">
+<img src="../images/hokkaido-2/DAI_1.jpg">
 </div>
 
 <p class="pb3" style="max-width: 650px; margin: auto;">
@@ -127,33 +129,33 @@ If you get an early start to your day, swing by <a href="https://goo.gl/maps/d5e
 A half-hour drive northeast will get you to <a href="https://goo.gl/maps/ufpU2fVtkdx" target="new">Shirogane Blue Pond</a>, also known as Blue Pond Biei. It’s a mysterious light turquoise pool of water that was actually man-made to protect the nearby town of Biei from lava flow due to the nearby volcanoes. However, it’s bright blue color was totally unintentional— a quirk due to minerals suspended in the water. The Blue Pond is another hot tourist spot so don’t be surprised to find it packed, but you really don’t need more than twenty minutes here to walk around the pond before getting back on the road.</p>
 
 <div class="fl w-100 mb3 mb4-ns">
-<img src="../images/hokkaido-2/BIE_1.png">
+<img src="../images/hokkaido-2/BIE_1.jpg">
 </div>
 
 <p class="pb3 pb4-ns" style="max-width: 650px; margin: auto;">
 From the blue pond, continue driving northeast for forty-five minutes to <a href="https://goo.gl/maps/e4hYfA2CdHR2" target="new">Mt. Asahi-dake</a>, the tallest mountain in Daisetsuzan National Park. Park the your car and take the somewhat pricey (~$30 roundtrip) but worth-it ropeway to the peak for a brisk hike around one of the most stunning and surreal landscapes you’ll ever see.</p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/hokkaido-2/DAI_2.png">
+<img src="../images/hokkaido-2/DAI_2.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb1 mb2-ns">
-<img src="../images/hokkaido-2/DAI_5.png">
+<img src="../images/hokkaido-2/DAI_5.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/hokkaido-2/DAI_4.png">
+<img src="../images/hokkaido-2/DAI_4.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/hokkaido-2/DAI_3.png">
+<img src="../images/hokkaido-2/DAI_3.jpg">
 </div>
 
 <p class="pb3 pb4-ns" style="max-width: 650px; margin: auto;">
 Daisetsuzan was originally called Kamuimintara (カムイミンタラ) by the Ainu, the indigenous people of Japan. This roughly translates to “garden of the gods” or “garden where the gods play”, which seems fitting for a terrain that consists of vibrant alpine flora, snowy white glaciers and their glassy melting ponds, and billowing stacks of smoke sprouting off an active volcano. Mt. Olympus is real y’all. </p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/hokkaido-2/DAI_6.png">
+<img src="../images/hokkaido-2/DAI_6.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/hokkaido-2/ASA_1.png">
+<img src="../images/hokkaido-2/ASA_1.jpg">
 </div>
 
 <p class="pb3 pb4-ns" style="max-width: 650px; margin: auto;">
@@ -163,7 +165,7 @@ After you’re done at Asahi-dake drive about an hour north to the city of Asahi
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">Day 5: Asahikawa → Kitami → Abashiri → Koshimizu</p>
 
 <div class="fl w-100 mb3 mb4-ns">
-<img src="../images/hokkaido-2/KIT_2.png">
+<img src="../images/hokkaido-2/KIT_2.jpg">
 </div>
 
 <p class="pb3" style="max-width: 650px; margin: auto;">
@@ -173,29 +175,29 @@ This is where your route may alter depending on the season. In the winter it may
 After driving for about three hours we stopped in Kitami to check out Kitakitsune Farm, a small sanctuary for northern foxes. Pulling up to the “farm” it admittedly looked run-down and a bit sketchy. Especially with all the souvenirs and trinkets on sale at the entrance. We paid about 500 yen to go to the large yard in the back where the foxes roam. There were no park attendants out that day so it was just us and the foxes, with no fences nor cages between us. Most of the foxes were sleeping (maybe we arrived at naptime) but the ones that were awake seemed very calm, albeit cautious. You aren’t supposed to pet them and they will kinda stop near you until realizing you don’t have food and then trot away. It was still pretty cool to see the foxes up close— they are ridiculously cute. It was a nice break to stretch our feet, although we were also lucky that we spotted some foxes in the wild crossing the road a few other times on our road trip, so Kitakitsune is definitely not a “must-see” if you want to catch a glimpse.</p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/hokkaido-2/KIT_3.png">
+<img src="../images/hokkaido-2/KIT_3.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/hokkaido-2/KIT_1.png">
+<img src="../images/hokkaido-2/KIT_1.jpg">
 </div>
 
 <p class="pb3 pb4-ns" style="max-width: 650px; margin: auto;">
 We then headed to the eastern coast near Abashiri, where there are supposedly blooming patches of wildflowers. I can’t say we saw too many wildflowers but I did see a nice variety of wildlife here: a funky caterpillar, an eagle, some horses, and a ghostly white and red moth. There’s also a short little trail that leads to the beach, where you can look out at the fog folding over the Sea of Okhotsk and know that Russia is somewhere on the other side.</p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/hokkaido-2/ABA_1.png">
+<img src="../images/hokkaido-2/ABA_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb1 mb2-ns">
-<img src="../images/hokkaido-2/ABA_4.png">
+<img src="../images/hokkaido-2/ABA_4.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/hokkaido-2/ABA_3.png">
+<img src="../images/hokkaido-2/ABA_3.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb1 mb2-ns">
-<img src="../images/hokkaido-2/ABA_2.png">
+<img src="../images/hokkaido-2/ABA_2.jpg">
 </div>
 <div class="fl w-100 mb3 mb4-ns">
-<img src="../images/hokkaido-2/ABA_5.png">
+<img src="../images/hokkaido-2/ABA_5.jpg">
 </div>
 
 <p class="pb3 pb4-ns" style="max-width: 650px; margin: auto;">
@@ -204,37 +206,37 @@ We ended up in the little town of Koshimizu for the night, to stay at this adora
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">Day 6: Koshimizu → Akan National Park → Kushiro</p>
 
 <div class="fl w-100 mb3 mb4-ns">
-<img src="../images/hokkaido-2/AKA_1.png">
+<img src="../images/hokkaido-2/AKA_1.jpg">
 </div>
 
 <p class="pb3 pb4-ns" style="max-width: 650px; margin: auto;">
 We got a late start on day six because we decided to stop by the potato festival in Koshimizu before leaving town. From there we backtracked about forty-five minutes to Bihoro and then drove south down the Bihoro Pass. At the end of the pass is an observatory, marking the entrance to Akan National Park with breathtaking views of Lake Kussharo. Even on a windy, cloudy day, the water still appeared so bright and blue, and the rolling hills so vividly green. </p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/hokkaido-2/KOS_1.png">
+<img src="../images/hokkaido-2/KOS_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/hokkaido-2/AKA_2.png">
+<img src="../images/hokkaido-2/AKA_2.jpg">
 </div>
 
 <p class="pb3 pb4-ns" style="max-width: 650px; margin: auto;">
 After visiting the observatory we made a game-time decision to go see Kaminoko Blue Pond on the west side of the park. In retrospect, we could’ve headed directly to Kaminoko from Koshimizu and saved some time, but oh well! The Kaminoko pond is blue in a different way than Blue Pond Biei. The water is much clearer and a deep, cerulean color. We couldn’t really find an explanation on why it was blue, just that the water at the center of the pond is so cold that the fallen trees in there never rot. Access to this pond requires driving slowly through a dirt path so it’s a bit secluded and there were very few other people there.</p>
 
 <div class="fl w-100 mb3 mb4-ns">
-<img src="../images/hokkaido-2/AKA_3.png">
+<img src="../images/hokkaido-2/AKA_3.jpg">
 </div>
 
 <p class="pb3 pb4-ns" style="max-width: 650px; margin: auto;">
 After Kaminoko we drove back towards the center of the park and stopped by Mt. Io, an active volcano that constantly emits steam and liquid sulphur. The light brown peaks are stained with a bright, sulphuric yellow and a wash of pastel greys and pinks that make it look quite beautiful. That beauty is somewhat tempered by the air smelling faintly like a bag of farts.</p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/hokkaido-2/AKA_5.png">
+<img src="../images/hokkaido-2/AKA_5.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb1 mb2-ns">
-<img src="../images/hokkaido-2/AKA_6.png">
+<img src="../images/hokkaido-2/AKA_6.jpg">
 </div>
 <div class="fl w-100 mb3 mb4-ns">
-<img src="../images/hokkaido-2/AKA_4.png">
+<img src="../images/hokkaido-2/AKA_4.jpg">
 </div>
 
 <p class="pb3" style="max-width: 650px; margin: auto;">
@@ -246,7 +248,7 @@ Instead we took a quick walk around a short trail by the lake and then got back 
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">Day 7: Kushiro → Noboribetsu</p>
 
 <div class="fl w-100 mb3 mb4-ns">
-<img src="../images/hokkaido-2/MOM_1.png">
+<img src="../images/hokkaido-2/MOM_1.jpg">
 </div>
 
 <p class="pb3" style="max-width: 650px; margin: auto;">
@@ -256,10 +258,10 @@ This was the most brutal of driving days. There’s not really much between the 
 About four hours into our drive, a little bit before Chitose, we stopped for a snack at <a href="https://goo.gl/maps/k5fZ6L8UCrn">Momo Cafe</a>, tucked into the trees off a slow road. Supposedly if you’re lucky you might catch a glimpse of a chipmunk on the cafe grounds but instead we just saw many bright yellow dragonflies. We ordered a chocolate-banana tart and some drinks and were treated to a complimentary slice of a mini-berry tart. Both tarts were delicious and the perfect hit of sugar to keep us going for the rest of the drive.</p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/hokkaido-2/MOM_2.png">
+<img src="../images/hokkaido-2/MOM_2.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/hokkaido-2/MOM_3.png">
+<img src="../images/hokkaido-2/MOM_3.jpg">
 </div>
 
 <p class="pb3 pb4-ns" style="max-width: 650px; margin: auto;">
@@ -268,37 +270,37 @@ When we finally arrived at our onsen in Noboribetsu we immediately changed into 
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">Day 8: Noboribetsu → Lake Tōya → Hakodate</p>
 
 <div class="fl w-100 mb3 mb4-ns">
-<img src="../images/hokkaido-2/NOBO_1.png">
+<img src="../images/hokkaido-2/NOBO_1.jpg">
 </div>
 
 <p class="pb3 pb4-ns" style="max-width: 650px; margin: auto;">
 After a generous breakfast at the onsen we headed out from Noboribetsu. With a whole day ahead of us and the only goal being to get back to Hakodate by night, we planned to spend some time in Jigokudani Hell Valley, an area with steaming sulphur pools and hot springs just outside of Noboribetsu. </p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/hokkaido-2/NOBO_2.png">
+<img src="../images/hokkaido-2/NOBO_2.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/hokkaido-2/NOBO_3.png">
+<img src="../images/hokkaido-2/NOBO_3.jpg">
 </div>
 
 <p class="pb3 pb4-ns" style="max-width: 650px; margin: auto;">
 A short but sweaty hike up and over a mountain in Jigokudani will lead you to <a href="https://goo.gl/maps/i2ReEv57HH12" target="new">Oyunuma Pond</a>, a large sulfurous hot spring pond with surface temperatures of 50 degrees celsius. You may even spot a snake going up the mountain trail like I did and then run off screaming down the other side. Walking a little further around the pond will lead you down a path to a heated sulfur river that is used as a public foot bath. Fair warning though, the water is HOT— in the summer I could only stand to have my feet in there for no more than a minute or so before pulling out and letting them cool off on the surface. I can only imagine how great the toasty temperatures would feel in the late fall or winter seasons though.</p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/hokkaido-2/NOBO_4.png">
+<img src="../images/hokkaido-2/NOBO_4.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/hokkaido-2/NOBO_5.png">
+<img src="../images/hokkaido-2/NOBO_5.jpg">
 </div>
 
 <p class="pb3 pb4-ns" style="max-width: 650px; margin: auto;">
 There is also a bear park located near Jigokudani where you can supposedly feed the bears but I’ve read mixed reviews regarding the well-being of the animals and we decided that we would rather spend the time at Lake Toya on the way back to Hakodate. We grabbed some bento-style lunches from “Hot Chef”, a food stand inside the Hokkaido-based gas station chain Seicomart and decided to eat by the peaceful lake. Like many of the lakes in Hokkaido, Lake Toya is a caldera lake with a cute little island in the middle. The view is really quite peaceful and lush. If you stay late enough there are fireworks set off by the lake in the summertime, however we were exhausted and wanted to get back to Hakodate in time for a relaxing dinner.</p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/hokkaido-2/TOY_1.png">
+<img src="../images/hokkaido-2/TOY_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/hokkaido-2/TOY_2.png">
+<img src="../images/hokkaido-2/TOY_2.jpg">
 </div>
 
 <p class="pb3" style="max-width: 650px; margin: auto;">
@@ -340,7 +342,7 @@ The next morning we dropped our car off at the OTS lot in the airport and a shut
 
 <div class="fl w-100 w-50-ns pr2-ns mb4">
   <a href="http://theinnbox.co/san-luis-obispo-travel-guide/"><div class="relative" style="height: 450px; background-color:#ECEAE7;">
-    <div class="bg-center cover" style="background-image: url('http://theinnbox.co/images/slo/SLO_Header.png'); padding-bottom:100%; width:100%;"></div>
+    <div class="bg-center cover" style="background-image: url('http://theinnbox.co/images/slo/SLO_Header.jpg'); padding-bottom:100%; width:100%;"></div>
     <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
       <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
       <a class="f5 lh-title post-link" href="http://theinnbox.co/san-luis-obispo-travel-guide/">Why not SLO down in San Luis Obispo for your next weekend trip?</a>
@@ -352,7 +354,7 @@ The next morning we dropped our car off at the OTS lot in the airport and a shut
 
 <div class="fl w-100 w-50-ns pl2-ns mb1 mb0-ns">
   <a href="http://theinnbox.co/why-right-now-is-actually-a-good-and-helpful-time-to-visit-mexico-city/"><div class="relative" style="height: 450px; background-color:#ECEAE7;">
-    <div class="bg-center cover" style="background-image: url('http://theinnbox.co/images/mexicocity/MexicoCity_Header.png'); padding-bottom:100%; width:100%;"></div>
+    <div class="bg-center cover" style="background-image: url('http://theinnbox.co/images/mexicocity/MexicoCity_Header.jpg'); padding-bottom:100%; width:100%;"></div>
     <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
       <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
       <a class="f5 lh-title post-link" href="http://theinnbox.co/why-right-now-is-actually-a-good-and-helpful-time-to-visit-mexico-city/">Why right now is actually a good and most helpful time to visit Mexico City</a>

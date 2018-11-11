@@ -4,12 +4,12 @@ title:  "Where to stay in Portland, Maine (and Kennebunkport)"
 author: Sabrina Majeed
 author_ig: sabrinasans
 date:   2018-06-10 00:10:36 -0400
-thumbnail: ../images/portlandme/header.png
+thumbnail: ../images/portlandme/header.jpg
 categories: list
 ---
 
 <p class="pb3" style="max-width: 650px; margin: auto;">
-<img class="mt3-ns mt3 mb4-ns mb3" src="../images/portlandme/header.png"></p>
+<img class="mt3-ns mt3 mb4-ns mb3" src="../images/portlandme/header.jpg"></p>
 
 <p class="tc f3 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'">Why go to Portland?</p>
 
@@ -27,16 +27,16 @@ In addition to places to stay near Downtown Portland, we've included recommendat
 <p class="f4 pt4 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;"><a href="https://www.thepresshotel.com/" target="_blank" class="link underline-hover orange">The Press Hotel</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $290/Night</span></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/portlandme/press_3.png">
+<img src="../images/portlandme/press_3.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb2">
-<img src="../images/portlandme/press_2.png">
+<img src="../images/portlandme/press_2.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/portlandme/press_1.png">
+<img src="../images/portlandme/press_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/portlandme/press_4.png">
+<img src="../images/portlandme/press_4.jpg">
 </div>
 
 <p class="pb2" style="max-width: 650px; margin: auto;">
@@ -48,16 +48,16 @@ Portland's current boutique hotel darling (think the east coast equivalent of Po
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;"><a href="https://www.airbnb.com/rooms/25328" target="_blank" class="link underline-hover orange">"Antique Chic Decor in South Portland"</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $91/Night — 1 Bedroom</span></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/portlandme/airbnb_1.png">
+<img src="../images/portlandme/airbnb_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb2">
-<img src="../images/portlandme/airbnb_3.png">
+<img src="../images/portlandme/airbnb_3.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/portlandme/airbnb_4.png">
+<img src="../images/portlandme/airbnb_4.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/portlandme/airbnb_2.png">
+<img src="../images/portlandme/airbnb_2.jpg">
 </div>
 
 <p class="pb2" style="max-width: 650px; margin: auto;">
@@ -69,16 +69,16 @@ Sophie's South Portland apartment is a case study in doing Airbnb right. An affo
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;"><a href="http://www.mercuryinn.com/rooms/" target="_blank" class="link underline-hover orange">Mercury Inn</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $165/Night — Studio</span></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/portlandme/mercury_3.png">
+<img src="../images/portlandme/mercury_3.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb2">
-<img src="../images/portlandme/mercury_4.png">
+<img src="../images/portlandme/mercury_4.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/portlandme/mercury_2.png">
+<img src="../images/portlandme/mercury_2.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/portlandme/mercury_1.png">
+<img src="../images/portlandme/mercury_1.jpg">
 </div>
 
 <p class="pb2" style="max-width: 650px; margin: auto;">
@@ -89,16 +89,16 @@ The Mercury Inn is a modern take on the classic bed and breakfast with a focus o
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;"><a href="https://www.booking.com/hotel/us/pomegranate-inn.html?aid=1452227" target="_blank" class="link underline-hover orange">Pomegranate Inn</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $279/Night</span></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/portlandme/pome_1.png">
+<img src="../images/portlandme/pome_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb2">
-<img src="../images/portlandme/pome_4.png">
+<img src="../images/portlandme/pome_4.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/portlandme/pome_3.png">
+<img src="../images/portlandme/pome_3.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/portlandme/pome_2.png">
+<img src="../images/portlandme/pome_2.jpg">
 </div>
 
 <p class="pb2" style="max-width: 650px; margin: auto;">
@@ -109,16 +109,16 @@ I'll admit— I'm not the biggest fan of the traditional bed-and-breakfast aesth
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;"><a href="https://www.booking.com/hotel/us/the-cottages-at-cabot-cove.html?aid=1452227" target="_blank" class="link underline-hover orange">Cottages at Cabot Cove</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $249/Night</span></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/portlandme/cabot_1.png">
+<img src="../images/portlandme/cabot_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb2">
-<img src="../images/portlandme/cabot_2.png">
+<img src="../images/portlandme/cabot_2.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/portlandme/cabot_4.png">
+<img src="../images/portlandme/cabot_4.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/portlandme/cabot_3.png">
+<img src="../images/portlandme/cabot_3.jpg">
 </div>
 
 <p class="pb2" style="max-width: 650px; margin: auto;">
@@ -130,16 +130,16 @@ All of the cottages are located on the ground floor.</p>
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;"><a href="https://www.booking.com/hotel/us/captain-jefferds-inn.html?aid=1452227" target="_blank" class="link underline-hover orange">Captain Jefferds Inn</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $259</span></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/portlandme/jefferds_3.png">
+<img src="../images/portlandme/jefferds_3.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb2">
-<img src="../images/portlandme/jefferds_2.png">
+<img src="../images/portlandme/jefferds_2.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/portlandme/jefferds_4.png">
+<img src="../images/portlandme/jefferds_4.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/portlandme/jefferds_1.png">
+<img src="../images/portlandme/jefferds_1.jpg">
 </div>
 
 <p class="pb2" style="max-width: 650px; margin: auto;">
@@ -152,16 +152,16 @@ There are ground floor units at Captain Jefferds Inn.</p>
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;"><a href="https://www.booking.com/hotel/us/kennebunkport-inn-kennebunkport.html?aid=1452227" target="_blank" class="link underline-hover orange">Kennebunkport Inn</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $279/Night</span></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/portlandme/kenne_1.png">
+<img src="../images/portlandme/kenne_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb2">
-<img src="../images/portlandme/kenne_3.png">
+<img src="../images/portlandme/kenne_3.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/portlandme/kenne_2.png">
+<img src="../images/portlandme/kenne_2.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/portlandme/kenne_4.png">
+<img src="../images/portlandme/kenne_4.jpg">
 </div>
 
 <p class="pb2" style="max-width: 650px; margin: auto;">

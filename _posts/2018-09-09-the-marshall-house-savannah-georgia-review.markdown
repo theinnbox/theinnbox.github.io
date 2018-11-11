@@ -153,7 +153,7 @@ Please use our link below to book at The Marshall House (or any other hotel!). T
 
 <div class="fl w-100 w-50-ns pr2-ns mb4">
   <a href="http://theinnbox.co/the-slow-canggu-bali-review/"><div class="relative" style="height: 450px; background-color:#ECEAE7;">
-    <div class="bg-center cover" style="background-image: url('http://theinnbox.co/images/slow/01.png'); padding-bottom:100%; width:100%;"></div>
+    <div class="bg-center cover" style="background-image: url('http://theinnbox.co/images/slow/01.jpg'); padding-bottom:100%; width:100%;"></div>
     <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
       <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
       <a class="f5 lh-title post-link" href="http://theinnbox.co/the-slow-canggu-bali-review/">Hotel Review: The Slow in Canggu, Bali</a>
@@ -165,7 +165,7 @@ Please use our link below to book at The Marshall House (or any other hotel!). T
 
 <div class="fl w-100 w-50-ns pl2-ns mb1 mb0-ns">
   <a href="http://theinnbox.co/the-aviary-hotel-siem-reap-review/"><div class="relative" style="height: 450px; background-color:#ECEAE7;">
-    <div class="bg-center cover" style="background-image: url('http://theinnbox.co/images/aviary/00.png'); padding-bottom:100%; width:100%;"></div>
+    <div class="bg-center cover" style="background-image: url('http://theinnbox.co/images/aviary/00.jpg'); padding-bottom:100%; width:100%;"></div>
     <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
       <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
       <a class="f5 lh-title post-link" href="http://theinnbox.co/the-aviary-hotel-siem-reap-review/">Hotel Review: The Aviary Hotel in Siem Reap, Cambodia</a>

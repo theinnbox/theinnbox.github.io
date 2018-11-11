@@ -4,14 +4,15 @@ title:  "Hotel Review: The Aviary Hotel in Siem Reap, Cambodia"
 author: Sabrina Majeed
 author_ig: sabrinasans
 date:   2018-06-30 00:10:36 -0400
-thumbnail: ../images/aviary/00.png
+thumbnail: ../images/aviary/00.jpg
 categories: review
 review_dates: "June 26 — 28, 2018"
 review_rate: 73
 review_guests: "Her Boyfriend"
 ---
 
-<img class="mt4-ns mt3 mb4-ns mb3" src="/images/aviary/00.png">
+
+<img class="mt4-ns mt3 mb4-ns mb3" src="/images/aviary/00.jpg">
 
 <p class="pb3 pb4-ns f4" style="max-width: 650px; margin: auto;">
 Tucked away from the dusty, bustling streets of Siem Reap is <a href="https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1801609&hl=en&hid=1119219" target="new">The Aviary Hotel</a>, a 25 room boutique hospitality complex. While it appears girded and minimal on the outside, to step across the hotel's threshold is to gain access to a hidden paradise with an aquamarine pool, lush fauna, and world class amenities.</p>
@@ -23,13 +24,13 @@ Tucked away from the dusty, bustling streets of Siem Reap is <a href="https://ww
 Our experience with The Aviary Hotel began as soon as we were greeted by the hotel's resident remork driver at the airport. For those unfamiliar, the remork is Cambodia's motorcycle-based vehicle of choice (similar to Thai tuk tuks). The airport is conveniently located only twenty minutes away from the city proper, and at $6 total each way their transfer service is definitely worth the cost.</p>
 
 <div class="fl w-100 mb1 mb2-ns">
-<img src="../images/aviary/01.png">
+<img src="../images/aviary/01.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/aviary/02.png">
+<img src="../images/aviary/02.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/aviary/03.png">
+<img src="../images/aviary/03.jpg">
 </div>
 
 <p class="pb4-ns pb3" style="max-width: 650px; margin: auto;">
@@ -42,24 +43,24 @@ The Aviary has three tiers of rooms (standard, deluxe, and suites on their top f
 </p>
 
 <div class="fl w-100 mb3 mb4-ns">
-<img src="../images/aviary/04.png">
+<img src="../images/aviary/04.jpg">
 </div>
 
 <p class="pb4-ns pb3" style="max-width: 650px; margin: auto;">
 For example, one thing I appreciated is that the room had both a bench for storing luggage <i>and</i> a proper seating area. Usually hotels only have one or the other and as a result my luggage ends up taking precedence. There was also enough room for a coffee table infront of the cushioned bench, another detail that made the room feel bigger than its 35 square meters.</p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb2-ns">
-<img src="../images/aviary/07.png">
+<img src="../images/aviary/07.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/aviary/06.png">
+<img src="../images/aviary/06.jpg">
 </div>
 
 <p class="pb3" style="max-width: 650px; margin: auto;">
 The room follows the hotel's bird theme, and while I was worried it could go a little overboard and into "put-a-bird-on-it" Etsy-style territory, I think they did a good job in keeping the avian theme feeling fresh and playful. I loved the bird-cage inspired lamps and glossy red sculptures dotting the room. If you've been following this blog then you probably know I feel... <i>a way</i> about wall decals so I was less thrilled about that decorative choice but at least these were metal sculptures mounted on the wall as opposed to vinyl. The metal work is by local non-profit <a href="http://www.theironworkshop.org/" target="new">The Iron Workshop</a> while the textiles are by Siem Reap fashion designer Eric Raisina.</p>
 
 <div class="fl w-100 mb3 mb4-ns">
-<img src="../images/aviary/08.png">
+<img src="../images/aviary/08.jpg">
 </div>
 
 <p class="pb4-ns pb3" style="max-width: 650px; margin: auto;">
@@ -70,17 +71,17 @@ Our room also included a balcony with a great view of the interior courtyard and
 <p class="pb4-ns pb3" style="max-width: 650px; margin: auto;">Okay first of all, the water pressure in this hotel is noticeably amazing. The rainfall shower felt more like a waterfall, although the design of the shower itself is pretty basic. The bathroom also comes equipped with a tub and complimentary lemongrass bath salts, along with a little peek-a-boo window facing the bed.</p>
 
 <div class="fn center mb3 mb4-ns tc" style="max-width: 650px">
-<img src="../images/aviary/09.png">
+<img src="../images/aviary/09.jpg">
 </div>
 
 <p class="pb4-ns pb3" style="max-width: 650px; margin: auto;">
 Another nice detail in the bathroom is the inclusion of a little stool— a convenient surface for a glass of wine or additional toiletries beside the bath, and just a nice place to perch while you brush your teeth.</p>
 
 <div class="fl w-100 mb1 mb2-ns">
-<img src="../images/aviary/10.png">
+<img src="../images/aviary/10.jpg">
 </div>
 <div class="fl w-100 mb3 mb4-ns">
-<img src="../images/aviary/11.png">
+<img src="../images/aviary/11.jpg">
 </div>
 
 <p class="f3 pb2" style="max-width: 650px; margin: auto; font-family: 'Gilroy-ExtraBold';">Common Areas</p>
@@ -89,13 +90,13 @@ Another nice detail in the bathroom is the inclusion of a little stool— a conv
 </p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb-ns">
-<img src="../images/aviary/13.png">
+<img src="../images/aviary/13.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb1 mb2-ns">
-<img src="../images/aviary/12.png">
+<img src="../images/aviary/12.jpg">
 </div>
 <div class="fl w-100 mb3 mb4-ns">
-<img src="../images/aviary/14.png">
+<img src="../images/aviary/14.jpg">
 </div>
 
 <p class="pb3" style="max-width: 650px; margin: auto;">Another nice touch was that each lounge chair came with its own cute little sun hat. There's also a shower for rinsing in the pool area too.</p>
@@ -103,25 +104,25 @@ Another nice detail in the bathroom is the inclusion of a little stool— a conv
 <p class="pb4-ns pb3" style="max-width: 650px; margin: auto;">The hotel also has a spa on the top floor, the Amaret Spa. While the prices are reasonable (particularly relative to anything you'd find in the United States, Western Europe, and even Bangkok) we actually ended up finding a great spot called <a href="http://www.samathispa.com/" target="new">Samathi Spa</a> around the corner from the hotel with the <i>exact</i> same offerings and menu, down to the copy, for less. The spa same package we bought at Samathi for a massage and body wrap for $40 would've been $55 at the hotel so if you're willing to walk one or two minutes around the corner there's discounts to be had.</p>
 
 <div class="fl w-100 mb3 mb4-ns">
-<img src="../images/aviary/15.png">
+<img src="../images/aviary/15.jpg">
 </div>
 
 <p class="pb3 pb4-ns" style="max-width: 650px; margin: auto;">The Aviary Hotel takes its bird theme seriously— maybe a little <i>too</i> seriously— when it comes to their dining facilities. There's The Flock Cafe, Plumage Restaurant, and then Glide Bar and keeping track of the differing opening/closing hours and happy hour times between them was a little confusing.</p>
 
 <div class="fl w-100 mb1 mb2-ns">
-<img src="../images/aviary/16.png">
+<img src="../images/aviary/16.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/aviary/17.png">
+<img src="../images/aviary/17.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb1 mb2-ns">
-<img src="../images/aviary/18.png">
+<img src="../images/aviary/18.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/aviary/20.png">
+<img src="../images/aviary/20.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/aviary/19.png">
+<img src="../images/aviary/19.jpg">
 </div>
 
 <p class="pb4-ns pb3" style="max-width: 650px; margin: auto;">The Glide Bar was really cute though. Unfortunately it had just rained when we went up there so we couldn't enjoy the outdoor space but the bar's indoor area is a small glass box that feels very intimate. They make some beautiful craft cocktails priced between $5 and $6 and also bring out complimentary bar snacks, including these sugared pieces of fried garlic which blew. my. mind.</p>
@@ -131,10 +132,10 @@ Another nice detail in the bathroom is the inclusion of a little stool— a conv
 <p class="pb4-ns pb3" style="max-width: 650px; margin: auto;">Breakfast was included with our rate and taken in the Plumage Restaurant. Included in the free breakfast is your choice of a made to order entree as well as any additional accompaniments you might find in a continental breakfast like toasts, jams, and cereal. The breakfast also includes your choice of a drink.</p>
 
 <div class="fl w-100 mb1 mb2-ns">
-<img src="../images/aviary/21.png">
+<img src="../images/aviary/21.jpg">
 </div>
 <div class="fl w-100 mb3 mb4-ns">
-<img src="../images/aviary/22.png">
+<img src="../images/aviary/22.jpg">
 </div>
 
 <p class="pb3" style="max-width: 650px; margin: auto;">I ordered a pineapple juice which seemed to also include a hint of turmeric. It was delicious. For my entree I ordered the eggs benedict and asked for one singular egg which may have been a mistake. The eggs benedict didn't include any protein or spinach so it was really just a poached egg on a slice of baguette with some hollandaise sauce. Knowing that I probably would've asked for two or ordered something else. My boyfriend ordered a more traditional Cambodian soup and actually thought it was one of the best things he ate during our entire time in Siem Reap, so perhaps it's better to err on the side of more traditional fare.</p>
@@ -146,7 +147,7 @@ Another nice detail in the bathroom is the inclusion of a little stool— a conv
 <p class="pb3" style="max-width: 650px; margin: auto;">The service at The Aviary Hotel was seriously impressive. It felt like I was staying at a hotel much more expensive than the $73/night we paid for it. Every time we exited or entered the hotel someone would run over to open the door for us (which admittedly, may have been a little excessive at times but appreciated nonetheless), and same for entering and exiting the dining room. Everyone was super friendly from the receptionist to the bar tender to our remork driver. When we went on our tour to Angkor Wat with the same driver he came prepared with a cooler filled with ice cold water and wet wipes and would offer us both every time we came back from seeing a different temple. I noticed that this wasn't super common as many of the other remorks driving tourists around the temples didn't seem to have coolers.</p>
 
 <div class="fl w-100 pb2">
-<img src="../images/aviary/25.png">
+<img src="../images/aviary/25.jpg">
 </div>
 <p class="tc mid-gray mb3 mb4-ns i f7">*extremely Miss Vangie voice* Get these cookies!</p>
 
@@ -164,10 +165,10 @@ Similarly, the hotel is located about a five minute walk away from Pub Street, a
 </p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb2-ns">
-<img src="../images/aviary/23.png">
+<img src="../images/aviary/23.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/aviary/24.png">
+<img src="../images/aviary/24.jpg">
 </div>
 
 <p class="f3 pb2" style="max-width: 650px; margin: auto; font-family: 'Gilroy-ExtraBold';">Accessibility</p>
@@ -179,7 +180,7 @@ In the center of the hotel is a spacious glass elevator which goes to all floors
 <p class="f3 pb2" style="max-width: 650px; margin: auto; font-family: 'Gilroy-ExtraBold';">TL;DR</p>
 
 <div class="fl w-100 mb3 mb4-ns">
-<img src="../images/aviary/26.png">
+<img src="../images/aviary/26.jpg">
 </div>
 
 <p class="pb4" style="max-width: 650px; margin: auto;">
@@ -195,7 +196,7 @@ Please use our link below to book at The Aviary Hotel (or any other hotel!). The
 
 <div class="fl w-100 w-50-ns pr2-ns mb4">
   <a href="http://theinnbox.co/hotel-1-busan-review/"><div class="relative" style="height: 450px; background-color:#ECEAE7;">
-    <div class="bg-center cover" style="background-image: url('../images/hotel1/04.png'); padding-bottom:100%; width:100%;"></div>
+    <div class="bg-center cover" style="background-image: url('../images/hotel1/04.jpg'); padding-bottom:100%; width:100%;"></div>
     <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
       <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
       <a class="f5 lh-title post-link" href="http://theinnbox.co/hotel-1-busan-review/">Hotel Review: Hotel 1 in Busan, South Korea</a>
@@ -207,7 +208,7 @@ Please use our link below to book at The Aviary Hotel (or any other hotel!). The
 
 <div class="fl w-100 w-50-ns pl2-ns mb1 mb0-ns">
   <a href="http://theinnbox.co/marina-bay-sands-singapore-review/"><div class="relative" style="height: 450px; background-color:#ECEAE7;">
-    <div class="bg-center cover" style="background-image: url('../images/mbs/17.png'); padding-bottom:100%; width:100%;"></div>
+    <div class="bg-center cover" style="background-image: url('../images/mbs/17.jpg'); padding-bottom:100%; width:100%;"></div>
     <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
       <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
       <a class="f5 lh-title post-link" href="http://theinnbox.co/marina-bay-sands-singapore-review/">Hotel Review: The Marina Bay Sands in Singapore</a>

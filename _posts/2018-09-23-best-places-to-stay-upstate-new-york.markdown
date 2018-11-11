@@ -4,11 +4,13 @@ title:  17 cool places to stay in Upstate New York
 author: Sabrina Majeed
 author_ig: sabrinasans
 date:   2018-09-23 00:10:36 -0400
-thumbnail: ../images/upstate/arnold_1.png
+thumbnail: ../images/upstate/arnold_1.jpg
 categories: list
 ---
 
-<img class="mt3-ns mt3" src="../images/upstate/arnold_1.png">
+
+<img class="mt3-ns mt3" src="../images/upstate/arnold_1.jpg">
+
 <p class="f7 pb3 pb4-ns" style="max-width: 650px; margin: auto;">
 Photos via <a href="http://www.thearnoldhouse.com" target="blank">thearnoldhouse.com</a></p>
 
@@ -27,13 +29,13 @@ Photos via <a href="http://www.thearnoldhouse.com" target="blank">thearnoldhouse
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">1. <a href="http://www.bullandgarland.com/" target="_blank" class="link underline-hover orange">The Bull & Garland</a>, Hobart<span class="f5 light-silver">&nbsp; &nbsp;Starting at $135/Night</span></p>
 
 <div class="fl w-100 mb1 mb2-ns">
-<img src="../images/upstate/bull_1.png">
+<img src="../images/upstate/bull_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/upstate/bull_2.png">
+<img src="../images/upstate/bull_2.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb1 mb2-ns">
-<img src="../images/upstate/bull_3.png">
+<img src="../images/upstate/bull_3.jpg">
 </div>
 <p class="f7 pb3" style="max-width: 650px; margin: auto;">
 Photos via <a href="https://www.airbnb.com/rooms/15002932" target="blank">Airbnb</a></p>
@@ -46,13 +48,13 @@ The Bull & Garland is an English pub and inn located in the Catskills town of Ho
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">2. <a href="https://www.booking.com/hotel/us/brentwood.en.html?aid=1452227" target="_blank" class="link underline-hover orange">Brentwood Hotel</a>, Saratoga Springs<span class="f5 light-silver">&nbsp; &nbsp;Starting at $197/Night</span></p>
 
 <div class="fl w-100 mb1 mb2-ns">
-<img src="../images/upstate/brentwood_1.png">
+<img src="../images/upstate/brentwood_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/upstate/brentwood_2.png">
+<img src="../images/upstate/brentwood_2.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb1 mb2-ns">
-<img src="../images/upstate/brentwood_3.png">
+<img src="../images/upstate/brentwood_3.jpg">
 </div>
 <p class="f7 pb3" style="max-width: 650px; margin: auto;">
 Photos via <a href="https://www.booking.com/hotel/us/brentwood.en.html?aid=1452227" target="blank">Booking.com</a></p>
@@ -65,13 +67,13 @@ Brentwood Hotel is located right off the historic Saratoga race course, America'
 <p id="anchor" class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">3. <a href="https://www.airbnb.com/rooms/16497757" target="_blank" class="link underline-hover orange">The Olive Outpost</a>, Olivebridge<span class="f5 light-silver">&nbsp; &nbsp;Starting at $250/Night</span></p>
 
 <div class="fl w-100 mb1 mb2-ns">
-<img src="../images/upstate/olive_1.png">
+<img src="../images/upstate/olive_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/upstate/olive_2.png">
+<img src="../images/upstate/olive_2.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb1 mb2-ns">
-<img src="../images/upstate/olive_3.png">
+<img src="../images/upstate/olive_3.jpg">
 </div>
 <p class="f7 pb3" style="max-width: 650px; margin: auto;">
 Photos via <a href="https://www.airbnb.com/rooms/16497757" target="blank">Airbnb</a></p>
@@ -84,13 +86,13 @@ This place is so stinkin' cute and perfect for groups. It's the upstate home of 
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">4. <a href="http://getawaycabin.com/kohl3" target="_blank" class="link underline-hover orange">Getaway</a>, Somewhere 2.5 Hours from NYC<span class="f5 light-silver">&nbsp; &nbsp;Starting at $199/Night</span></p>
 
 <div class="fl w-100 mb1 mb2-ns">
-<img src="../images/upstate/getaway_1.png">
+<img src="../images/upstate/getaway_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/upstate/getaway_3.png">
+<img src="../images/upstate/getaway_3.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb1 mb2-ns">
-<img src="../images/upstate/getaway_2.png">
+<img src="../images/upstate/getaway_2.jpg">
 </div>
 <p class="f7 pb3" style="max-width: 650px; margin: auto;">
 Photos via <a href="http://getawaycabin.com/kohl3" target="blank">Getaway.house</a></p>
@@ -106,13 +108,13 @@ Getaway operates three outposts outside the major metropolitan cities of New Yor
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">5. <a href="https://www.foxfiremountainhouse.com" target="_blank" class="link underline-hover orange">Foxfire Mountain House</a>, Mt. Tremper<span class="f5 light-silver">&nbsp; &nbsp;Starting at $200/Night</span></p>
 
 <div class="fl w-100 mb1 mb2-ns">
-<img src="../images/upstate/foxfire_1.png">
+<img src="../images/upstate/foxfire_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/upstate/foxfire_2.png">
+<img src="../images/upstate/foxfire_2.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb1 mb2-ns">
-<img src="../images/upstate/foxfire_3.png">
+<img src="../images/upstate/foxfire_3.jpg">
 </div>
 <p class="f7 pb3" style="max-width: 650px; margin: auto;">
 Photos via <a href="https://www.foxfiremountainhouse.com/" target="blank">Foxfiremountainhouse.com</a></p>
@@ -125,13 +127,13 @@ Foxfire Mountain House is the dreamy little love nest of a nomadic chef and a te
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">6. <a href="https://www.booking.com/hotel/us/stickett-inn.en.html?aid=1452227" target="_blank" class="link underline-hover orange">Stickett Inn</a>, Barryville<span class="f5 light-silver">&nbsp; &nbsp;Starting at $160/Night</span></p>
 
 <div class="fl w-100 mb1 mb2-ns">
-<img src="../images/upstate/stickett_1.png">
+<img src="../images/upstate/stickett_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/upstate/stickett_2.png">
+<img src="../images/upstate/stickett_2.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb1 mb2-ns">
-<img src="../images/upstate/stickett_3.png">
+<img src="../images/upstate/stickett_3.jpg">
 </div>
 <p class="f7 pb3" style="max-width: 650px; margin: auto;">
 Photos via <a href="https://www.booking.com/hotel/us/stickett-inn.en.html?aid=1452227" target="blank">Booking.com</a></p>
@@ -145,13 +147,13 @@ Stickett Inn has been described by its owners as a <a href="http://gayletter.com
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">7. <a href="https://www.sprucetoninn.com/" target="_blank" class="link underline-hover orange">Spruceton Inn</a>, West Kill<span class="f5 light-silver">&nbsp; &nbsp;Starting at $169/Night</span></p>
 
 <div class="fl w-100 mb1 mb2-ns">
-<img src="../images/upstate/spruceton_1.png">
+<img src="../images/upstate/spruceton_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/upstate/spruceton_2.png">
+<img src="../images/upstate/spruceton_2.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb1 mb2-ns">
-<img src="../images/upstate/spruceton_3.png">
+<img src="../images/upstate/spruceton_3.jpg">
 </div>
 <p class="f7 pb3" style="max-width: 650px; margin: auto;">
 Photos via <a href="https://www.sprucetoninn.com/" target="blank">Sprucetoninn.com</a></p>
@@ -165,13 +167,13 @@ Formerley a vacation resort known as "Schwarzenegger's Sunshine Valley House" (y
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">8. <a href="https://www.booking.com/hotel/us/wm-farmer-and-sons.en.html?aid=1452227" target="_blank" class="link underline-hover orange">Wm Farmer & Sons</a>, Hudson<span class="f5 light-silver">&nbsp; &nbsp;Starting at $229/Night</span></p>
 
 <div class="fl w-100 mb1 mb2-ns">
-<img src="../images/upstate/wm_1.png">
+<img src="../images/upstate/wm_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/upstate/wm_2.png">
+<img src="../images/upstate/wm_2.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb1 mb2-ns">
-<img src="../images/upstate/wm_3.png">
+<img src="../images/upstate/wm_3.jpg">
 </div>
 <p class="f7 pb3" style="max-width: 650px; margin: auto;">
 Photos via <a href="https://www.booking.com/hotel/us/wm-farmer-and-sons.en.html?aid=1452227" target="blank">Booking.com</a></p>
@@ -186,13 +188,13 @@ Wm Farmer & Sons has two ground floor units in their "Annex Suite" next door the
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">9. <a href="https://hoteltivoli.org" target="_blank" class="link underline-hover orange">Hotel Tivoli</a>, Tivoli<span class="f5 light-silver">&nbsp; &nbsp;Starting at $229/Night</span></p>
 
 <div class="fl w-100 mb1 mb2-ns">
-<img src="../images/upstate/tivoli_1.png">
+<img src="../images/upstate/tivoli_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/upstate/tivoli_2.png">
+<img src="../images/upstate/tivoli_2.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb1 mb2-ns">
-<img src="../images/upstate/tivoli_3.png">
+<img src="../images/upstate/tivoli_3.jpg">
 </div>
 <p class="f7 pb3" style="max-width: 650px; margin: auto;">
 Photos via <a href="https://hoteltivoli.org" target="blank">Hoteltivoli.org</a></p>
@@ -206,13 +208,13 @@ The Hotel Tivoli is owned and operated by two painters, Brice and Helen Marden, 
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">10. <a href="https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1801609&hl=en&hid=2668037" target="_blank" class="link underline-hover orange">Scribner's Catskill Lodge</a>, Hunter<span class="f5 light-silver">&nbsp; &nbsp;Starting at $200/Night</span></p>
 
 <div class="fl w-100 mb1 mb2-ns">
-<img src="../images/upstate/scribner_1.png">
+<img src="../images/upstate/scribner_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/upstate/scribner_2.png">
+<img src="../images/upstate/scribner_2.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb1 mb2-ns">
-<img src="../images/upstate/scribner_3.png">
+<img src="../images/upstate/scribner_3.jpg">
 </div>
 <p class="f7 pb3" style="max-width: 650px; margin: auto;">
 Photos via <a href="http://www.scribnerslodge.com/" target="blank">Scribnerslodge.com</a></p>
@@ -226,13 +228,13 @@ Scribner's Lodge is the third life of a site that was originally home to a grand
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">11. <a href="http://www.nineriverroad.com" target="_blank" class="link underline-hover orange">9 River Road</a>, Calicoon<span class="f5 light-silver">&nbsp; &nbsp;Starting at $209/Night</span></p>
 
 <div class="fl w-100 mb1 mb2-ns">
-<img src="../images/upstate/9river_1.png">
+<img src="../images/upstate/9river_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/upstate/9river_2.png">
+<img src="../images/upstate/9river_2.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb1 mb2-ns">
-<img src="../images/upstate/9river_3.png">
+<img src="../images/upstate/9river_3.jpg">
 </div>
 <p class="f7 pb3" style="max-width: 650px; margin: auto;">
 Photos via <a href="http://www.nineriverroad.com/" target="blank">Nineriverroad.com</a></p>
@@ -245,13 +247,13 @@ Photos via <a href="http://www.nineriverroad.com/" target="blank">Nineriverroad.
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">12. <a href="http://www.thearnoldhouse.com" target="_blank" class="link underline-hover orange">The Arnold House</a>, Livingston Manor<span class="f5 light-silver">&nbsp; &nbsp;Starting at $249/Night</span></p>
 
 <div class="fl w-100 mb1 mb2-ns">
-<img src="../images/upstate/arnold_1.png">
+<img src="../images/upstate/arnold_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/upstate/arnold_2.png">
+<img src="../images/upstate/arnold_2.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb1 mb2-ns">
-<img src="../images/upstate/arnold_3.png">
+<img src="../images/upstate/arnold_3.jpg">
 </div>
 <p class="f7 pb3" style="max-width: 650px; margin: auto;">
 Photos via <a href="http://www.thearnoldhouse.com" target="blank">Thearnoldhouse.com</a></p>
@@ -264,13 +266,13 @@ The Arnold House was the first boutique hotel opened by Foster Supply Hospitalit
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">13. <a href="https://www.lazymeadow.com/" target="_blank" class="link underline-hover orange">Kate's Lazy Meadow</a>, Mt. Tremper<span class="f5 light-silver">&nbsp; &nbsp;Starting at $99/Night</span></p>
 
 <div class="fl w-100 mb1 mb2-ns">
-<img src="../images/upstate/lazy_1.png">
+<img src="../images/upstate/lazy_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/upstate/lazy_2.png">
+<img src="../images/upstate/lazy_2.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb1 mb2-ns">
-<img src="../images/upstate/lazy_3.png">
+<img src="../images/upstate/lazy_3.jpg">
 </div>
 <p class="f7 pb3" style="max-width: 650px; margin: auto;">
 Photos via <a href="https://www.lazymeadow.com/" target="blank">Lazymeadow.com</a></p>
@@ -284,13 +286,13 @@ Kate's Lazy Meadow is a renovated motel with a famous founder. The kitschy, psyc
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">14. <a href="https://rivertownlodge.com/" target="_blank" class="link underline-hover orange">Rivertown Lodge</a>, Hudson<span class="f5 light-silver">&nbsp; &nbsp;Starting at $265/Night</span></p>
 
 <div class="fl w-100 mb1 mb2-ns">
-<img src="../images/upstate/rivertown_1.png">
+<img src="../images/upstate/rivertown_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/upstate/rivertown_2.png">
+<img src="../images/upstate/rivertown_2.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb1 mb2-ns">
-<img src="../images/upstate/rivertown_3.png">
+<img src="../images/upstate/rivertown_3.jpg">
 </div>
 <p class="f7 pb3" style="max-width: 650px; margin: auto;">
 Photos via <a href="https://rivertownlodge.com/" target="blank">Rivertownlodge.com</a></p>
@@ -304,13 +306,13 @@ If there's a hotel on this list you may have heard of, it's probably Rivertown L
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">15. <a href="https://www.booking.com/hotel/us/roundhouse-beacon2.en.html?aid=1452227" target="_blank" class="link underline-hover orange">The Roundhouse</a>, Beacon<span class="f5 light-silver">&nbsp; &nbsp;Starting at $229/Night</span></p>
 
 <div class="fl w-100 mb1 mb2-ns">
-<img src="../images/upstate/roundhouse_1.png">
+<img src="../images/upstate/roundhouse_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/upstate/roundhouse_2.png">
+<img src="../images/upstate/roundhouse_2.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb1 mb2-ns">
-<img src="../images/upstate/roundhouse_3.png">
+<img src="../images/upstate/roundhouse_3.jpg">
 </div>
 <p class="f7 pb3" style="max-width: 650px; margin: auto;">
 Photos via <a href="https://www.booking.com/hotel/us/roundhouse-beacon2.en.html?aid=1452227" target="blank">Booking.com</a></p>
@@ -325,13 +327,13 @@ Roundhouse has facilities for guests with disabilities.</p>
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">16. <a href="https://atinyhouseresort.com" target="_blank" class="link underline-hover orange">A Tiny House Resort</a>, South Cairo<span class="f5 light-silver">&nbsp; &nbsp;Starting at $175-295/Night</span></p>
 
 <div class="fl w-100 mb1 mb2-ns">
-<img src="../images/upstate/tinyhouse_1.png">
+<img src="../images/upstate/tinyhouse_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/upstate/tinyhouse_2.png">
+<img src="../images/upstate/tinyhouse_2.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb1 mb2-ns">
-<img src="../images/upstate/tinyhouse_3.png">
+<img src="../images/upstate/tinyhouse_3.jpg">
 </div>
 <p class="f7 pb3" style="max-width: 650px; margin: auto;">
 Photos via <a href="https://atinyhouseresort.com/" target="blank">Atinyhouseresort.com</a></p>
@@ -346,13 +348,13 @@ Cabins are elevated and accessible via a few short steps, and surrounded by unpa
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">17. <a href="https://www.thisoldhudson.com/" target="_blank" class="link underline-hover orange">This Old Hudson</a>, Hudson<span class="f5 light-silver">&nbsp; &nbsp;Starting at $295/Night</span></p>
 
 <div class="fl w-100 mb1 mb2-ns">
-<img src="../images/upstate/thisold_1.png">
+<img src="../images/upstate/thisold_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/upstate/thisold_2.png">
+<img src="../images/upstate/thisold_2.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb1 mb2-ns">
-<img src="../images/upstate/thisold_3.png">
+<img src="../images/upstate/thisold_3.jpg">
 </div>
 <p class="f7 pb3" style="max-width: 650px; margin: auto;">
 Photos via <a href="https://www.thisoldhudson.com/" target="blank">Thisoldhudson.com</a></p>
@@ -367,7 +369,7 @@ One of This Old Hudson's units is located on the ground floor, but we recommend 
 
 <div class="fl w-100 w-50-ns pr2-ns mb4">
   <a href="http://theinnbox.co/best-boutique-hotels-paris/"><div class="relative" style="height: 450px; background-color:#ECEAE7;">
-    <div class="bg-center cover" style="background-image: url('http://theinnbox.co/images/paris/paris_header.png'); padding-bottom:100%; width:100%;"></div>
+    <div class="bg-center cover" style="background-image: url('http://theinnbox.co/images/paris/paris_header.jpg'); padding-bottom:100%; width:100%;"></div>
     <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
       <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
       <a class="f5 lh-title post-link" href="http://theinnbox.co/best-boutique-hotels-paris/">The 7 best boutique hotels in Paris under $300</a>
@@ -379,7 +381,7 @@ One of This Old Hudson's units is located on the ground floor, but we recommend 
 
 <div class="fl w-100 w-50-ns pl2-ns mb1 mb0-ns">
   <a href="http://theinnbox.co/where-to-stay-palm-springs/"><div class="relative" style="height: 450px; background-color:#ECEAE7;">
-    <div class="bg-center cover" style="background-image: url('http://theinnbox.co/images/palmsprings/ps_header.png'); padding-bottom:100%; width:100%;"></div>
+    <div class="bg-center cover" style="background-image: url('http://theinnbox.co/images/palmsprings/ps_header.jpg'); padding-bottom:100%; width:100%;"></div>
     <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
       <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
       <a class="f5 lh-title post-link" href="http://theinnbox.co/where-to-stay-palm-springs/">8 Places to Stay in Palm Springs that aren't the Ace Hotel & Pool Club</a>

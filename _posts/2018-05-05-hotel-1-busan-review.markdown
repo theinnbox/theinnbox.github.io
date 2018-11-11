@@ -4,14 +4,15 @@ title:  "Hotel Review: Hotel 1 in Busan, South Korea"
 author: Sabrina Majeed
 author_ig: sabrinasans
 date:   2018-04-30 00:10:36 -0400
-thumbnail: ../images/hotel1/04.png
+thumbnail: ../images/hotel1/04.jpg
 categories: review
 review_dates: "April 24 — 26, 2018"
 review_rate: 77
 review_guests: "Her Boyfriend"
 ---
 
-<img class="mt4-ns mt3 mb4-ns mb3" src="/images/hotel1/00.png">
+
+<img class="mt4-ns mt3 mb4-ns mb3" src="/images/hotel1/00.jpg">
 
 <p class="pb3 f4" style="max-width: 650px; margin: auto;">
 Sunlight sparkles across the water on Gwangan Beach and reflects off the bright, white marble walls of <a href="https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1801609&hl=en&hid=2962286" target="blank">Hotel 1</a> in Busan. The resulting effect makes it feel like you're floating amongst the clouds— it's a modern, minimalist take on a hotel in Heaven. There's even free snacks.</p>
@@ -28,13 +29,13 @@ This hotel is probably one of my favorite "finds", and I truly mean "find" as I 
 The hotel is fairly straight-forward to reach via public transit from Busan station: just hop on the 41 bus and it will practically take you to the hotel's front steps. After a 40 minute ride you'll get off at a bus stop just a couple of small blocks away from the hotel, which sits right on the coast of Gwangan Beach.</p>
 
 <div class="fl w-100 mb1 mb2-ns">
-<img src="../images/hotel1/01.png">
+<img src="../images/hotel1/01.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/hotel1/02.png">
+<img src="../images/hotel1/02.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/hotel1/03.png">
+<img src="../images/hotel1/03.jpg">
 </div>
 
 <p class="pb4-ns pb3" style="max-width: 650px; margin: auto;">
@@ -47,7 +48,7 @@ Hotel 1 is unique because it offers rooms at three separate tiers for different 
 </p>
 
 <div class="fl w-100 mb3 mb4-ns">
-<img src="../images/hotel1/04.png">
+<img src="../images/hotel1/04.jpg">
 </div>
 
 <p class="pb3" style="max-width: 650px; margin: auto;">
@@ -57,40 +58,40 @@ We decided to opt for the slim room instead of splurging on a mansion. Partially
 "Slim" was no exaggeration. The room was as wide as the bed, and the shower, toilet, and sink all take up about half of the bed's width, with the other half serving as your hallway. Because the bed is placed on an elevated platform the room takes advantage of storage underneath it, and uses that platform as a "chair" for a small desk that is positioned behind the shower.</p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb2-ns">
-<img src="../images/hotel1/05.png">
+<img src="../images/hotel1/05.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/hotel1/06.png">
+<img src="../images/hotel1/06.jpg">
 </div>
 
 <p class="pb4-ns pb3" style="max-width: 650px; margin: auto;">
 We had just enough room for our two large bags, which we stored at the end of the bed platform, and placed smaller bags on the desk. We could've placed our luggage on the available space by the window but we liked having that space free for us to relax by. Speaking of that window...</p>
 
 <div class="fl w-100 mb2">
-<img src="../images/hotel1/07.png">
+<img src="../images/hotel1/07.jpg">
 </div>
 <div class="fl w-100 mb3 mb4-ns">
-<img src="../images/hotel1/08.png">
+<img src="../images/hotel1/08.jpg">
 </div>
 
 <p class="pb4-ns pb3" style="max-width: 650px; margin: auto;">
 The view really sealed the deal for me. Whether it was sunrise, cloudy (when these photos were taken), sunny, or nighttime it was like staring out into a real life postcard. We were lucky to have the most perfectly positioned room at our tier, with a window that sticks out a little bit and is angled towards the main crescent of the beach, and the skyscrapers across the water. I've highlighted the rooms with the best views below:</p>
 
 <div class="fl w-100 mb3 mb4-ns">
-<img src="../images/hotel1/09.png">
+<img src="../images/hotel1/09.jpg">
 </div>
 
 <p class="pb4-ns pb3" style="max-width: 650px; margin: auto;">
 If you look at the facade of the hotel you'll see that the middle section extrudes. If you book a "mansion" class room then you want to book the rooms that occupy that extruded space and will give you a full panoramic view, or a corner room on the right side of the hotel (if you are standing across the street facing the hotel). If you are booking a slim or capsule room than you want to book the room on the right side of the extrusion. Any other room on the ocean view side will still give you a nice view of the water and Gwangan Bridge (which has a light show at night) but the angled windows will offer a more panoramic view.</p>
 
 <div class="fl w-100 mb1 mb2-ns">
-<img src="../images/hotel1/10.png">
+<img src="../images/hotel1/10.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/hotel1/11.png">
+<img src="../images/hotel1/11.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/hotel1/12.png">
+<img src="../images/hotel1/12.jpg">
 </div>
 
 <p class="pb4-ns pb3" style="max-width: 650px; margin: auto;">
@@ -101,37 +102,37 @@ The room also comes supplied with a MUJI blow dryer and water heater, and an ele
 <p class="pb4-ns pb3" style="max-width: 650px; margin: auto;">The bathroom is less a self-contained room itself than a series of small boxes. One contains the shower, which although small (there's about 4 square feet of standing room in the slim room shower) still managed to feel luxurious. There's a lovely green and white marble tile used on the shower walls and sink, which at first I was like "hmm that's kind of weird" but then started to slowly fall in love with. Again, it's these small injections of color in this otherwise stark white marble palace that have such a big impact.</p>
 
 <div class="fn center mb3 mb4-ns tc" style="max-width: 650px">
-<img src="../images/hotel1/13.png">
+<img src="../images/hotel1/13.jpg">
 </div>
 
 <p class="pb4-ns pb3" style="max-width: 650px; margin: auto;">
 The other cool thing about the shower is that the rainbath faucet is directly built in to the ceiling, which really sells that sense of immersion than rainbaths try to offer. The shower UI (Can we call it that? Can I make that a thing?) is also pleasantly straight forward, and in addition to the rainbath, and handheld shower head mode, there's also a normal faucet mode ideally for rinsing sandy beach feet.</p>
 
 <div class="fl w-100 mb1 mb2-ns">
-<img src="../images/hotel1/14.png">
+<img src="../images/hotel1/14.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/hotel1/15.png">
+<img src="../images/hotel1/15.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/hotel1/16.png">
+<img src="../images/hotel1/16.jpg">
 </div>
 
 <p class="pb4-ns pb3" style="max-width: 650px; margin: auto;">
 The toilet is located in a separate self contained room next to the shower. There's not too much to say about that. There's a mirror in the room for some reason, and a cute white radio that doesn't get the best signal.</p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb2-ns">
-<img src="../images/hotel1/17.png">
+<img src="../images/hotel1/17.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/hotel1/18.png">
+<img src="../images/hotel1/18.jpg">
 </div>
 
 <p class="pb4-ns pb3" style="max-width: 650px; margin: auto;">
 The sink, which is sandwiched between the door and the toilet room, appears small but packs a surprising amount of surface and storage space. My only complaint is that it does a get a little dark in the sink area because the bathroom and shower stalls are blocking the light from the windows. However, as if the hotel is aware of this, there is a small stand mirror on the desk by the bed which gets unobstructed light on the ocean side of the hotel.</p>
 
 <div class="fl w-100 mb3 mb4-ns">
-<img src="../images/hotel1/19.png">
+<img src="../images/hotel1/19.jpg">
 </div>
 
 
@@ -141,19 +142,19 @@ The sink, which is sandwiched between the door and the toilet room, appears smal
 </p>
 
 <div class="fl w-100 mb3 mb4-ns">
-<img src="../images/hotel1/20.png">
+<img src="../images/hotel1/20.jpg">
 </div>
 
 <p class="pb4-ns pb3" style="max-width: 650px; margin: auto;">This same motif is present on the second floor of the hotel, which includes more traditional dining seating and seating options for groups.</p>
 
 <div class="fl w-100 mb3 mb4-ns">
-<img src="../images/hotel1/21.png">
+<img src="../images/hotel1/21.jpg">
 </div>
 
 <p class="pb4-ns pb3" style="max-width: 650px; margin: auto;">The top floor houses an exposed roof deck with a generous amount of patio seating, but perhaps because of the rainy and not entirely warm April weather, it was pretty dead up there during our stay. The deck is supposedly open between 6pm and midnight but we were able to access it during the day— and when we did try to go at night it was a total ghost town. I imagine it's probably more lively during the summer, otherwise the hotel could do a better job of making it an inviting space and encouraging guests to take advantage of it.</p>
 
 <div class="fl w-100 mb3 mb4-ns">
-<img src="../images/hotel1/22.png">
+<img src="../images/hotel1/22.jpg">
 </div>
 
 <p class="f3 pb2" style="max-width: 650px; margin: auto; font-family: 'Gilroy-ExtraBold';">The Service</p>
@@ -166,7 +167,7 @@ The sink, which is sandwiched between the door and the toilet room, appears smal
 <p class="pb4-ns pb3" style="max-width: 650px; margin: auto;">The food situation at Hotel 1 was both kind of cool, and kind of perplexing. What is cool is that there's a whole big pantry area with snacks that are <i>unlimited</i> and <i>free</i> with your stay for the taking, including ice cream and juice. The only items that you have to pay for are instant noodles and beer. I think this is especially great for travelers on a budget.</p>
 
 <div class="fl w-100 mb3 mb4-ns">
-<img src="../images/hotel1/23.png">
+<img src="../images/hotel1/23.jpg">
 </div>
 
 <p class="pb3 pb4-ns" style="max-width: 650px; margin: auto;">The less cool part was that the hotel offers a breakfast buffet in the mornings for $9 per person but the offerings are... pretty weak. You still need to go to that same pantry area to get your food, but the only difference is there's a few muffins and other types of baked goods set out. The options were about as varied as the grab-and-go options at your local Starbucks. Maybe it was slim pickings because we arrived on the later half of the breakfast service but... I can't imagine what I saw being worth the $9. On the other hand, if you need to eat early there aren't too many places open before 11AM in the immediate area, although there is a mini-mart next door, so pick your poison.</p>
@@ -177,7 +178,7 @@ The sink, which is sandwiched between the door and the toilet room, appears smal
 The hotel is in a very central area on Gwangan beach, one of the two major beaches in Busan. While Haeundae is the more popular beach, I actually preferred the vibe of Gwangan. It was definitely more picturesque— as you get the view looking out towards the buildings near Haeundae rather being amongst them, and it was a little quieter and less crowded. Having been to both I also noticed that many of the bars and restaurants in Haeundae also have a branch in Gwangan.</p>
 
 <div class="fl w-100 mb3 mb4-ns">
-<img src="../images/hotel1/24.png">
+<img src="../images/hotel1/24.jpg">
 </div>
 
 <p class="pb3 pb4-ns" style="max-width: 650px; margin: auto;">Gwangan was also a better base for us to visit the main sights we came to see in Busan, like Taejongdae Park, Jagalchi Fish Market, and Gamcheon Cultural Village, as its closer to them than Haeundae. Public transit, whether by bus or metro line, was also super accessible from Hotel 1. It was probably a five minute walk <i>at most</i> to the nearest stop for either.</p>
@@ -191,7 +192,7 @@ Hotel 1 does have an elevator and claims to have rooms with in-room accessibilit
 <p class="f3 pb2" style="max-width: 650px; margin: auto; font-family: 'Gilroy-ExtraBold';">TL;DR</p>
 
 <div class="fl w-100 mb3 mb4-ns">
-<img src="../images/hotel1/25.png">
+<img src="../images/hotel1/25.jpg">
 </div>
 
 <p class="pb3" style="max-width: 650px; margin: auto;">
@@ -225,7 +226,7 @@ Please use our link below to book at Gwanganli Hotel 1 (or any other hotel!). Th
 
 <div class="fl w-100 w-50-ns pl2-ns mb1 mb0-ns">
   <a href="http://theinnbox.co/marina-bay-sands-singapore-review/"><div class="relative" style="height: 450px; background-color:#ECEAE7;">
-    <div class="bg-center cover" style="background-image: url('../images/mbs/17.png'); padding-bottom:100%; width:100%;"></div>
+    <div class="bg-center cover" style="background-image: url('../images/mbs/17.jpg'); padding-bottom:100%; width:100%;"></div>
     <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
       <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
       <a class="f5 lh-title post-link" href="http://theinnbox.co/marina-bay-sands-singapore-review/">Hotel Review: The Marina Bay Sands in Singapore</a>

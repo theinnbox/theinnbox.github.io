@@ -4,14 +4,16 @@ title:  "Hotel Review: The Slow in Canggu, Bali"
 author: Sabrina Majeed
 author_ig: sabrinasans
 date:   2018-03-25 00:10:36 -0400
-thumbnail: ../images/slow/01.png
+thumbnail: ../images/slow/01.jpg
 categories: review
 review_dates: "May 10 — 12, 2018"
 review_rate: 182.67
 review_guests: "Her Best Friend"
 ---
 
-<img class="mt4-ns mt3 mb4-ns mb3" src="/images/slow/01.png">
+
+<img class="mt4-ns mt3 mb4-ns mb3" src="/images/slow/01.jpg">
+
 
 <p class="pb4 f4" style="max-width: 650px; margin: auto;">
 Just five minutes from the beach in the little surfer town of Canggu is <a href="https://www.agoda.com/partners/partnersearch.aspx?cid=1801609&pcs=1&hid=1515695" target="new">The Slow</a> —  an art gallery as much as it is a boutique hotel and the brainchild of Australian fashion designer George Gorrow (of Ksubi) and his wife Cisco Tschurtschenthaler.</p>
@@ -25,7 +27,7 @@ The hotel, described by its owners as an exercise in "tropical brutalism", was d
 The check-in process at The Slow was surprisingly informal and began as soon as our car pulled up into their driveway. One thing I love about staying at smaller hotels is that with only a few people checking in each day, they seem to know exactly who you are when you arrive. Rather than awkwardly waiting at a desk for them to pull up our information, the staff were ready and immediately took us and our bags to our room, which they proceeded to give us a quick tour of, noting little details like how to control the volume on the in-room speakers and all the storage space in the bathroom.</p>
 
 <div class="fl w-100 mb3 mb4-ns">
-<img src="../images/slow/02.png">
+<img src="../images/slow/02.jpg">
 </div>
 
 <p class="f3 pb2" style="max-width: 650px; margin: auto; font-family: 'Gilroy-ExtraBold';">The Room</p>
@@ -34,30 +36,30 @@ The check-in process at The Slow was surprisingly informal and began as soon as 
 The room itself was one of the most comfortable and spacious that I've ever stayed in. The polished concrete floors and vertically slatted windows made the room feel surprisingly cool despite the hot Bali weather outside. The room's aesthetic seemed to have a decidedly Californian influence— minimalist, modern, and airy but paired with more traditional wooden furniture and textiles. When we first entered the room the stereo was even set to Cali-based <a href="http://reverberationradio.com/" target="new">Reverberation Radio</a>, which we kept on for most of our stay.</p>
 
 <div class="fl w-100 mb1 mb2-ns">
-<img src="../images/slow/03.png">
+<img src="../images/slow/03.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/slow/01.png">
+<img src="../images/slow/01.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/slow/04.png">
+<img src="../images/slow/04.jpg">
 </div>
 
 <p class="pb4-ns pb3" style="max-width: 650px; margin: auto;">
 I loved the low platform bed and found myself curing up with the cozy woven blanket on top of the bed several times during the course of our stay. Another small, appreciated detail was the outlet set-up: an equal amount of outlets on each side of the bed with USB outlets included (perfect for those who forgot to pack an adapter). One other thing I have to compliment The Slow on is their in-room art curation. Normally I find myself unmoved by hotel art. It's usually very predictable, more often than not some kind of floral still life. Even at the nicest hotels! It was refreshing to see something different on the walls at The Slow, which tends to feature more modern art and photography from the Gorrows' personal collection.</p>
 
 <div class="fl w-100 mb3 mb4-ns">
-<img src="../images/slow/05.png">
+<img src="../images/slow/05.jpg">
 </div>
 
 <p class="pb4-ns pb3" style="max-width: 650px; margin: auto;">
 The Slow only has two types of rooms: pool suites and non-pool suits (called grand suites). I initially wanted to book a pool suite but they were unsurprisingly all sold out for my travel dates. Even without a pool the grand suite still felt luxurious— and it's hard to complain when you're just a five minute walk down the street to the nearest beach.</p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/slow/06.png">
+<img src="../images/slow/06.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/slow/07.png">
+<img src="../images/slow/07.jpg">
 </div>
 
 <p class="f3 pb2" style="max-width: 650px; margin: auto; font-family: 'Gilroy-ExtraBold';"> Bathrooms</p>
@@ -65,23 +67,23 @@ The Slow only has two types of rooms: pool suites and non-pool suits (called gra
 <p class="pb4-ns pb3" style="max-width: 650px; margin: auto;">Bathrooms at The Slow have a narrow layout but still managed to feel spacious like the rooms themselves. I loved the open shower, separated from the rest of the bathroom by a single pane of glass and from prying eyes outside by a full-length frosted window. The shower also comes with a handy bench, the perfect prop for shaving legs or hosting your toiletries, and plenty of hooks for hanging towels or clothes.</p>
 
 <div class="fn center mb3 mb4-ns tc" style="max-width: 650px">
-<img src="../images/slow/08.png">
+<img src="../images/slow/08.jpg">
 </div>
 
 <p class="pb4-ns pb3" style="max-width: 650px; margin: auto;">
 The bathroom also kind of serves as a walk-in closet with ample storage space, including tons of drawers or a platform perfect for throwing your suitcase on top of (if you're lazy like me and don't want to fully unpack). There's also a large full-length mirror at the opposite end of the bathroom from the shower which was *very* appreciated, because if there's one thing I always lament when it's missing in a hotel room, it's a full-length mirror.</p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/slow/12.png">
+<img src="../images/slow/12.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb2">
-<img src="../images/slow/09.png">
+<img src="../images/slow/09.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/slow/10.png">
+<img src="../images/slow/10.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/slow/11.png">
+<img src="../images/slow/11.jpg">
 </div>
 
 <p class="f3 pb2" style="max-width: 650px; margin: auto; font-family: 'Gilroy-ExtraBold';">Common Areas</p>
@@ -90,13 +92,13 @@ The bathroom also kind of serves as a walk-in closet with ample storage space, i
 </p>
 
 <div class="fl w-100 mb3 mb4-ns">
-<img src="../images/slow/13.png">
+<img src="../images/slow/13.jpg">
 </div>
 
 <p class="pb4-ns pb3" style="max-width: 650px; margin: auto;">Downstairs at the bar and restaurant, things are a little more active. We spent a lot of our downtime just chilling at the bar with a glass of rosé, chatting idly with the staff and occasionally with other guests when seated on the two sofas in the lobby. The ground floor of the hotel also acts as an art gallery with a rotating collection of artwork on display there. While we were there they were displaying work by <a href="http://www.brooklynwhelan.com/" target="new">Brooklyn Whelan</a> and <a href="https://www.josemiguelmendez.com/" target="new">Jose Mendez.</a></p>
 
 <div class="fl w-100 mb3 mb4-ns">
-<img src="../images/slow/14.png">
+<img src="../images/slow/14.jpg">
 </div>
 
 <p class="f3 pb2" style="max-width: 650px; margin: auto; font-family: 'Gilroy-ExtraBold';">The Service</p>
@@ -108,10 +110,10 @@ The bathroom also kind of serves as a walk-in closet with ample storage space, i
 <p class="pb4-ns pb3" style="max-width: 650px; margin: auto;">Breakfast at The Slow may have been my favorite of the whole trip to Bali. While it wasn't included in our stay, it felt reasonably affordable for the quality. If I'm being honest, a lot of my meals at trendier restaurants in Bali tended to look a lot better than they tasted, but the food at The Slow's restaurant actually tasted incredible. I ordered this jackfruit-bread with roasted bananas for breakfast and while I've had jackfruit many times before, I've never had anything quite like this. The bread was perfectly moist, with just the right amount of sweetness and jackfruit chunks baked in. They've also got a nice selection of juices and cocktails which are bottled on site. In retrospect I kind of wish we ate more of our meals at the restaurant!</p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/slow/16.png">
+<img src="../images/slow/16.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/slow/17.png">
+<img src="../images/slow/17.jpg">
 </div>
 
 <p class="f3 pb2" style="max-width: 650px; margin: auto; font-family: 'Gilroy-ExtraBold';">The Neighborhood</p>
@@ -126,7 +128,7 @@ The Slow is located in a neighborhood on Bali's southwest coast called Canggu (p
 While The Slow doesn't outright claim to be accessible, there are ground floor units available (the more expensive pool suites). The upper units are unfortunately only accessible by stairs. If planning to stay in Canggu, wheelchair users should be aware that the sidewalks in the area around The Slow can often be blocked with construction debris.</p>
 
 <div class="fl w-100 mb3 mb4-ns">
-<img src="../images/slow/15.png">
+<img src="../images/slow/15.jpg">
 </div>
 
 <p class="f3 pb2" style="max-width: 650px; margin: auto; font-family: 'Gilroy-ExtraBold';">TL;DR</p>
@@ -143,7 +145,7 @@ I would totally recommend The Slow to any art and design lovers planning a trip 
 
 <div class="fl w-100 w-50-ns pr2-ns mb4">
   <a href="http://theinnbox.co/birdhouse-el-nido-review/"><div class="relative" style="height: 450px; background-color:#ECEAE7;">
-    <div class="bg-center cover" style="background-image: url('../images/birdhouse/1.png'); padding-bottom:100%; width:100%;"></div>
+    <div class="bg-center cover" style="background-image: url('../images/birdhouse/1.jpg'); padding-bottom:100%; width:100%;"></div>
     <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
       <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
       <a class="f5 lh-title post-link" href="http://theinnbox.co/birdhouse-el-nido-review/">Hotel Review: The Birdhouse El Nido in Palawan, Philippines</a>
@@ -155,7 +157,7 @@ I would totally recommend The Slow to any art and design lovers planning a trip 
 
 <div class="fl w-100 w-50-ns pl2-ns mb1 mb0-ns">
   <a href="http://theinnbox.co/marina-bay-sands-singapore-review/"><div class="relative" style="height: 450px; background-color:#ECEAE7;">
-    <div class="bg-center cover" style="background-image: url('../images/mbs/17.png'); padding-bottom:100%; width:100%;"></div>
+    <div class="bg-center cover" style="background-image: url('../images/mbs/17.jpg'); padding-bottom:100%; width:100%;"></div>
     <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
       <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
       <a class="f5 lh-title post-link" href="http://theinnbox.co/marina-bay-sands-singapore-review/">Hotel Review: The Marina Bay Sands in Singapore</a>

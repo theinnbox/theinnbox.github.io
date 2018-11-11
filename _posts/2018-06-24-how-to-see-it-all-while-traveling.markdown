@@ -4,11 +4,13 @@ title:  "How I make time to 'see it all' when I travel"
 author: Sabrina Majeed
 author_ig: sabrinasans
 date:   2018-06-23 00:10:36 -0400
-thumbnail: ../images/seeitall/00.png
+thumbnail: ../images/seeitall/00.jpg
 categories: travel guide
 ---
 
-<img class="mt4-ns mt3 mb4-ns mb3" src="/images/seeitall/00.png">
+
+<img class="mt4-ns mt3 mb4-ns mb3" src="/images/seeitall/00.jpg">
+
 
 <p class="pb3 f4" style="max-width: 650px; margin: auto;">
 One of the most stressful aspects of planning a vacation is figuring out your itinerary. If you're like me then you may feel pressured to pack as much as possible into your trip in order to justify the financial investment— but bouncing around from one tourist site to another is no fun either and takes time away from one of the best parts of traveling: stumbling upon your own serendipitous discoveries.</p>
@@ -23,7 +25,7 @@ This stress is especially maximized if your trip is time-boxed due to your work 
 90% of travel writers are going to tell you to skip any popular tourist attractions on the basis of it being too crowded, or "ruined". I actually have an issue with this hipster approach to travel. Some places are popular <i>for a reason</i> and you shouldn't deprive yourself of an experience just because other people want to experience it too. Approaching popular attractions with the positive mindset that I'm going to experience this place with other humans from all around the world usually makes me a little more zen about dealing with crowds. Now, while crowds don't bother me as much, lines and exorbitant entrance fees do. I still need a way to suss out what's worth the time and the cost.</p>
 
 <div class="fl pb2 w-100">
-<img src="../images/seeitall/01.png">
+<img src="../images/seeitall/01.jpg">
 </div>
 <p class="tc mid-gray mb3 mb4-ns i f7">Hanging with the crowds at Pai Canyon. Still 100% worth coming here to view the sunset.</p>
 
@@ -38,10 +40,10 @@ Do I have some understanding of the history and context of the place I'm visitin
 The Statue of Liberty is a good example. Personally I've always been more satisfied with taking the free Staten Island ferry across the river to get a good view of the statue without having to actually <i>go there</i>. However, if my ancestors came to America through Ellis Island then I might have the historical and cultural context which would make physically going there more meaningful for me. So what's "worth visiting" is really a personal question.</p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb2-ns">
-<img src="../images/seeitall/02.png">
+<img src="../images/seeitall/02.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns pb2">
-<img src="../images/seeitall/03.png">
+<img src="../images/seeitall/03.jpg">
 </div>
 <p class="tc mid-gray mb3 mb4-ns i f7">Crowds on the beach at James Bond Island (photo by <a href="https://www.flickr.com/photos/wangjs/2070015107/in/photolist-49VnnD-iGb2X5-qSf1U7-bzhZFv-df6isD-iG8ona-dt1ktv-iGckEu-ERpNyx-df6iuS-df65wp-df5iwA-bYAZo7-df57xH-df65F2-df57pq-df6inV-df6PkC-df5XBw-bYB56Q-df5XvK-df4TmW-df5qpW-df6dF3-49Vnsk-df5xw3-df6P3t-df6c51-97S7kY-fTSuu-df5Xpz-df6NMD-97NWo8-97P5fB-df6NXM-df65Kg-df5HfL-df6Dfx-df5abj-97S9Ms-97P1ki-W76uSG-df6NJT-df5JpP-df6pC1-df5aiF-4LXfnP-dxHTu3-df5qtC-df6bXn">Jiashang</a>) vs James Bond Island II.</p>
 
@@ -57,7 +59,7 @@ Putting an emphasis on traveling ethically is another way to cut out a lot of "p
 <p class="f3 pb2" style="max-width: 650px; margin: auto; font-family: 'Gilroy-ExtraBold';">3. Treat down time like it's an attraction worth seeing.</p>
 
 <div class="fl w-100 pb2">
-<img src="../images/seeitall/04.png">
+<img src="../images/seeitall/04.jpg">
 </div>
 <p class="tc mid-gray mb3 mb4-ns i f7">Panglao Beach in The Philippines. We had nothing planned after arriving on the island of Bohol so we wandered over to the nearby beach to check it out and witnessed one of the most stunning sunsets.</p>
 
@@ -75,7 +77,7 @@ For me, "down-time" doesn't mean doing nothing. It's just a block of time with n
 With this in mind, I usually try to arrive early in the morning (even if that means taking a red-eye) and departing late in the evening in order to maximize the time that I have in that place. Since I stay in so many hotels this is also a way for me to maximize that expense, by having more time to utilize the facilities. When we have a late flight we're usually able to store our luggage at the hotel and then go do stuff for the rest of the day. Although in situations where we've stayed at an Airbnb and might need to carry our stuff around with us I always advocate for traveling for backpacks over suitcases when possible. I've also written before about <a href="https://www.buzzfeed.com/sabrinam13/19-things-that-make-traveling-alone-a-lot-less-stressful?utm_term=.pxDVlQlxN#.iqOBV0V3X" target="new">why backpacks are better for solo travelers.</a></p>
 
 <div class="fl w-100 pb2">
-<img src="../images/seeitall/05.png">
+<img src="../images/seeitall/05.jpg">
 </div>
 <p class="tc mid-gray mb3 mb4-ns i f7">A night hike in Seoul, done a few hours before an 11PM departing flight.</p>
 
@@ -92,7 +94,7 @@ Something I struggled with when I first started traveling was this idea that I w
 <p class="pb4-ns pb3" style="max-width: 650px; margin: auto;">If I focused too much on specific sites I would end up with a very scattered itinerary and a lot of time wasted traveling from place to place. When I focus on a region this is inclusive of both the tourist sites within that region but also the time to discover daily life in that location. </p>
 
 <div class="fl w-100 pb2">
-<img src="../images/seeitall/06.png">
+<img src="../images/seeitall/06.jpg">
 </div>
 <p class="tc mid-gray mb3 mb4-ns i f7">An adorable dessert shop in Phuket Old Town we stumbled upon during "down time" shortly after arriving in town.</p>
 
@@ -110,7 +112,7 @@ If you are going to visit multiple sites in a day, multiple neighborhoods in a w
 <p class="pb3 pb4-ns" style="max-width: 650px; margin: auto;">Even though conventional knowledge is that round trip flights are cheaper than one way, it's usually not that <i>much</i> cheaper and you can save a few hours with a more streamlined path. This also applies to where you're staying. In big metropolitan areas like Seoul I'll even plan to move hotels or airbnbs so that I can more conveniently explore different neighborhoods instead of having to go back and forth. The added bonus is that I get to stay in more cute places.</p>
 
 <div class="fl w-100 pb2">
-<img src="../images/seeitall/07.png">
+<img src="../images/seeitall/07.jpg">
 </div>
 <p class="tc mid-gray mb3 mb4-ns i f7">I arrived in Flam after taking a train from Oslo and transferring to a smaller train. Rather than repeating my steps to get back on the train track to Bergen I decided to take a ferry directly from the port in Flam instead, which also offered me an up close view of the fjords.</p>
 
@@ -120,17 +122,17 @@ If you are going to visit multiple sites in a day, multiple neighborhoods in a w
 <p class="f3 pb2" style="max-width: 650px; margin: auto; font-family: 'Gilroy-ExtraBold';">6. View your mode of transportation as an excursion.</p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb2-ns">
-<img src="../images/seeitall/08.png">
+<img src="../images/seeitall/08.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns pb2">
-<img src="../images/seeitall/09.png">
+<img src="../images/seeitall/09.jpg">
 </div>
 <p class="tc mid-gray mb3 mb4-ns i f7">Taking a rocky boat ride to Ometepe island in Nicaragua; riding a cable car to Lantau Island in Hong Kong.</p>
 
 <p class="pb3 pb4-ns" style="max-width: 650px; margin: auto;">As they say: it's about the journey not the destination. When you're visiting another country, if you plan to visit more than one city you are inevitably going to spend a lot of time in transit. If you can make that mode of transportation something novel, something that's exciting and fully a part of the experience, then you won't feel like you're wasting time in transit. For me, personally, boat rides are always exciting. It's just not something I do every day so I don't mind taking ferries to get around. Even when they're slightly unpleasant and I feel seasick, I feel like it's a part of the experience. For folks who don't fly often, getting on an airplane may provide a similar feeling.</p>
 
 <div class="fl w-100 pb2">
-<img src="../images/seeitall/10.png">
+<img src="../images/seeitall/10.jpg">
 </div>
 <p class="tc mid-gray mb3 mb4-ns i f7">Gamcheon Cultural Village in Busan, South Korea. Tourist-y? Yes. Worth it? Yes. Plus conveniently located on a circuit with fellow attractions Taejongdae Park and BIFF Square.</p>
 
@@ -140,7 +142,7 @@ If you are going to visit multiple sites in a day, multiple neighborhoods in a w
 
 <div class="fl w-100 w-50-ns pr2-ns mb4">
   <a href="http://theinnbox.co/bariloche-argentina-travel-guide/"><div class="relative" style="height: 450px; background-color:#ECEAE7;">
-    <div class="bg-center cover" style="background-image: url('../images/bariloche/bariloche_header.png'); padding-bottom:100%; width:100%;"></div>
+    <div class="bg-center cover" style="background-image: url('../images/bariloche/bariloche_header.jpg'); padding-bottom:100%; width:100%;"></div>
     <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
       <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
       <a class="f5 lh-title post-link" href="http://theinnbox.co/bariloche-argentina-travel-guide/">Your travel guide to Bariloche, Argentina: where to stay and what to do.</a>
@@ -152,7 +154,7 @@ If you are going to visit multiple sites in a day, multiple neighborhoods in a w
 
 <div class="fl w-100 w-50-ns pl2-ns mb1 mb0-ns">
   <a href="http://theinnbox.co/granada-nicaragua-travel-guide/"><div class="relative" style="height: 450px; background-color:#ECEAE7;">
-    <div class="bg-center cover" style="background-image: url('../images/granada/NICA_HEADER.png'); padding-bottom:100%; width:100%;"></div>
+    <div class="bg-center cover" style="background-image: url('../images/granada/NICA_HEADER.jpg'); padding-bottom:100%; width:100%;"></div>
     <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
       <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
       <a class="f5 lh-title post-link" href="http://theinnbox.co/granada-nicaragua-travel-guide/">Your travel guide to Granada, Nicaragua: where to stay and what to do.</a>

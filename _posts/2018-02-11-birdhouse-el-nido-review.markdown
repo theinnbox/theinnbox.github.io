@@ -4,14 +4,14 @@ title:  "Hotel Review: The Birdhouse El Nido in Palawan, Philippines"
 author: Sabrina Majeed
 author_ig: sabrinasans
 date:   2018-02-11 00:10:36 -0400
-thumbnail: ../images/birdhouse/1.png
+thumbnail: ../images/birdhouse/1.jpg
 categories: review
 review_dates: "January 30 — February 1, 2018"
 review_rate: 125
 review_guests: "Her Boyfriend"
 ---
 
-<img class="mt4-ns mt3 mb4-ns mb3" src="/images/birdhouse/1.png">
+<img class="mt4-ns mt3 mb4-ns mb3" src="/images/birdhouse/1.jpg">
 
 <p class="pb4 f4" style="max-width: 650px; margin: auto;">
 <a href="http://www.thebirdhouseelnido.com" target="new">The Birdhouse</a> is a unique "glamping" experience nestled into the foresty hills of El Nido, with treehouse-inspired nests that overlook the breathless Bacuit Bay.</p>
@@ -28,13 +28,13 @@ Fast-forward to our trip. We spent first half of our time in El Nido at <a href=
 The most important thing you need to know about The Birdhouse, logistically, is that it's not located off a major road. There is no door-to-door drop off service. Unless you plan to stay on their grounds for the entirety of your stay (and miss out on all the beautiful El Nido islands) there will be some walking involved to get in and out of The Birdhouse.</p>
 
 <div class="fl w-100 mb1 mb2-ns">
-<img src="../images/birdhouse/2.png">
+<img src="../images/birdhouse/2.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/birdhouse/3.png">
+<img src="../images/birdhouse/3.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/birdhouse/4.png">
+<img src="../images/birdhouse/4.jpg">
 </div>
 
 <p class="pb3" style="max-width: 650px; margin: auto;">
@@ -49,7 +49,7 @@ The first time I took these stairs, I was panting and out of breath. As you asce
 You might think that being "closest to the ground" meant that we had the worst view, but it was actually the exact opposite. We were already pretty high up off the ground and our "nest", Number 3, was actually perfectly positioned so that our view of the bay wasn't as obstructed by the trees that shade the rest of the compound. I mean... look at this.</p>
 
 <div class="fl w-100 mb3 mb4-ns">
-<img src="../images/birdhouse/6.png">
+<img src="../images/birdhouse/6.jpg">
 </div>
 
 <p class="pb3" style="max-width: 650px; margin: auto;">
@@ -59,13 +59,13 @@ This was my first "glamping" experience so I wasn't sure what to expect but the 
 The Birdhouse is also big on conservation so they only turn on their electricity from 6PM—6AM at night, which is honestly the only time you really need it with most guests off on excursions during the day.</p>
 
 <div class="fl w-100 mb1 mb2-ns">
-<img src="../images/birdhouse/7.png">
+<img src="../images/birdhouse/7.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/birdhouse/8.png">
+<img src="../images/birdhouse/8.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/birdhouse/9.png">
+<img src="../images/birdhouse/9.jpg">
 </div>
 
 <p class="pb3" style="max-width: 650px; margin: auto;">
@@ -82,16 +82,16 @@ There's also a significant amount of space outside the tent on your own private 
 We had been warned by the staff not to be freaked out if there were geckos around the bathroom. It's expected, it's normal. I braced myself for it. And yet, I didn't see a single gecko in or around our bathroom during our entire stay! In fact, I saw less crawling critters in our outhouse bathroom at The Birdhouse than I did in our indoor bathrooms at all the other hotels we stayed at in The Philippines.</p>
 
 <div class="fl w-100 mb3 mb4-ns">
-<img src="../images/birdhouse/10.png">
+<img src="../images/birdhouse/10.jpg">
 </div>
 
 <p class="pb4-ns pb3" style="max-width: 650px; margin: auto;">Honestly, it was fine. The bathroom was cozy, it was cute, and the appliances all seemed up to date and new. The shower water doesn't get very warm but you don't really need it to the kind of weather we had. You'll also be confronted in the bathroom with a lot of signage about conservation and water-use; seriously, the commitment is strong. The owner even mentioned to us that he's looking into switching to solar power.</p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/birdhouse/11.png">
+<img src="../images/birdhouse/11.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/birdhouse/12.png">
+<img src="../images/birdhouse/12.jpg">
 </div>
 
 <p class="f3 pb2" style="max-width: 650px; margin: auto; font-family: 'Gilroy-ExtraBold';">The Service</p>
@@ -107,26 +107,26 @@ We had been warned by the staff not to be freaked out if there were geckos aroun
 <p class="pb4-ns pb3" style="max-width: 650px; margin: auto;">Complimentary breakfast is included at The Birdhouse and they serve a different dish everyday accompanied by fresh fruit, like yellow watermelons, which I'd never had before. The first day we had chorizo, eggs, and garlic rice and the second day we had apple butter toast, which was my favorite of the two breakfasts.</p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb2-ns">
-<img src="../images/birdhouse/13.png">
+<img src="../images/birdhouse/13.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb1 mb2-ns">
-<img src="../images/birdhouse/15.png">
+<img src="../images/birdhouse/15.jpg">
 </div>
 <div class="fl w-100 mb3 mb4-ns">
-<img src="../images/birdhouse/14.png">
+<img src="../images/birdhouse/14.jpg">
 </div>
 
 <p class="pb4-ns pb3" style="max-width: 650px; margin: auto;">
 We also ate at the restaurant for dinner on our first night there (after climbing those stairs we weren't in a hurry to go back down). The food is kind of expensive but it's a bit understandable when you take into consideration the labor and effort to get the necessary ingredients and supplies up there— and the food was good, so that helps! I had the pumpkin vegetable curry which had very generous portions. If you're lucky and it's not too crowded you can grab the one table on the restaurant's balcony for a shady yet unobstructed view of the bay, or chill in the cute lounge area on the balcony for evening drinks.</p>
 
 <div class="fl w-100 mb1 mb2-ns">
-<img src="../images/birdhouse/16.png">
+<img src="../images/birdhouse/16.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/birdhouse/17.png">
+<img src="../images/birdhouse/17.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
-<img src="../images/birdhouse/18.png">
+<img src="../images/birdhouse/18.jpg">
 </div>
 
 <p class="f3 pb2" style="max-width: 650px; margin: auto; font-family: 'Gilroy-ExtraBold';">The Neighborhood</p>
@@ -145,7 +145,7 @@ This one kind of goes without saying but... given the trek across the beach and 
 </p>
 
 <div class="fl w-100 mb3 mb4-ns">
-<img src="../images/birdhouse/5.png">
+<img src="../images/birdhouse/5.jpg">
 </div>
 <p class="f3 pb2" style="max-width: 650px; margin: auto; font-family: 'Gilroy-ExtraBold';">TL;DR</p>
 

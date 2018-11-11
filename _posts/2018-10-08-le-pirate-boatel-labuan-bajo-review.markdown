@@ -63,7 +63,7 @@ Every room comes with it’s own little private deck which includes a netted ham
 <img src="../images/boatel/07.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb2-ns">
-<img src="../images/boatel/09.png">
+<img src="../images/boatel/09.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb4-ns">
 <img src="../images/boatel/10.jpg">
@@ -139,7 +139,7 @@ The bay that the Boatel is anchored in is incredible peaceful, with a view that 
 
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb2-ns">
-<img src="../images/boatel/22.png">
+<img src="../images/boatel/22.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb1 mb2-ns">
 <img src="../images/boatel/23.jpg">
@@ -184,7 +184,7 @@ Le Pirate also offers a cruise-like experience in Labuan Bajo on a smaller boat 
 
 <div class="fl w-100 w-50-ns pr2-ns mb4">
   <a href="http://theinnbox.co/what-hokkaido-taught-me-about-hospitality/"><div class="relative" style="height: 450px; background-color:#ECEAE7;">
-    <div class="bg-center cover" style="background-image: url('http://theinnbox.co/images/hokkaido/hokkaidolodging_thumb.png'); padding-bottom:100%; width:100%;"></div>
+    <div class="bg-center cover" style="background-image: url('http://theinnbox.co/images/hokkaido/hokkaidolodging_thumb.jpg'); padding-bottom:100%; width:100%;"></div>
     <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
       <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
       <a class="f5 lh-title post-link" href="http://theinnbox.co/what-hokkaido-taught-me-about-hospitality/">What Hokkaido taught me about hospitality</a>
@@ -196,7 +196,7 @@ Le Pirate also offers a cruise-like experience in Labuan Bajo on a smaller boat 
 
 <div class="fl w-100 w-50-ns pl2-ns mb1 mb0-ns">
   <a href="http://theinnbox.co/birdhouse-el-nido-review/"><div class="relative" style="height: 450px; background-color:#ECEAE7;">
-    <div class="bg-center cover" style="background-image: url('http://theinnbox.co/images/birdhouse/1.png'); padding-bottom:100%; width:100%;"></div>
+    <div class="bg-center cover" style="background-image: url('http://theinnbox.co/images/birdhouse/1.jpg'); padding-bottom:100%; width:100%;"></div>
     <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
       <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
       <a class="f5 lh-title post-link" href="http://theinnbox.co/birdhouse-el-nido-review/">Hotel Review: The Birdhouse El Nido in Palawan, Philippines</a>

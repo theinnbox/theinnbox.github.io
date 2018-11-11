@@ -4,11 +4,11 @@ title:  "Your travel guide to Bariloche, Argentina: where to stay and what to do
 author: Sabrina Majeed
 author_ig: sabrinasans
 date:   2017-12-17 00:10:36 -0400
-thumbnail: ../images/bariloche/bariloche_header.png
+thumbnail: ../images/bariloche/bariloche_header.jpg
 categories: travel guide
 ---
 
-<img src="/images/bariloche/bariloche_header.png">
+<img src="/images/bariloche/bariloche_header.jpg">
 
 
 Bariloche is full of dualities— considered the gateway to Argentinian Patagonia, this magical land of lakes is equally enchanting in either summer or winter weather. It's famous vistas include both the high altitudes of the surrounding Andes and the low lakes in-between them. Much like Buenos Aires, Bariloche also has a distinctly European influence— except instead of Parisian architecture you'll find Swiss style chalets alongside many fondue and chocolate shops. In fact, Bariloche is considered the chocolate capital of the country. If your idea of the perfect vacation involves both breathtaking views and eating copious amounts of high quality food, then Bariloche is the perfect place for you.
@@ -23,10 +23,10 @@ A cursory search into where to stay in Bariloche will introduce you to Llao Llao
 
 <p class="f3 pt3 lh-title" style="font-family: 'Gilroy-ExtraBold'">For solo travelers & the budget conscious — <a href="http://www.hostel41below.com/" target="_blank" class="link underline-hover orange">41 Below Hostel</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $26/Night</span></p>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/bariloche/41below_1.png">
+<img src="../images/bariloche/41below_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3">
-<img src="../images/bariloche/41below_2.png">
+<img src="../images/bariloche/41below_2.jpg">
 </div>
 41 Below is an unpretentious and charming hostel run by some friendly Kiwis. It's also probably the best value you're going to find in Bariloche because of its proximity to downtown, the jumping off point for many excursions in the region. It's also convenient for solo-travelers because it's very easy to meet fellow travelers in the hostel lounge and pair up to split excursion costs. I'll admit just like I'm not a huge resort person, I'm also not a huge hostel person. I'm always a bit concerned there might be too much of a party vibe which is not what I'm looking for these days, but 41 Below was extremely chill, at least when I stayed there in the winter season. It's not so youthful that you'll feel out of place if you're not a student, but I would say that someone in their late 40s might be less likely to find company of a similar age. And look, while 41 Below is probably not going to win any design awards anytime soon, for a hostel at this price range the decor is charmingly simple and sufficiently tasteful.
 
@@ -35,10 +35,10 @@ A cursory search into where to stay in Bariloche will introduce you to Llao Llao
 
 <p id="anchor1" class="f3 pt3 lh-title" style="font-family: 'Gilroy-ExtraBold'">For digital nomads — <a href="https://www.airbnb.com/rooms/12279136?location=Bariloche%2C%20San%20Carlos%20de%20Bariloche%2C%20R%C3%ADo%20Negro%2C%20Argentina&s=BMB5OMrp" target="_blank" class="link underline-hover orange">Patagonian Style Cabin</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $42/Night</span></p>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/bariloche/cabin_1.png">
+<img src="../images/bariloche/cabin_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3">
-<img src="../images/bariloche/cabin_2.png">
+<img src="../images/bariloche/cabin_2.jpg">
 </div>
 This sunny cabin is located just a little ways off from downtown, which is accessible via a 15 minute bus ride from the nearby stop. In a refreshing twist the bed is actually located on the main floor instead of the loft, which has been instead converted into an office-like space. The modern bathroom also looks newer and nicer than what you'll find at many hotels in the area. The cabin sits on private property that the host's parents live on, who are also available as a helpful point of contact for guests.
 
@@ -46,10 +46,10 @@ This sunny cabin is located just a little ways off from downtown, which is acces
 
 <p class="f3 pt3 lh-title" style="font-family: 'Gilroy-ExtraBold'">For families — <a href="https://www.airbnb.ca/rooms/65145" target="_blank" class="link underline-hover orange">"CABIN - PYRAMID"</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $49/Night</span></p>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/bariloche/Pyramid_1.png">
+<img src="../images/bariloche/Pyramid_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3">
-<img src="../images/bariloche/Pyramid_2.png">
+<img src="../images/bariloche/Pyramid_2.jpg">
 </div>
 The layout of this cabin is perfect for families traveling with small children, and also for anyone who prefers being a little farther removed from the more tourist-centric downtown areas. It's like being in a tent but with indoor plumbing and sturdy walls. Wake up to scenic views of the surrounding mountain and lakes, one of which is only a twenty minute walk away for a summer swim. Because of its more rural location, you'll definitely want to rent a car when staying here.
 
@@ -57,16 +57,16 @@ The layout of this cabin is perfect for families traveling with small children, 
 
 <p class="f3 pt3 lh-title" style="font-family: 'Gilroy-ExtraBold'">A little something for everyone — <a href="https://www.airbnb.com/users/1518997/listings" target="_blank" class="link underline-hover orange">"Nuno's Listings"</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $65/Night</span></p>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/bariloche/nuno_1.png">
+<img src="../images/bariloche/nuno_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb1 mb2-ns">
-<img src="../images/bariloche/nuno_2.png">
+<img src="../images/bariloche/nuno_2.jpg">
 </div>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/bariloche/nuno_4.png">
+<img src="../images/bariloche/nuno_4.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3">
-<img src="../images/bariloche/nuno_3.png">
+<img src="../images/bariloche/nuno_3.jpg">
 </div>
 A Portuguese architect who goes by Nuno is literally slaying the Bariloche Airbnb game. He manages 23 listings across the region varying from $65 to $412 a night, and all of which are impeccably designed and decorated. Our favorite of the bunch is <a href="https://www.airbnb.com/rooms/11521531?s=-250liCw">this 6 bedroom, centrally located home</a> which embodies all of our modern farmhouse dreams for an extremely reasonable $115/night.
 
@@ -74,10 +74,10 @@ A Portuguese architect who goes by Nuno is literally slaying the Bariloche Airbn
 
 <p class="f3 pt3 lh-title" style="font-family: 'Gilroy-ExtraBold'">For winter vacations — <a href="https://www.booking.com/hotel/ar/design-suites-bariloche" target="_blank" class="link underline-hover orange">Design Suites Bariloche</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $131/Night</span></p>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/bariloche/design_1.png">
+<img src="../images/bariloche/design_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3">
-<img src="../images/bariloche/design_2.png">
+<img src="../images/bariloche/design_2.jpg">
 </div>
 Ignore the on-the-nose name. The main selling point of this lodge are the circular jacuzzi tubs overlooking the lake— but hey, even the rooms with the boring ol' rectangular tubs look just as amazing. We're recommending this one for winter travel. If it's too cold to do anything outside then get you some champagne and bubble bath and treat-yo-self. This one's also got a great location just far enough outside the hustle and bustle of touristy downtown but still close enough for it to be accessible.
 
@@ -85,10 +85,10 @@ Ignore the on-the-nose name. The main selling point of this lodge are the circul
 
 <p class="f3 pt3 lh-title" style="font-family: 'Gilroy-ExtraBold'">For couples — <a href="https://www.booking.com/hotel/ar/peninsula-petit" target="_blank" class="link underline-hover orange">Peninsula Petit Hotel</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $140/Night</span></p>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/bariloche/petit_1.png">
+<img src="../images/bariloche/petit_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3">
-<img src="../images/bariloche/petit_2.png">
+<img src="../images/bariloche/petit_2.jpg">
 </div>
 Peninsula Petit boasts world class service for a reasonable price. It's one of the more remotely located places we're recommending, a ways off from downtown but the hotel makes up for it by providing everything you need right at home. For starters, people <i>rave</i> about the on-site <a href="https://www.tripadvisor.es/Restaurant_Review-g312848-d7376546-Reviews-Desde_El_Sur-San_Carlos_de_Bariloche_Province_of_Rio_Negro_Patagonia.html">restaurant</a> and its breakfast in particular. The premises also include a private, pup-friendly beach for guests, and we hear the hands-on owner also lends out his kayak to guests for free. Peninsula Petit is often fully booked so this is definitely a place you want to book far in advance.
 
@@ -97,10 +97,10 @@ Peninsula Petit boasts world class service for a reasonable price. It's one of t
 
 <p class="f3 pt3 lh-title" style="font-family: 'Gilroy-ExtraBold'">For resort quality without resort prices — <a href="https://www.booking.com/hotel/ar/lirolay-suites" target="_blank" class="link underline-hover orange">Lirolay Suites</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $190/Night</span></p>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/bariloche/lirolay_1.png">
+<img src="../images/bariloche/lirolay_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3">
-<img src="../images/bariloche/lirolay_2.png">
+<img src="../images/bariloche/lirolay_2.jpg">
 </div>
 Every room at Lirolay is comes with a jacuzzi and a suite designation— there's no cheap seats here, okay? Still, their most affordable offering is a triple room that when fully occupied comes to a reasonable $60 a person. This lodge looks straight out of a fairytale and I'm sure a record number of proposals have gone down here. Breakfast is included and keep in mind that the intimate little hotel's twelve rooms go fast, so book in advance.
 
@@ -111,13 +111,13 @@ Every room at Lirolay is comes with a jacuzzi and a suite designation— there's
 
 <p class="f3 pt3 lh-title" style="font-family: 'Gilroy-ExtraBold'"><a href="http://cerrocampanario.com.ar/" class="link underline-hover orange" target="_blank">Cerro Campanario</a></p>
 <div class="fl w-100 pr1-ns mb3">
-<img src="../images/bariloche/cerrocompanario.png">
+<img src="../images/bariloche/cerrocompanario.jpg">
 </div>
 If you only have a day in Bariloche, this is probably the first thing I'd recommend doing. A steep hour's hike to the top of Cerro Campanario gives you a breathtaking panoramic view of the entire surrounding region. I still think back on this trip and this specific hike as one of the most stunning glimpses of nature I've witnessed. At the top you can also ride the chairlift back down to the base of the mountain. Technically you can ride it up too, but where's the fun in that? Getting to Cerro Companario is also easy and very affordable by bus and the hike itself is straightforward— so skip the $$$ on a private tour.
 
 <div id="anchor2" class="fl w-100 mb4 mt3">
 <div class="fl w-100 w-50-ns">
-<img src="../images/bariloche/lamarmite.png">
+<img src="../images/bariloche/lamarmite.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl4-ns">
 <p class="f4 mb1 lh-title mt0-ns mt3" style="font-family: 'Gilroy-ExtraBold'"><a href="http://lamarmite.com.ar/" class="link underline-hover orange" target="_blank">La Marmite</a></p>
@@ -129,7 +129,7 @@ If you only have a day in Bariloche, this is probably the first thing I'd recomm
 
 <div class="fl w-100 mb4">
 <div class="fl w-100 w-50-ns">
-<img src="../images/bariloche/nahuel_huapi.png">
+<img src="../images/bariloche/nahuel_huapi.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl4-ns">
 <p class="f4 mb1 lh-title mt0-ns mt3" style="font-family: 'Gilroy-ExtraBold'">Explore the lakes</p>
@@ -140,7 +140,7 @@ If you only have a day in Bariloche, this is probably the first thing I'd recomm
 
 <div class="fl w-100 mb4">
 <div class="fl w-100 w-50-ns">
-<img src="../images/bariloche/rapanui.png">
+<img src="../images/bariloche/rapanui.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl4-ns">
 <p class="f4 mb1 lh-title mt0-ns mt3" style="font-family: 'Gilroy-ExtraBold'">Buy some chocolate</p>
@@ -152,7 +152,7 @@ As mentioned earlier, Bariloche is the chocolate capital of Argentina. The two b
 
 <div class="fl w-100 mb4">
 <div class="fl w-100 w-50-ns">
-<img src="../images/bariloche/cerrocatedral.png">
+<img src="../images/bariloche/cerrocatedral.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl4-ns">
 <p class="f4 mb1 lh-title mt0-ns mt3" style="font-family: 'Gilroy-ExtraBold'">Go skiing @ <a href="http://www.catedralaltapatagonia.com/" target="blank">Cerro Catedral</a></p>
@@ -164,7 +164,7 @@ As mentioned earlier, Bariloche is the chocolate capital of Argentina. The two b
 
 <div class="fl w-100 mb4">
 <div class="fl w-100 w-50-ns">
-<img src="../images/bariloche/antares.png">
+<img src="../images/bariloche/antares.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl4-ns">
 <p class="f4 mb1 lh-title mt0-ns mt3" style="font-family: 'Gilroy-ExtraBold'">Taste beer @ <a href="https://www.tripadvisor.com/Restaurant_Review-g312848-d2660620-Reviews-Antares-San_Carlos_de_Bariloche_Province_of_Rio_Negro_Patagonia.html" target="blank">Antares</a></p>
@@ -176,7 +176,7 @@ As mentioned earlier, Bariloche is the chocolate capital of Argentina. The two b
 
 <div class="fl w-100 mb4">
 <div class="fl w-100 w-50-ns">
-<img src="../images/bariloche/portblest.png">
+<img src="../images/bariloche/portblest.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl4-ns">
 <p class="f4 mb1 lh-title mt0-ns mt3" style="font-family: 'Gilroy-ExtraBold'">Puerto Blest</p>

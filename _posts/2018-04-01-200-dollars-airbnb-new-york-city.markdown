@@ -4,12 +4,12 @@ title:  "Here's what $200 on Airbnb can get you in New York City"
 author: Sabrina Majeed
 author_ig: sabrinasans
 date:   2018-04-01 00:10:36 -0400
-thumbnail: ../images/nycair/Splash.png
+thumbnail: ../images/nycair/Splash.jpg
 categories: list
 ---
 
 <p class="pb3" style="max-width: 650px; margin: auto;">
-<img class="mt3-ns mt3 mb4-ns mb3" src="../images/nycair/Splash.png">
+<img class="mt3-ns mt3 mb4-ns mb3" src="../images/nycair/Splash.jpg">
 I'm currently in the midst of planning a trip back to New York City so we can visit friends and renew our long-term Thai visas. After staying in so many stunning yet affordable places across Southeast Asia, needless to say the reality of the New York lodging market had me <i>shook</i>.</p>
 
 <p class="pb4-ns pb3" style="max-width: 650px; margin: auto;">
@@ -32,10 +32,10 @@ While browsing Airbnb I found myself fascinated by the variety of homes availabl
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;"><a href="https://www.airbnb.com/rooms/5838858" target="_blank" class="link underline-hover orange">SoHo</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $202/Night — 1 Bedroom</span></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/nycair/Soho_1.png">
+<img src="../images/nycair/Soho_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb3-ns">
-<img src="../images/nycair/Soho_2.png">
+<img src="../images/nycair/Soho_2.jpg">
 </div>
 
 <p class="pb2" style="max-width: 650px; margin: auto;">
@@ -51,10 +51,10 @@ While browsing Airbnb I found myself fascinated by the variety of homes availabl
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;"><a href="https://www.airbnb.com/rooms/4204496" target="_blank" class="link underline-hover orange">Harlem</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $125/Night — Studio</span></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/nycair/Harlem_1.png">
+<img src="../images/nycair/Harlem_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb3-ns">
-<img src="../images/nycair/Harlem_2.png">
+<img src="../images/nycair/Harlem_2.jpg">
 </div>
 
 <p class="pb2" style="max-width: 650px; margin: auto;">
@@ -70,10 +70,10 @@ This airy Airbnb, which can accomodate up to 2 guests, is located on the third f
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;"><a href="https://www.airbnb.com/rooms/17747778" target="_blank" class="link underline-hover orange">Financial District</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $210/Night — Studio</span></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/nycair/Fidi_1.png">
+<img src="../images/nycair/Fidi_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb3-ns">
-<img src="../images/nycair/Fidi_2.png">
+<img src="../images/nycair/Fidi_2.jpg">
 </div>
 
 <p class="pb2" style="max-width: 650px; margin: auto;">
@@ -89,10 +89,10 @@ This unit is located in a luxury building downtown and utilizes modular furnitur
 <p id="anchor" class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;"><a href="https://www.airbnb.com/rooms/1487222" target="_blank" class="link underline-hover orange">Crown Heights, Brooklyn</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $120/Night — 2 Bedrooms</span></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/nycair/Prospect_1.png">
+<img src="../images/nycair/Prospect_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb3-ns">
-<img src="../images/nycair/Prospect_2.png">
+<img src="../images/nycair/Prospect_2.jpg">
 </div>
 
 <p class="pb2" style="max-width: 650px; margin: auto;">
@@ -107,10 +107,10 @@ This bright white apartment is an absolute steal for the price and how many peop
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;"><a href="https://www.airbnb.com/rooms/15988664" target="_blank" class="link underline-hover orange">East Village</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $140/Night — Alcove Studio</span></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/nycair/EV_1.png">
+<img src="../images/nycair/EV_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb3-ns">
-<img src="../images/nycair/EV_2.png">
+<img src="../images/nycair/EV_2.jpg">
 </div>
 
 <p class="pb2" style="max-width: 650px; margin: auto;">
@@ -126,10 +126,10 @@ Please enquire directly with the host regarding accessibility.</p>
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;"><a href="https://www.airbnb.com/rooms/73586" target="_blank" class="link underline-hover orange">Long Island City, Queens</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $150/Night — 1 Bedroom</span></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/nycair/LIC_1.png">
+<img src="../images/nycair/LIC_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb3-ns">
-<img src="../images/nycair/LIC_2.png">
+<img src="../images/nycair/LIC_2.jpg">
 </div>
 
 <p class="pb2" style="max-width: 650px; margin: auto;">
@@ -145,10 +145,10 @@ This Airbnb is located in an elevator-serviced building.</p>
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;"><a href="https://www.airbnb.com/rooms/17617875" target="_blank" class="link underline-hover orange">Staten Island</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $125/Night — 3 Bedroom</span></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/nycair/SI_1.png">
+<img src="../images/nycair/SI_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb3-ns">
-<img src="../images/nycair/SI_2.png">
+<img src="../images/nycair/SI_2.jpg">
 </div>
 
 <p class="pb2" style="max-width: 650px; margin: auto;">
@@ -164,10 +164,10 @@ This Airbnb has a flat path to the front door, wide hallway clearance, step-free
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;"><a href="https://www.airbnb.com/rooms/20247895" target="_blank" class="link underline-hover orange">Midtown</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $200/Night — Studio</span></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/nycair/Midtown_1.png">
+<img src="../images/nycair/Midtown_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb3-ns">
-<img src="../images/nycair/Midtown_2.png">
+<img src="../images/nycair/Midtown_2.jpg">
 </div>
 
 <p class="pb2" style="max-width: 650px; margin: auto;">
@@ -183,10 +183,10 @@ Access to this Airbnb requires going up four flights of stairs.</p>
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;"><a href="https://www.airbnb.com/rooms/4109420" target="_blank" class="link underline-hover orange">Astoria, Queens</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $111/Night — 2 Bedrooms</span></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/nycair/Astoria_1.png">
+<img src="../images/nycair/Astoria_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb3-ns">
-<img src="../images/nycair/Astoria_2.png">
+<img src="../images/nycair/Astoria_2.jpg">
 </div>
 
 <p class="pb2" style="max-width: 650px; margin: auto;">
@@ -202,10 +202,10 @@ This Airbnb is located on the second floor of a three-floor building. We recomme
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;"><a href="https://www.airbnb.com/rooms/6660046" target="_blank" class="link underline-hover orange">Williamsburg, Brooklyn</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $150/Night — Alcove Studio</span></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/nycair/Williamsburg_1.png">
+<img src="../images/nycair/Williamsburg_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb3-ns">
-<img src="../images/nycair/Williamsburg_2.png">
+<img src="../images/nycair/Williamsburg_2.jpg">
 </div>
 
 <p class="pb2" style="max-width: 650px; margin: auto;">
@@ -221,10 +221,10 @@ This Airbnb is located on the ground floor. We recommend enquiring directly with
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;"><a href="https://www.airbnb.com/rooms/449680" target="_blank" class="link underline-hover orange">Woodstock, Bronx</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $105/Night — 2 Bedrooms</span></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/nycair/Bronx_1.png">
+<img src="../images/nycair/Bronx_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb3-ns">
-<img src="../images/nycair/Bronx_2.png">
+<img src="../images/nycair/Bronx_2.jpg">
 </div>
 
 <p class="pb2" style="max-width: 650px; margin: auto;">
@@ -240,10 +240,10 @@ This Airbnb is located on the ground floor. We recommend enquiring directly with
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;"><a href="https://www.airbnb.com/rooms/15372508" target="_blank" class="link underline-hover orange">Upper East Side</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $200/Night — 1 Bedroom</span></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/nycair/UES_1.png">
+<img src="../images/nycair/UES_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb3-ns">
-<img src="../images/nycair/UES_2.png">
+<img src="../images/nycair/UES_2.jpg">
 </div>
 
 <p class="pb2" style="max-width: 650px; margin: auto;">
@@ -259,10 +259,10 @@ Access to this Airbnb requires ascending five flights of stairs.</p>
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;"><a href="https://www.airbnb.com/rooms/17746626" target="_blank" class="link underline-hover orange">Jersey City</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $149/Night — 4 Bedrooms</span></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/nycair/JC_1.png">
+<img src="../images/nycair/JC_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb3-ns">
-<img src="../images/nycair/JC_2.png">
+<img src="../images/nycair/JC_2.jpg">
 </div>
 
 <p class="pb2" style="max-width: 650px; margin: auto;">
@@ -278,10 +278,10 @@ There is a step-free path leading to the Airbnb's elevator. The elevator door is
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;"><a href="https://www.airbnb.com/rooms/11775347" target="_blank" class="link underline-hover orange">Hell's Kitchen</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $199/Night — Studio</span></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/nycair/HK_1.png">
+<img src="../images/nycair/HK_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb3-ns">
-<img src="../images/nycair/HK_2.png">
+<img src="../images/nycair/HK_2.jpg">
 </div>
 
 <p class="pb2" style="max-width: 650px; margin: auto;">
@@ -297,10 +297,10 @@ This Airbnb is located on the second floor of a three story building. We recomme
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;"><a href="https://www.airbnb.com/rooms/821135" target="_blank" class="link underline-hover orange">Downtown Brooklyn</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $125/Night — 1 Bedroom</span></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/nycair/DB_1.png">
+<img src="../images/nycair/DB_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb3-ns">
-<img src="../images/nycair/DB_2.png">
+<img src="../images/nycair/DB_2.jpg">
 </div>
 
 <p class="pb2" style="max-width: 650px; margin: auto;">
@@ -316,10 +316,10 @@ This Airbnb has an elevator but it only runs from 11am—11pm during the week an
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;"><a href="https://www.airbnb.com/rooms/236949" target="_blank" class="link underline-hover orange">Greenwich Village</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $150/Night — Alcove Studio</span></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/nycair/WV_1.png">
+<img src="../images/nycair/WV_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb3-ns">
-<img src="../images/nycair/WV_2.png">
+<img src="../images/nycair/WV_2.jpg">
 </div>
 
 <p class="pb2" style="max-width: 650px; margin: auto;">
@@ -335,10 +335,10 @@ Access to this Airbnb requires climbing four flights of stairs.</p>
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;"><a href="https://www.airbnb.com/rooms/4340161" target="_blank" class="link underline-hover orange">Lower East Side</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $119/Night — Studio</span></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/nycair/LES_1.png">
+<img src="../images/nycair/LES_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3 mb3-ns">
-<img src="../images/nycair/LES_2.png">
+<img src="../images/nycair/LES_2.jpg">
 </div>
 
 <p class="pb2" style="max-width: 650px; margin: auto;">
@@ -355,7 +355,7 @@ This Airbnb has elevator access, but we'd recommend directly contacting the host
 
 <div class="fl w-100 w-50-ns pr2-ns mb3 mb0-ns">
   <a href="http://theinnbox.co/best-airbnbs-san-francisco/"><div class="relative" style="height: 450px; background-color:#ECEAE7;">
-    <div class="bg-center cover" style="background-image: url('../images/sf/sf_bnb_header.png'); padding-bottom:100%; width:100%;"></div>
+    <div class="bg-center cover" style="background-image: url('../images/sf/sf_bnb_header.jpg'); padding-bottom:100%; width:100%;"></div>
     <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
       <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
       <a class="f5 lh-title post-link" href="http://theinnbox.co/best-airbnbs-san-francisco/">The 13 Best Airbnbs in San Francisco</a>
@@ -367,7 +367,7 @@ This Airbnb has elevator access, but we'd recommend directly contacting the host
 
 <div class="fl w-100 w-50-ns pl2-ns mb1 mb0-ns">
   <a href="http://theinnbox.co/best-airbnbs-asheville-north-carolina/"><div class="relative" style="height: 450px; background-color:#ECEAE7;">
-    <div class="bg-center cover" style="background-image: url('../images/asheville/asheville_header.png'); padding-bottom:100%; width:100%;"></div>
+    <div class="bg-center cover" style="background-image: url('../images/asheville/asheville_header.jpg'); padding-bottom:100%; width:100%;"></div>
     <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
       <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
       <a class="f5 lh-title post-link" href="http://theinnbox.co/best-airbnbs-asheville-north-carolina/">The 13 Best Airbnbs in Asheville, North Carolina</a>

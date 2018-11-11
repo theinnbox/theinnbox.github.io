@@ -4,11 +4,14 @@ title:  "Xiao Chi: A comprehensive guide to street food in Taiwan"
 author: Julius Tarng
 author_ig: tarngerine
 date:   2018-09-02 00:10:36 -0400
-thumbnail: ../images/taiwanfood/MBS.png
+thumbnail: ../images/taiwanfood/MBS.jpg
 categories: list
 ---
 
-<img class="mt3-ns mt3 mb4-ns mb3" src="../images/taiwanfood/ST.png">
+
+
+<img class="mt3-ns mt3 mb4-ns mb3" src="../images/taiwanfood/ST.jpg">
+
 
 <p class="f4 pb3" style="max-width: 650px; margin: auto;">There’s a saying in Taiwan, 「吃就對了」,  and it’s often the advice I get when I visit a new city and ask my host for recommendations. It roughly translates to “just eat — you can’t go wrong”. I love this advice because it matches with the way I explore both cities and markets — comb every block on foot and eat anything that looks good.</p>
 
@@ -25,7 +28,7 @@ experienced QQ.</p>
 
 <p class="f3 pt2 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">黑糖珍珠奶茶 - Black sugar bubble tea<span class="f5 light-silver">&nbsp; &nbsp;hei tang zhen zhu nai cha</span></p>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/taiwanfood/PMT_2.png">
+<img src="../images/taiwanfood/PMT_2.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb2">
 <img src="../images/taiwanfood/PMT_1.JPG">
@@ -37,24 +40,24 @@ Bubble/boba/pearl milk tea is probably the most famous Taiwanese export, but Tai
 
 <p  id="anchor" class="f3 pt2 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">鹽酥雞 - salt and pepper fried chicken<span class="f5 light-silver">&nbsp; &nbsp;yan su ji</span></p>
 <div class="fl w-100 mb3">
-<img src="../images/taiwanfood/Popcorn_Chicken.png">
+<img src="../images/taiwanfood/Popcorn_Chicken.jpg">
 </div>
 <p class="pb4" style="max-width: 650px; margin: auto;">
 Boneless, bite-sized, and twice fried. Most stalls will offer it along size a bunch of other stuff you can deep fry with the chicken. I recommend sweet potato fries and chicken butt (a fatty piece that comes from the rear end, my childhood favorite). QQ potential: guess what? Chicken butt.</p>
 
 <p class="f3 pt2 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">牛肉麵 - beef noodle soup<span class="f5 light-silver">&nbsp; &nbsp;niu rou mian</span></p>
 <div class="fl w-100 mb3">
-<img src="../images/taiwanfood/BNS_1.png">
+<img src="../images/taiwanfood/BNS_1.jpg">
 </div>
 <p class="pb4" style="max-width: 650px; margin: auto;">
 The apex of noodle soups (okay, phở and ramen are pretty dang good, too), with large chunks of tender beef and crisp. You can choose clear (清燉) or spicy (紅燒) broth, and wide or thin noodles, as well as the mix of meat to tendon (I prefer all meat). ALWAYS choose spicy (it’s not spicy) and wide noodles. QQ potential: noodles semi al dente, and tendon if you get it.</p>
 
 <p class="f3 pt2 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">蔥油餅 - scallion pancake<span class="f5 light-silver">&nbsp; &nbsp;cong you bing</span></p>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/taiwanfood/SP_1.png">
+<img src="../images/taiwanfood/SP_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb2">
-<img src="../images/taiwanfood/SP_2.png">
+<img src="../images/taiwanfood/SP_2.jpg">
 </div>
 <p class="f7 pb3" style="max-width: 650px; margin: auto;">
 Try it at <a href="https://goo.gl/maps/ANMjdXYgqWH2" target="blank">Tian Jin Onion Pancake</a>, Taipei.</p>
@@ -63,7 +66,7 @@ Fried, flaky, and fragrant. You can have it on its own or stick stuff inside: eg
 
 <p class="f3 pt2 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">掛包 - Taiwanese hamburger<span class="f5 light-silver">&nbsp; &nbsp;gua bao</span></p>
 <div class="fl w-100 mb2">
-<img src="../images/taiwanfood/GB.png">
+<img src="../images/taiwanfood/GB.jpg">
 </div>
 <p class="f7 pb3" style="max-width: 650px; margin: auto;">
 Try it at <a href="https://goo.gl/maps/Rb9ewN6R1jS2" target="blank">藍家割包 Lan Jia Traditional Taiwanese Snack</a>, Taipei.</p>
@@ -72,10 +75,10 @@ Many ramen joints in America sell pork buns that are extremely similar to gua ba
 
 <p class="f3 pt2 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">胡椒餅 - black pepper bun<span class="f5 light-silver">&nbsp; &nbsp;hu jiao bing</span></p>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/taiwanfood/BPB_1.png">
+<img src="../images/taiwanfood/BPB_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb2">
-<img src="../images/taiwanfood/BPB_2.png">
+<img src="../images/taiwanfood/BPB_2.jpg">
 </div>
 <p class="f7 pb3" style="max-width: 650px; margin: auto;">
 Try it at <a href="https://goo.gl/maps/EPwMeXK9vxH2" target="blank">老甕碳烤胡椒餅</a>, Taipei.</p>
@@ -88,24 +91,24 @@ Like a regular meat bun, but you spilled too much black pepper in the mix and al
 
 <p class="f3 pt2 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">蛋餅 - egg pancake<span class="f5 light-silver">&nbsp; &nbsp;dan bing</span></p>
 <div class="fl w-100 mb3">
-<img src="../images/taiwanfood/EP.png">
+<img src="../images/taiwanfood/EP.jpg">
 </div>
 <p class="pb4" style="max-width: 650px; margin: auto;">
 My breakfast of choice. A staple found at any of the many breakfast spots in Taiwan that also sell soy milk, Chinese donuts, rice balls, shao bing pastry, and more. Similar to scallion pancake, but with an egg and not deep fried. QQ potential: dough.</p>
 
 <p class="f3 pt2 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">油飯 - oil rice<span class="f5 light-silver">&nbsp; &nbsp;you fan</span></p>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/taiwanfood/OR_1.png">
+<img src="../images/taiwanfood/OR_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb3">
-<img src="../images/taiwanfood/OR_2.png">
+<img src="../images/taiwanfood/OR_2.jpg">
 </div>
 <p class="pb4" style="max-width: 650px; margin: auto;">
 My absolute favorite comfort food. A dish that combines the Q of glutinous sticky rice and the umami of shiitake mushrooms and dried shrimp, ideally topped with cilantro. QQ potential: everything in this bowl of rice is Q.</p>
 
 <p class="f3 pt2 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">米糕 - mi gao</p>
 <div class="fl w-100 mb2">
-<img src="../images/taiwanfood/MG.png">
+<img src="../images/taiwanfood/MG.jpg">
 </div>
 <p class="f7 pb3" style="max-width: 650px; margin: auto;">
 Try it at <a href="https://goo.gl/maps/A9yWtRKJBLy" target="blank">戽斗米糕</a>, Tainan.</p>
@@ -114,28 +117,28 @@ Mi gao is similar to oil rice, and is also one of my favorite dishes. In additio
 
 <p class="f3 pt2 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">飯糰 - rice ball<span class="f5 light-silver">&nbsp; &nbsp;fan tuan</span></p>
 <div class="fl w-100 mb3">
-<img src="../images/taiwanfood/FT.png">
+<img src="../images/taiwanfood/FT.jpg">
 </div>
 <p class="pb4" style="max-width: 650px; margin: auto;">
 Like Japanese onigiri, it’s a ball of rice with magic inside. Like oil rice and mi gao, it also uses glutinous sticky rice, and common ingredients include pork floss, egg, pickles, and even a Chinese donut. You can find both savory and sweet rice balls at most stalls. QQ potential: rice.</p>
 
 <p class="f3 pt2 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">綠豆薏仁 - mung bean and adlay soup<span class="f5 light-silver">&nbsp; &nbsp;lü dou yi ren</span></p>
 <div class="fl w-100 mb3">
-<img src="../images/taiwanfood/MBS.png">
+<img src="../images/taiwanfood/MBS.jpg">
 </div>
 <p class="pb4" style="max-width: 650px; margin: auto;">
 I’m upset, because mung bean is the worst translation for this delicious bean. In Chinese it’s “green bean”, and it’s the cousin of red bean, but because green beans the vegetable exists in English, we have to translate it to mung bean. While red bean soup is usually served hot in cold weather, mung bean soup is served chilled in the summer. With a slight sweetness and the Q texture of adlay, this is one of my favorite desserts. QQ potential: adlay. You can get it without adlay, but it’s a lot mushier in texture with only mung beans.</p>
 
 <p class="f3 pt2 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">豆花 - silken tofu<span class="f5 light-silver">&nbsp; &nbsp;dou hua</span></p>
 <div class="fl w-100 mb3">
-<img src="../images/taiwanfood/ST.png">
+<img src="../images/taiwanfood/ST.jpg">
 </div>
 <p class="pb4" style="max-width: 650px; margin: auto;">
 Freshly made, this fluffy tofu, usually served with a simple syrup and soft peanuts, glides down your throat. Served hot or cold, and you can customize the heckin heck out of it. Red beans? Cool. Tapioca pearls? No problem. Mung bean and adlay soup? You’ll get some weird looks but okay. QQ potential: this is the exemption where the softer the tofu, the better. The Q will come from the ingredients you choose.</p>
 
 <p class="f3 pt2 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">芋圓 - taro balls<span class="f5 light-silver">&nbsp; &nbsp;yu yuan</span></p>
 <div class="fl w-100 mb2">
-<img src="../images/taiwanfood/TB.png">
+<img src="../images/taiwanfood/TB.jpg">
 </div>
 <p class="f7 pb3" style="max-width: 650px; margin: auto;">
 Try it at <a href="https://goo.gl/maps/BUVLYWaoN8U2" target="blank">阿柑姨芋圓 Ah Gan Taro Balls</a>, Jiufen.</p>
@@ -148,7 +151,7 @@ QQ! One of the most QQ desserts you can get. The purple ones are taro, and often
 
 <p class="f3 pt2 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">臭豆腐 - stinky tofu<span class="f5 light-silver">&nbsp; &nbsp;chou dou fu</span></p>
 <div class="fl w-100 mb2">
-<img src="../images/taiwanfood/ST_LWYang.png">
+<img src="../images/taiwanfood/ST_LWYang.jpg">
 </div>
 <p class="f7 pb3" style="max-width: 650px; margin: auto;">
 Photo by <a href="https://www.flickr.com/photos/lwy/" target="blank">LW Yang</a> via Flickr/Creative Commons.</p>
@@ -157,7 +160,7 @@ Yea, it smells bad, and it smells worse when they’re in the middle of deep fry
 
 <p class="f3 pt2 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">肉圓 - ba wan</p>
 <div class="fl w-100 mb2">
-<img src="../images/taiwanfood/BW.png">
+<img src="../images/taiwanfood/BW.jpg">
 </div>
 <p class="f7 pb3" style="max-width: 650px; margin: auto;">
 Try it at <a href="https://goo.gl/maps/Yt38yANWLg42" target="blank">杜蝦仁肉丸</a>, Tainan.</p>
@@ -166,17 +169,17 @@ How would we take a regular meat bun and make it as QQ as possible? Replace rice
 
 <p class="f3 pt2 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">蚵仔煎 - oyster omelette<span class="f5 light-silver">&nbsp; &nbsp;oh ah jian</span></p>
 <div class="fl w-100 mb3">
-<img src="../images/taiwanfood/OO.png">
+<img src="../images/taiwanfood/OO.jpg">
 </div>
 <p class="pb4" style="max-width: 650px; margin: auto;">
 Oyster omelettes originate from the Teochew region in China, and you can find many variants of it, including in Thailand. What makes the Taiwanese version unique is, you guessed it: it’s QQ as heck! Similar to ba wan, using glutinous rice flour mixed with the egg and oysters produces an insanely goopy and crispy texture that’s hard to resist, especially with a good sweet and sour sauce on top. QQ potential: c’mon.</p>
 
 <p class="f3 pt2 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">腕粿 - bowled rice cake<span class="f5 light-silver">&nbsp; &nbsp;wah gweh</span></p>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/taiwanfood/BRC_1.png">
+<img src="../images/taiwanfood/BRC_1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb2">
-<img src="../images/taiwanfood/BRC_2.png">
+<img src="../images/taiwanfood/BRC_2.jpg">
 </div>
 <p class="f7 pb3" style="max-width: 650px; margin: auto;">
 Try it at <a href="https://goo.gl/maps/Hr1Q3A7q3rz" target="blank">Fu Sheng Hao 富盛號碗粿</a>, Tainan.</p>
@@ -185,7 +188,7 @@ I swear this dish is impossible to photograph to look tasty. It’s a savory ric
 
 <p class="f3 pt2 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">藥燉排骨 - medicinal rib stew<span class="f5 light-silver">&nbsp; &nbsp;yao dun pai gu</span></p>
 <div class="fl w-100 mb2">
-<img src="../images/taiwanfood/MRS.png">
+<img src="../images/taiwanfood/MRS.jpg">
 </div>
 <p class="f7 pb3" style="max-width: 650px; margin: auto;">
 Try it at <a href="https://goo.gl/maps/4fEbPVJzCny" target="blank">陳董藥燉排骨</a>, Taipei.</p>
@@ -213,7 +216,7 @@ Julius currently lives in Bangkok and loves to eat, draw, and play games (someti
 
 <div class="fl w-100 w-50-ns pr2-ns mb4">
   <a href="http://theinnbox.co/where-to-eat-bed-stuy-brooklyn/"><div class="relative" style="height: 450px; background-color:#ECEAE7;">
-    <div class="bg-center cover" style="background-image: url('../images/bedstuy/bedstuy_food_header.png'); padding-bottom:100%; width:100%;"></div>
+    <div class="bg-center cover" style="background-image: url('../images/bedstuy/bedstuy_food_header.jpg'); padding-bottom:100%; width:100%;"></div>
     <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
       <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
       <a class="f5 lh-title post-link" href="http://theinnbox.co/where-to-eat-bed-stuy-brooklyn/">10 places to feed your stomache and your soul in Bed-Stuy, Brooklyn</a>
@@ -225,7 +228,7 @@ Julius currently lives in Bangkok and loves to eat, draw, and play games (someti
 
 <div class="fl w-100 w-50-ns pl2-ns mb1 mb0-ns">
   <a href="http://theinnbox.co/the-algarve-portugal-travel-guide/"><div class="relative" style="height: 450px; background-color:#ECEAE7;">
-    <div class="bg-center cover" style="background-image: url('http://theinnbox.co/images/algarve/00.png'); padding-bottom:100%; width:100%;"></div>
+    <div class="bg-center cover" style="background-image: url('http://theinnbox.co/images/algarve/00.jpg'); padding-bottom:100%; width:100%;"></div>
     <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
       <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
       <a class="f5 lh-title post-link" href="http://theinnbox.co/the-algarve-portugal-travel-guide/">Your travel guide to The Algarve, Portugal: where to stay and what to do.</a>
