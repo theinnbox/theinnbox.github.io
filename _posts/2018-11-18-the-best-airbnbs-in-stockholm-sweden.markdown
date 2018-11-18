@@ -4,14 +4,14 @@ title:  The 16 Best Airbnbs in Stockholm, Sweden
 author: Sabrina Majeed
 author_ig: sabrinasans
 date:   2018-11-18 00:10:36 -0400
-thumbnail: ../images/stockholm/thumb.jpg
+thumbnail: ../images/stockholm/Thumb.jpg
 categories: list airbnb
 related_posts: [/best-airbnbs-austin-texas, /best-airbnbs-san-francisco]
 related_posts_custom_title: "Check out more of our Airbnb lists"
 ---
 
 
-<img src="../images/stockholm/thumb.jpg">
+<img src="../images/stockholm/Thumb.jpg">
 
 <p class="f7 pb3 pb4-ns" style="max-width: 650px; margin: auto;">
 Photo via <a href="https://www.airbnb.com/rooms/25253185" target="blank">Airbnb</a></p>
