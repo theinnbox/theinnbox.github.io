@@ -9,7 +9,7 @@ categories: review
 review_dates: "June 1 — 5, 2018"
 review_rate: 197
 review_guests: "Her Boyfriend"
-public: 1
+
 ---
 
 <img class="mt4-ns mt3 mb4-ns mb3" src="/images/boro/00.jpg">
