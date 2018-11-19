@@ -47,7 +47,7 @@ Photos via <a href="https://www.airbnb.com/rooms/17886451?location=Stockholm%2C%
 
 <p class="f6 i light-silver pb4" style="max-width: 650px; margin: auto;">There is an elevator in the Airbnb's building but we recommend directly contacting the host for more accessibility information on the unit itself.</p>
 
-<p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;"><a href="https://www.airbnb.com/rooms/7722957?location=Stockholm%2C%20Sweden&s=qUhyS1P3" target="_blank" class="link underline-hover orange">"Stockholm's Finaste Kvarter" </a> in Östermalm<span class="f5 light-silver">&nbsp; &nbsp;Starting at $88/Night</span></p>
+<p id="anchor" class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;"><a href="https://www.airbnb.com/rooms/7722957?location=Stockholm%2C%20Sweden&s=qUhyS1P3" target="_blank" class="link underline-hover orange">"Stockholm's Finaste Kvarter" </a> in Östermalm<span class="f5 light-silver">&nbsp; &nbsp;Starting at $88/Night</span></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
 <img src="../images/stockholm/2_A.jpg">
