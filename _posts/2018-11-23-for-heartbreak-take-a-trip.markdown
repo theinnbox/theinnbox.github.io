@@ -13,7 +13,7 @@ public: 1
 
 
 
-<img class="mt4-ns mt3 mb4-ns mb3" src="/images/heartbreak/31.jpg">
+<img src="../images/heartbreak/31.jpg">
 
 <p class="pb3 f4" style="max-width: 650px; margin: auto;">
 I’ve been addicted to drugs for the past two years.</p>
