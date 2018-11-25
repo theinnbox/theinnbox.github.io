@@ -14,6 +14,8 @@ public: 1
 
 
 <img src="../images/heartbreak/31.jpg">
+<p class="f7 pb3 pb4-ns" style="max-width: 650px; margin: auto;">
+Photos via <a href="https://www.instagram.com/therelzoe/" target="blank">Arielle Benedek</a></p>
 
 <p class="pb3 f4" style="max-width: 650px; margin: auto;">
 I’ve been addicted to drugs for the past two years.</p>
