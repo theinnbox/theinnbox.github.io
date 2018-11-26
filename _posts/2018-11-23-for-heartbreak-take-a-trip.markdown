@@ -1,14 +1,14 @@
 ---
 layout: longform
-title:  "The 4 trips that helped me heal my heartbreak"
+title:  "For Heartbreak, Take a Trip: 4 places that helped me move on"
 author: Arielle Benedek
 author_ig: therelzoe
-date:   2018-07-28 00:10:36 -0400
+date:   2018-11-25 00:10:36 -0400
 thumbnail: ../images/heartbreak/29.jpg
 categories: longform
 related_posts: [/travel-like-a-type-b-corsica-france, /how-to-see-it-all-while-traveling]
 related_posts_custom_title: Check out more of our travel posts
-public: 1
+
 ---
 
 
@@ -24,7 +24,7 @@ I’ve been addicted to drugs for the past two years.</p>
 Or one drug really...a boy. I see myself as a strong-willed feminist who knows her worth and knows what she wants. However, I had no power over this drug, no self-control, so I got my heart broken once, then twice, and then a couple more times. There’s no real cure for heartbreak, but there is an antidote. For some it’s eating comfort food or watching rom-coms while nursing a bottle of Cab Sauv, but personally I need something a bit more jarring. Something to shock my system so I can get back my freedom of thought and rediscover my love of all things that aren’t <i>him</i>.</p>
 
 <p class="pb3" style="max-width: 650px; margin: auto;">
-My antidote is travel. I book flights to far places, not to escape (this was a long distance love), but to reclaim my worth and my wants. I often find that I need to change my surroundings and engage with the world outside myself to pull out of the heartbreak and into the next chapter. During this saga, I’ve discovered that different types of trips heal different parts of my soul and bring me back to life one piece at a time.</p>
+My antidote is travel. I book flights to far places, not to escape, but to reclaim my worth and my wants. I often find that I need to change my surroundings and engage with the world outside myself to pull out of the heartbreak and into the next chapter. During this saga, I’ve discovered that different types of trips heal different parts of my soul and bring me back to life one piece at a time.</p>
 
 <p class="f2 pt4 pb3 lh-title" style="max-width: 650px; margin: auto; font-family: 'Gilroy-ExtraBold'">The First Heartbreak: Venice</p>
 
@@ -139,7 +139,7 @@ It also helped that at the end of the week, I attended a wedding between two bes
 <img src="../images/heartbreak/13.jpg">
 </div>
 <p class="f7 pb3 pb4-ns" style="max-width: 650px; margin: auto;">
-Photos via <a href="https://www.instagram.com/therelzoe/" target="blank">Arielle Benedek</a></p>
+Photos via Thomas Carlotti</p>
 
 
 <p class="f2 pt4 pb3 lh-title" style="max-width: 650px; margin: auto; font-family: 'Gilroy-ExtraBold'">The Third Heartbreak: Denver</p>
@@ -177,13 +177,7 @@ Photos via <a href="https://www.instagram.com/therelzoe/" target="blank">Arielle
 
 <p class="f2 pt4 pb3 lh-title" style="max-width: 650px; margin: auto; font-family: 'Gilroy-ExtraBold'">The Final Heartbreak: Portland</p>
 
-<p class="pb3 pb4-ns" style="max-width: 650px; margin: auto;">I had one last relapse with the drug. I took it knowing it would end badly, but decided to deal with the consequences regardless because at least I’d be able to end this habit once and for all. So after he booked a flight to visit me and then cancelled the night before, I booked a flight of my own.</p>
-
-<div class="fl w-100 mb1 mb2-ns">
-<img src="../images/heartbreak/18.jpg">
-</div>
-<p class="f7 pb3 pb4-ns" style="max-width: 650px; margin: auto;">
-Photos via <a href="https://www.instagram.com/therelzoe/" target="blank">Arielle Benedek</a></p>
+<p class="pb3" style="max-width: 650px; margin: auto;">I had one last relapse with the drug. I took it knowing it would end badly, but decided to deal with the consequences regardless because at least I’d be able to end this habit once and for all. So after he booked a flight to visit me and then cancelled the night before, I booked a flight of my own.</p>
 
 <p class="pb3" style="max-width: 650px; margin: auto;">This time I took a solo trip. I’ve done solo trips before, but usually in a much happier state of mind. I was nervous to be alone in a new city with only my thoughts as company. But I took the trip anyway because I knew that if I could survive a few days alone, then I could get past this.</p>
 
