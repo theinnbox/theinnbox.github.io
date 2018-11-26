@@ -49,7 +49,7 @@ I know what you’re thinking: <i>you’re going to possibly THE most romantic p
 <p class="f7 pb3 pb4-ns" style="max-width: 650px; margin: auto;">
 Photos via <a href="https://www.instagram.com/therelzoe/" target="blank">Arielle Benedek</a></p>
 
-<p class="pb3 pb4-ns" style="max-width: 650px; margin: auto;">
+<p  id="anchor" class="pb3 pb4-ns" style="max-width: 650px; margin: auto;">
 First off, Saint Mark’s Square is very busy and I was more concerned about a pigeon pooping on me mid-flight than catching the eye of some lovers. The gondolas are pricey and the couples crossing bridges over canals are too busy taking selfies. The staple of most meals here is not pasta, but appetizer-sized toasts called “cicchetti”, i.e. <i>food made for one</i>. Cicchetti run the gamut, sporting toppings such as prosciutto, cheese, clams in wine sauce, or vegetables cured in vinegar. I often found myself eating cicchetti while standing in a crowd of people or sitting along a canal, which was very conducive for a newly single person who does not want to dine solo at a table while the waitress judges my situation.</p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
@@ -61,7 +61,7 @@ First off, Saint Mark’s Square is very busy and I was more concerned about a p
 <p class="f7 pb3 pb4-ns" style="max-width: 650px; margin: auto;">
 Photos via <a href="https://www.instagram.com/therelzoe/" target="blank">Arielle Benedek</a></p>
 
-<p id="anchor" class="pb3" style="max-width: 650px; margin: auto;">
+<p class="pb3" style="max-width: 650px; margin: auto;">
 Venice is also the home of the Aperol Spritz. So once I elbowed my way past the crowds and over a dozen bridges I found myself at <a href="https://www.instagram.com/p/BLtUoKrg41N/" target="new">Osteria al Squero</a>, where I began my withdrawal. You can enjoy the authenticity of Venice much more once you leave the dense city center and start wandering around the outer neighborhoods.</p>
 
 <p class="pb3 pb4-ns" style="max-width: 650px; margin: auto;">
