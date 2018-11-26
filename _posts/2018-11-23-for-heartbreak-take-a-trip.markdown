@@ -61,7 +61,7 @@ First off, Saint Mark’s Square is very busy and I was more concerned about a p
 <p class="f7 pb3 pb4-ns" style="max-width: 650px; margin: auto;">
 Photos via <a href="https://www.instagram.com/therelzoe/" target="blank">Arielle Benedek</a></p>
 
-<p class="pb3" style="max-width: 650px; margin: auto;">
+<p id="anchor" class="pb3" style="max-width: 650px; margin: auto;">
 Venice is also the home of the Aperol Spritz. So once I elbowed my way past the crowds and over a dozen bridges I found myself at <a href="https://www.instagram.com/p/BLtUoKrg41N/" target="new">Osteria al Squero</a>, where I began my withdrawal. You can enjoy the authenticity of Venice much more once you leave the dense city center and start wandering around the outer neighborhoods.</p>
 
 <p class="pb3 pb4-ns" style="max-width: 650px; margin: auto;">
