@@ -25,7 +25,7 @@ I actually happened to have a chance encounter with the owner, Lamphoune Voravon
 But back to Satri House. The original building that houses the hotel was built at the turn of the 20th century and was home to Prince Souphanouvong, also known as the “Red Prince”, a revolutionary who would later become the first president of the Lao People’s Democratic Republic (he’s a fascinating person himself but for the sake of not getting sidetracked, I’ll just suggest you google for more information). Lamphoune, who had been exiled to France when she was young, returned to Laos thirty years later to open up a traditional art, textiles, and antiques shop. After opening a few more shops in Luang Prabang she decided to purchase the original Satri House building, restore the estate, and run it as a hotel. The rest is history. </p>
 
 
-<p class="f3 pb2" style="max-width: 650px; margin: auto; font-family: 'Gilroy-ExtraBold';">Checking In</p>
+<p id ="anchor" class="f3 pb2" style="max-width: 650px; margin: auto; font-family: 'Gilroy-ExtraBold';">Checking In</p>
 
 <p class="pb3" style="max-width: 650px; margin: auto;">
 Which brings us to the present. Upon arriving at the airport in Luang Prabang we got in the taxi line. The taxi service here was quite centralized, similar to New York City with a queue and set prices. Luckily since Satri House is so popular the drivers and taxi stand attendants were all familiar with it. We were assigned to a van with some other tourists who were going to be dropped off at other hotels along the way. Within twenty minutes we pulled up in front of Satri House’s discreet bamboo-lined entrance.<p>
@@ -51,7 +51,7 @@ Satri House doesn’t really have a traditional hotel lobby, but rather a waitin
 <p class="f7 pb3 pb4-ns" style="max-width: 650px; margin: auto;">
 Complimentary welcome drinks and local whiskey tasting set.</p>
 
-<p id="anchor" class="f3 pb2" style="max-width: 650px; margin: auto; font-family: 'Gilroy-ExtraBold';">The Room</p>
+<p class="f3 pb2" style="max-width: 650px; margin: auto; font-family: 'Gilroy-ExtraBold';">The Room</p>
 
 <p class="pb3 pb4-ns" style="max-width: 650px; margin: auto;">
 I booked a deluxe room, the most affordable option at the hotel. Even at the lowest tier the room seemed plenty spacious for two and included a backyard patio. A four poster bed anchors the room, which is decorated with an array of art from different cultures: Ganesh statues, Chinese banners, and seemingly aboriginal accents are a few examples in the hotel's collection.</p>
