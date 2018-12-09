@@ -157,7 +157,7 @@ I think it's also a really good option for families or first-time visitors to th
 
 <div class="fl w-100 w-50-ns pr2-ns mb4">
   <a href="http://theinnbox.co/best-places-to-stay-upstate-new-york/"><div class="relative" style="height: 450px; background-color:#ECEAE7;">
-    <div class="bg-center cover" style="background-image: url('http://theinnbox.co/images/upstate/arnold_1.png'); padding-bottom:100%; width:100%;"></div>
+    <div class="bg-center cover" style="background-image: url('http://theinnbox.co/images/upstate/arnold_1.jpg'); padding-bottom:100%; width:100%;"></div>
     <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
       <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
       <a class="f5 lh-title post-link" href="http://theinnbox.co/best-places-to-stay-upstate-new-york/">17 cool places to stay in Upstate New York</a>
@@ -169,7 +169,7 @@ I think it's also a really good option for families or first-time visitors to th
 
 <div class="fl w-100 w-50-ns pl2-ns mb1 mb0-ns">
   <a href="http://theinnbox.co/200-dollars-airbnb-new-york-city/"><div class="relative" style="height: 450px; background-color:#ECEAE7;">
-    <div class="bg-center cover" style="background-image: url('http://theinnbox.co/images/nycair/Splash.png'); padding-bottom:100%; width:100%;"></div>
+    <div class="bg-center cover" style="background-image: url('http://theinnbox.co/images/nycair/Splash.jpg'); padding-bottom:100%; width:100%;"></div>
     <div class="absolute bottom-2 bg-white pv3 ph4 mh4">
       <h2 style="font-family: 'Inconsolata', monospace;" class="mb1">
       <a class="f5 lh-title post-link" href="http://theinnbox.co/200-dollars-airbnb-new-york-city/">Here's what $200 on Airbnb can get you in New York City</a>
