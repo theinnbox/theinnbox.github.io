@@ -10,7 +10,6 @@ review_dates: "October 08 — 11, 2018"
 review_rate: 216
 review_guests: "Her Boyfriend"
 related_posts: [/my-love-inn-lijiang-review, /the-aviary-hotel-siem-reap-review]
-public: 1
 ---
 
 <img class="mt4-ns mt3 mb4-ns mb3" src="/images/satri/00.jpg">
