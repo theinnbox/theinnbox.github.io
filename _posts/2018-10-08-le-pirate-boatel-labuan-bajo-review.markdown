@@ -9,7 +9,7 @@ categories: review
 review_dates: "September 15 — 18, 2018"
 review_rate: 43
 review_guests: "Her Boyfriend"
-related_posts: [/what-hokkaido-taught-me-about-hospitality, birdhouse-el-nido-review]
+related_posts: [/what-hokkaido-taught-me-about-hospitality, /birdhouse-el-nido-review]
 ---
 
 <img class="mt4-ns mt3 mb4-ns mb3" src="/images/boatel/00.jpg">
