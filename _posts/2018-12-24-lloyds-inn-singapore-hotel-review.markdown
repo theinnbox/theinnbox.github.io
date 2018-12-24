@@ -24,7 +24,7 @@ The team behind Lloyd Inn’s is also the team behind <a href="https://www.agoda
 That last part is perhaps the key to the hotel’s success. Lloyd’s Inn intentionally markets itself as a “staycation” destination for Singaporeans who are looking for an oasis in the city’s center. In fact, I found out about the hotel from a local who frequents Lloyd’s Inn for such trips. As a result of this strategy, Lloyd’s Inn manages to pull off something very few hotels ever will: an air of authenticity.</p>
 
 
-<p id ="anchor" class="f3 pb2" style="max-width: 650px; margin: auto; font-family: 'Gilroy-ExtraBold';">Checking In</p>
+<p class="f3 pb2" style="max-width: 650px; margin: auto; font-family: 'Gilroy-ExtraBold';">Checking In</p>
 
 <p class="pb3" style="max-width: 650px; margin: auto;">
 We headed over from Lloyd’s Inn after a quick one-night stay the <a href="https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1801609&hid=1620253" target="new">Hotel Mono</a> in Chinatown. We pulled up in a Grab taxi to an obscured entrance; a tell-tale sign of the privacy afforded at the compound. From the entrance we walked across an elevated bridge, which offers a lovely view of the hotel’s common areas, and into the air conditioned lobby.<p>
@@ -44,7 +44,7 @@ Entryway surrounded by foliage; compact lobby with seating area; hallway leading
 <p class="pb3 pb4-ns" style="max-width: 650px; margin: auto;">
 Check-in was fairly straight-forward and within a few minutes we were being escorted to our room on the hotel’s top level.</p>
 
-<p class="f3 pb2" style="max-width: 650px; margin: auto; font-family: 'Gilroy-ExtraBold';">The Room</p>
+<p id ="anchor" class="f3 pb2" style="max-width: 650px; margin: auto; font-family: 'Gilroy-ExtraBold';">The Room</p>
 
 <p class="pb3 pb4-ns" style="max-width: 650px; margin: auto;">
 Lloyd’s Inn has a litany of room types available. I opted for the “Reading Room”, which was one tier above the budget offering and came with the choice between a small enclosed garden space on the ground floor or a panoramic view on the top floor. I opted for the view, which provides the sensational illusion of being suspended in the trees despite being in the middle of the bustling city.</p>
