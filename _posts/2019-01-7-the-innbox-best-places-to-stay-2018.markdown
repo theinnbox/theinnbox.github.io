@@ -40,7 +40,7 @@ I've always felt that where you stay when you travel provides the foundation for
 </div>
 
 
-<div anchor="urban" class="bg-washed-yellow ba bw5 b--washed-yellow">
+<div id="urban" class="bg-washed-yellow ba bw5 b--washed-yellow">
 <p class="tc f2 pt4 lh-title" style="font-family: 'Gilroy-ExtraBold'">Best Urban Lodging</p>
 <p class="f5 pb3 lh-title" style="max-width: 650px; margin: auto;"><b>We're looking for...</b> a centrally located base for exploring the city, which also captures the culture, charm, and identity of the surrounding streets.</p>
 
@@ -55,7 +55,7 @@ Photo by <a href="https://www.instagram.com/theinnbox/" target="blank">The Innbo
 <p class="pb2" style="max-width: 650px; margin: auto;">
 <b>Why we like it:</b> Lloyd's Inn is like a microcosm of the city-state of Singapore: modern concrete blocks housing efficiently planned spaces, all juxtaposed by lush green nature. They even send you to a local kopitiam for breakfast! The hotel is centrally located walking distance from all the shopping on Orchard Road, which is where you'll also find the nearest subway station. <a href="http://theinnbox.co/lloyds-inn-singapore-hotel-review/" target="new">Read the full review.</a></p>
 
-<p id="anchor" class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">Runner Ups: <a href="https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1801609&hid=5831409" target="_blank" class="link underline-hover orange">Lao Poet Hotel in Vientiane</a> and <a href="http://theinnbox.co/hotel-1-busan-review/" target="_blank" class="link underline-hover orange">Hotel 1 in Busan</a></p>
+<p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">Runner Ups: <a href="https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1801609&hid=5831409" target="_blank" class="link underline-hover orange">Lao Poet Hotel in Vientiane</a> and <a href="http://theinnbox.co/hotel-1-busan-review/" target="_blank" class="link underline-hover orange">Hotel 1 in Busan</a></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
 <img src="../images/bestof2018/laopoethotel.jpg">
@@ -68,7 +68,7 @@ Photos by <a href="https://www.instagram.com/theinnbox/" target="blank">The Innb
 </div>
 
 
-<div anchor="rustic" class="bg-washed-green ba bw5 b--washed-green pt1">
+<div id="rustic" class="bg-washed-green ba bw5 b--washed-green pt1">
 <p class="tc f2 pt4 lh-title" style="font-family: 'Gilroy-ExtraBold'">Best Rustic Lodging</p>
 <p class="f5 pb3 lh-title" style="max-width: 650px; margin: auto;"><b>We're looking for...</b> inspiring escapes that get you as close as possible to the untouched, natural world... with just the right amount of amnenities.</p>
 
@@ -83,7 +83,7 @@ Photo by <a href="https://www.instagram.com/theinnbox/" target="blank">The Innbo
 <p class="pb2" style="max-width: 650px; margin: auto;">
 <b>Why we like it:</b> Treehouse-themed lodgings are becoming a dime a dozen but most fall into the trap of being either far too artificial or having far too few amenities to make the experience actually enjoyable. Birdhouse manages to get it just right, with luxurious tents and decent bathrooms that are embedded right into the lush trees of El Nido. The view doesn't hurt either. <a href="http://theinnbox.co/birdhouse-el-nido-review/" target="new">Read the full review.</a></p>
 
-<p id="anchor" class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">Runner Ups: <a href="https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1801609&hid=2552521" target="_blank" class="link underline-hover orange">Bearlin Bungalow in Vang Vieng</a> and <a href="http://theinnbox.co/le-pirate-boatel-labuan-bajo-review/" target="_blank" class="link underline-hover orange">Le Pirate Boatel in Labuan Bajo</a></p>
+<p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">Runner Ups: <a href="https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1801609&hid=2552521" target="_blank" class="link underline-hover orange">Bearlin Bungalow in Vang Vieng</a> and <a href="http://theinnbox.co/le-pirate-boatel-labuan-bajo-review/" target="_blank" class="link underline-hover orange">Le Pirate Boatel in Labuan Bajo</a></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
 <img src="../images/bestof2018/bearlin.jpg">
@@ -96,7 +96,7 @@ Photos by <a href="https://www.instagram.com/theinnbox/" target="blank">The Innb
 </div>
 
 
-<div anchor="under100" class="bg-washed-red ba bw5 b--washed-red pt1">
+<div id="under100" class="bg-washed-red ba bw5 b--washed-red pt1">
 <p class="tc f2 pt4 lh-title" style="font-family: 'Gilroy-ExtraBold'">Best Lodging Under $100/Night</p>
 <p class="f5 pb3 lh-title" style="max-width: 650px; margin: auto;"><b>We're looking for...</b> the most bang for your buck. Unique experiences and fantastic service that feel like it should cost a lot more than a single Benny.</p>
 
@@ -111,7 +111,7 @@ Photo by <a href="https://www.instagram.com/theinnbox/" target="blank">The Innbo
 <p class="pb2" style="max-width: 650px; margin: auto;">
 <b>Why we like it:</b> The Aviary Hotel isn't a huge resort but it packs all the amenities of one into a boutique format. There's a stunning pool and plenty of dining choices: a restaurant, a cafe, and a rooftop cocktail bar to boot. The location is close enough to the action in Siem Reap without being directly in the thick of the nightlife, but what truly helped it cinch the top spot in this category is the five-star service of the staff. <a href="http://theinnbox.co/the-aviary-hotel-siem-reap-review/" target="new">Read the full review.</a></p>
 
-<p id="anchor" class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">Runner Ups: <a href="https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1801609&hid=487581" target="_blank" class="link underline-hover orange">Le Pirate Beach Club in Nusa Ceningan</a> and <a href="http://theinnbox.co/le-pirate-boatel-labuan-bajo-review/" target="_blank" class="link underline-hover orange">Pai Village Boutique Resort & Farm in Pai</a></p>
+<p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">Runner Ups: <a href="https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1801609&hid=487581" target="_blank" class="link underline-hover orange">Le Pirate Beach Club in Nusa Ceningan</a> and <a href="http://theinnbox.co/le-pirate-boatel-labuan-bajo-review/" target="_blank" class="link underline-hover orange">Pai Village Boutique Resort & Farm in Pai</a></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
 <img src="../images/bestof2018/lepirate.jpg">
@@ -123,7 +123,7 @@ Photo by <a href="https://www.instagram.com/theinnbox/" target="blank">The Innbo
 Photos by <a href="https://www.instagram.com/theinnbox/" target="blank">The Innbox</a></p>
 </div>
 
-<div anchor="hostel" class="bg-lightest-blue ba bw5 b--lightest-blue pt1">
+<div id="hostel" class="bg-lightest-blue ba bw5 b--lightest-blue pt1">
 <p class="tc f2 pt4 lh-title" style="font-family: 'Gilroy-ExtraBold'">Best Hostel or Shared Space</p>
 <p class="f5 pb3 lh-title" style="max-width: 650px; margin: auto;"><b>We're looking for...</b> spaces that, though they may be shared with strangers, still offer a dignified amount of privacy, enjoyable common areas to stretch out or socialize in, and a nightly rate that's more than kind on the budget. </p>
 
@@ -138,7 +138,7 @@ Photo by <a href="https://www.instagram.com/theinnbox/" target="blank">The Innbo
 <p class="pb2" style="max-width: 650px; margin: auto;">
 <b>Why we like it:</b> Lloyd's Inn is like a microcosm of the city-state of Singapore: modern concrete blocks housing efficiently planned spaces, all juxtaposed by lush green nature. They even send you to a local kopitiam for breakfast! The hotel is centrally located walking distance from all the shopping on Orchard Road, which is where you'll also find the nearest subway station. <a href="http://theinnbox.co/what-hokkaido-taught-me-about-hospitality/" target="new">Read more about Furano Hostel.</a></p>
 
-<p id="anchor" class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">Runner Ups: <a href="https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1801609&hid=4128776" target="_blank" class="link underline-hover orange">The Millennials Shibuya in Tokyo</a> and <a href="https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1801609&hid=2816945" target="_blank" class="link underline-hover orange">Cara Cara Inn in Bali</a></p>
+<p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">Runner Ups: <a href="https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1801609&hid=4128776" target="_blank" class="link underline-hover orange">The Millennials Shibuya in Tokyo</a> and <a href="https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1801609&hid=2816945" target="_blank" class="link underline-hover orange">Cara Cara Inn in Bali</a></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
 <img src="../images/bestof2018/millennials.jpg">
@@ -151,7 +151,7 @@ Photos by <a href="https://www.instagram.com/theinnbox/" target="blank">The Innb
 </div>
 
 
-<div anchor="guesthouse" class="bg-washed-yellow ba bw5 b--washed-yellow pt1">
+<div id="guesthouse" class="bg-washed-yellow ba bw5 b--washed-yellow pt1">
 <p class="tc f2 pt4 lh-title" style="font-family: 'Gilroy-ExtraBold'">Best Guesthouse or Airbnb</p>
 <p class="f5 pb3 lh-title" style="max-width: 650px; margin: auto;"><b>We're looking for...</b> spaces that feel like home sweet home even when you're somewhere new. With hands-on hosts that respect boundaries while also making you feel like part of the family. </p>
 
@@ -166,7 +166,7 @@ Photo by <a href="https://www.instagram.com/theinnbox/" target="blank">The Innbo
 <p class="pb2" style="max-width: 650px; margin: auto;">
 <b>Why we like it:</b> While the bed and breakfast game is usually dominated by retirement-age couples, Francoile is like a little glimpse into the future of what guesthouses designed by the millennial generation might be like. Built and operated by a lovely young couple that used to be television set designers in Tokyo, the style yet minimal furnishings feel at home with the art on Naoshima, and it's such a joy to chat with the friendly hosts and hear about their own travel experiences.</p>
 
-<p id="anchor" class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">Runner Ups: <a href="https://www.airbnb.com/rooms/7164771" target="_blank" class="link underline-hover orange">Tida House in Hokkaido</a> and <a href="https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1801609&hid=2669484" target="_blank" class="link underline-hover orange">Stayktion in Chiang Rai</a></p>
+<p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">Runner Ups: <a href="https://www.airbnb.com/rooms/7164771" target="_blank" class="link underline-hover orange">Tida House in Hokkaido</a> and <a href="https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1801609&hid=2669484" target="_blank" class="link underline-hover orange">Stayktion in Chiang Rai</a></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
 <img src="../images/bestof2018/tida.jpg">
@@ -179,7 +179,7 @@ Photos by <a href="https://www.instagram.com/theinnbox/" target="blank">The Innb
 </div>
 
 
-<div anchor="resort" class="bg-washed-green ba bw5 b--washed-green pt1">
+<div id="resort" class="bg-washed-green ba bw5 b--washed-green pt1">
 <p class="tc f2 pt4 lh-title" style="font-family: 'Gilroy-ExtraBold'">Best Resort</p>
 <p class="f5 pb3 lh-title" style="max-width: 650px; margin: auto;"><b>We're looking for...</b> spaces that have it all: stunning natural surroundings, aspirational rooms you wish you lived in, treat-your-self amenities, and <i>actual</i> good food. Basically, a place so dope that you won't even feel any FOMO if you spent the entire day in bed.</p>
 
@@ -194,7 +194,7 @@ Photo by <a href="https://www.instagram.com/theinnbox/" target="blank">The Innbo
 <p class="pb2" style="max-width: 650px; margin: auto;">
 <b>Why we like it:</b> Le Pirate Beach Club may not classify itself as a resort, but I'm considering it one and I think it's the perfect "resort" for people like me who are resort skeptics. It's not ostentatious, in fact the tiny bare beach shacks which serve as your room are downright humble. Yet the seaside location and the kidney-shaped pool which overlooks it feels luxurious, and the intimate size of the property makes it seem quite exclusive, even at the accessible price of $50/night. We spent a whole day chilling and eating snacks by the pool after a disasterous excursion and had zero regrets.</p>
 
-<p id="anchor" class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">Runner Ups: <a href="https://z9resorts.com/?lang=en" target="_blank" class="link underline-hover orange">Z9 Resort in Kanchanaburi</a> and <a href="https://www.booking.com/hotel/th/tree-house-villas.en.html?aid=1452227" target="_blank" class="link underline-hover orange">Treehouse Villas in Koh Yao Noi</a></p>
+<p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">Runner Ups: <a href="https://z9resorts.com/?lang=en" target="_blank" class="link underline-hover orange">Z9 Resort in Kanchanaburi</a> and <a href="https://www.booking.com/hotel/th/tree-house-villas.en.html?aid=1452227" target="_blank" class="link underline-hover orange">Treehouse Villas in Koh Yao Noi</a></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
 <img src="../images/bestof2018/Z9.jpg">
@@ -207,7 +207,7 @@ Photos by <a href="https://www.instagram.com/theinnbox/" target="blank">The Innb
 </div>
 
 
-<div anchor="breakfast" class="bg-washed-green ba bw5 b--washed-green pt1">
+<div id="breakfast" class="bg-washed-green ba bw5 b--washed-green pt1">
 <p class="tc f2 pt4 lh-title" style="font-family: 'Gilroy-ExtraBold'">Best Breakfast</p>
 <p class="f5 pb3 lh-title" style="max-width: 650px; margin: auto;"><b>We're looking for...</b> a broad range of offerings that are made to order (or at least seem like they are). Food so good that you don't mind missing out on one meal outside of your hotel.</p>
 
@@ -222,7 +222,7 @@ Photo by <a href="https://www.instagram.com/theinnbox/" target="blank">The Innbo
 <p class="pb2" style="max-width: 650px; margin: auto;">
 <b>Why we like it:</b> Not only are the pan au chocolates baked fresh every morning, you can order as many of them as you want (along with croissants and other baked goods) and they're served with a trio of homemade jams. That's just the appetizer to your morning meal. The rest of Satri House's menu is composed of a curated mix of restaurant-quality western and Lao dishes (but honestly don't sleep on the Lao offerings). My favorites were the noodle dishes and this one egg-y crepe served with northern sausage. Throughout a three-night stay I never got bored of eating breakfast at the hotel's lovely restaurant which overlooks a Lotus pond, where the flowers are in full bloom every morning. <a href="http://theinnbox.co/satri-house-luang-prabang-laos-review/" target="new">Read more about Satri House.</a></p>
 
-<p id="anchor" class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">Runner Ups: <a href="https://www.booking.com/hotel/jp/mimatsuso-ryokan.en.html?aid=1452227" target="_blank" class="link underline-hover orange">Mimatsuso Ryokan</a> and <a href="https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1801609&hid=4145972" target="_blank" class="link underline-hover orange">Chocolate Box in Hua Hin</a></p>
+<p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">Runner Ups: <a href="https://www.booking.com/hotel/jp/mimatsuso-ryokan.en.html?aid=1452227" target="_blank" class="link underline-hover orange">Mimatsuso Ryokan</a> and <a href="https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1801609&hid=4145972" target="_blank" class="link underline-hover orange">Chocolate Box in Hua Hin</a></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
 <img src="../images/bestof2018/mimatsuso.jpg">
@@ -235,7 +235,7 @@ Photos by <a href="https://www.instagram.com/theinnbox/" target="blank">The Innb
 </div>
 
 
-<div anchor="bathroom" class="bg-lightest-blue ba bw5 b--lightest-blue pt1">
+<div id="bathroom" class="bg-lightest-blue ba bw5 b--lightest-blue pt1">
 <p class="tc f2 pt4 lh-title" style="font-family: 'Gilroy-ExtraBold'">Best Bathroom</p>
 <p class="f5 pb3 lh-title" style="max-width: 650px; margin: auto;"><b>We're looking for...</b> it's a bit self explanatory, no? Privacy, cleanliness and comfort are a must, but a touch of luxury sets one apart from the pack.</p>
 
@@ -250,7 +250,7 @@ Photo by <a href="https://www.instagram.com/theinnbox/" target="blank">The Innbo
 <p class="pb2" style="max-width: 650px; margin: auto;">
 <b>Why we like it:</b> The bathrooms at Treehouse Villas are smartly laid out, wrapping around and behind the bedroom. As you walk through it you first encounter the dramatic bathtub (unfortunately not ideal for two people, but that can be forgiven) followed by the spacious master-bedroom style sinks, open shower area, enclosed toilet room, a vanity, and finally the spacious closet area. The bathroom offers just the right amount of privacy while letting in optimum amounts of light. The place is practically sun-drenched!</p>
 
-<p id="anchor" class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">Runner Ups: <a href="http://theinnbox.co/sala-phuket-review/" target="_blank" class="link underline-hover orange">SALA Phuket in Phuket</a> and <a href="http://theinnbox.co/marina-bay-sands-singapore-review/" target="_blank" class="link underline-hover orange">Marina Bay Sands in Singapore</a></p>
+<p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">Runner Ups: <a href="http://theinnbox.co/sala-phuket-review/" target="_blank" class="link underline-hover orange">SALA Phuket in Phuket</a> and <a href="http://theinnbox.co/marina-bay-sands-singapore-review/" target="_blank" class="link underline-hover orange">Marina Bay Sands in Singapore</a></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
 <img src="../images/bestof2018/sala.jpg">
@@ -263,7 +263,7 @@ Photos by <a href="https://www.instagram.com/theinnbox/" target="blank">The Innb
 </div>
 
 
-<div anchor="best" class="bg-near-white ba bw5 b--near-white pt1">
+<div id="best" class="bg-near-white ba bw5 b--near-white pt1">
 <p class="tc f2 pt4 lh-title" style="font-family: 'Gilroy-ExtraBold'">Best Place We Stayed in 2018</p>
 <p class="f5 pb3 lh-title" style="max-width: 650px; margin: auto;"><b>We're looking for...</b> the best of the best. A place that shines in all of the above categories, is flexible enough to work for different types of travelers, and provides the most value for its nightly rate. The place that we can't wait to return to.</p>
 
@@ -280,7 +280,7 @@ Photo by <a href="https://www.instagram.com/theinnbox/" target="blank">The Innbo
 
 
 
-<p anchor="bestplace" class="tc f2 pt4 lh-title" style="font-family: 'Gilroy-ExtraBold'">Best Place We Visited in 2018</p>
+<p id="bestplace" class="tc f2 pt4 lh-title" style="font-family: 'Gilroy-ExtraBold'">Best Place We Visited in 2018</p>
 
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">Busan, South Korea</p>
 
@@ -293,7 +293,7 @@ Photo by <a href="https://www.instagram.com/theinnbox/" target="blank">The Innbo
 <p class="pb2" style="max-width: 650px; margin: auto;">
 <b>Why we like it:</b> I suppose it's only fitting that my favorite hotel happens to be located in my favorite place I visited this year. To be honest, I'm not sure how much of my fondness is because of Busan's unique character or because I honestly had no expectations when I traveled there, and all of my recommendations for what to do came from two different South Korean friends who've spent considerable time there. I chose to go to Busan because I thought it'd be nice to see more of South Korea outside of Seoul and I found myself gradually falling in love with the seaside town. Even though it was kind of chilly in April, we were blessed with cerulean waters and bright blue skies. The city was easy to navigate by public transit, and I liked that it was small enough that we could explore at a leisurely pace and still feel like we weren't missing out on anything. There was a perfect mix of food, beautiful nature, and unique cultural sights, which is typically what I look for when I travel. I recognize the irony in that my high praise may raise expectations for this low-key city, but if you're looking for a place to unwind from the hustle and bustle of Seoul, Busan is a two and a half hour train ride worth taking.</p>
 
-<p id="anchor" class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">Runner Ups: <a href="http://theinnbox.co/labuan-bajo-day-trip-diary/" target="new">Labuan Bajo, Indonesia</a> and Khao Sok, Thailand</p>
+<p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">Runner Ups: <a href="http://theinnbox.co/labuan-bajo-day-trip-diary/" target="new">Labuan Bajo, Indonesia</a> and Khao Sok, Thailand</p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
 <img src="../images/bestof2018/lb.jpg">
