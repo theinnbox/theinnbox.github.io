@@ -21,7 +21,7 @@ I've always felt that where you stay when you travel provides the foundation for
 <div class="fl w-100 w-50-ns pr1-ns">
 <ul>
 <li><a href="#urban">Best Urban Lodging</a></li>
-<li><a href="#rural">Best Rural Lodging</a></li>
+<li><a href="#rustic">Best Rustic Lodging</a></li>
 <li><a href="#under100">Best Lodging Under $100/Night</a></li>
 <li><a href="#hostel">Best Hostel or Shared Space</a></li>
 <li><a href="#guesthouse">Best Guesthouse or Airbnb</a></li>
