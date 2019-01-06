@@ -207,7 +207,7 @@ Photos by <a href="https://www.instagram.com/theinnbox/" target="blank">The Innb
 </div>
 
 
-<div id="breakfast" class="bg-washed-green ba bw5 b--washed-green pt1">
+<div id="breakfast" class="bg-washed-red ba bw5 b--washed-red pt1">
 <p class="tc f2 pt4 lh-title" style="font-family: 'Gilroy-ExtraBold'">Best Breakfast</p>
 <p class="f5 pb3 lh-title" style="max-width: 650px; margin: auto;"><b>We're looking for...</b> a broad range of offerings that are made to order (or at least seem like they are). Food so good that you don't mind missing out on one meal outside of your hotel.</p>
 
