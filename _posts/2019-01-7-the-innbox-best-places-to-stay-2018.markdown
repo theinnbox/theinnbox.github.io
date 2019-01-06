@@ -13,11 +13,34 @@ related_posts_custom_title: "Check out more of our travel guides:"
 
 <p class="f4 pb3 pb4-ns" style="max-width: 650px; margin: auto;">In 2018 I spent 119 nights outside of my home. That's nearly a third of my year spent at 65 unique places to stay, including hotels, hostels, airbnbs, resorts, guesthouses, boats, tubes, treehouses... the list goes on. Reflecting back on the year there were quite a few places that have wormed their way into my heart. My homes away from home. The places that kept me inspired, refreshed, and fulfilled.</p>
 
-<p class="pb4 pb5-ns" style="max-width: 650px; margin: auto;">
+<p class="pb3 pb4-ns" style="max-width: 650px; margin: auto;">
 I've always felt that where you stay when you travel provides the foundation for the rest of your trip. Staying somewhere that makes you uncomfortable or doesn't meet your expectations builds up a sense of stress that will follow you to that beautiful beach or bustling city. Somewhere safe and clean will provide a blank canvas for your other travel experiences to build upon. But what I've learned this year is that a <i>great</i> place doesn't even require a distinction from the rest of your trip. It fits naturally into the scenery you've come to see, and blurs the line between where you explore during the day and where you fall asleep at night. Great places aren't always the most expensive or the most luxurious. They're simply the ones that fit <i>your</i> specific style of traveling the most. The ones that meet the needs you didn't even realize you had. So, based on my personal travels in Asia this past year I've attempted to identify which places exceeded my expectations across nine different categories. I hope you'll find it helpful in identifying not only some great places to stay, but also what's important to <i>you</i> when you travel.
 </p>
 
-<div class="bg-washed-yellow ba bw5 b--washed-yellow">
+<div class="pb3 pb4-ns pt2 bg-white w-100 cf" style="max-width: 650px; margin: auto;">
+<div class="fl w-100 w-50-ns pr1-ns">
+<ul>
+<li><a href="#urban">Best Urban Lodging</a></li>
+<li><a href="#rural">Best Rural Lodging</a></li>
+<li><a href="#under100">Best Lodging Under $100/Night</a></li>
+<li><a href="#hostel">Best Hostel or Shared Space</a></li>
+<li><a href="#guesthouse">Best Guesthouse or Airbnb</a></li>
+</ul>
+</div>
+
+<div class="fl w-100 w-50-ns pl1-ns mb1 mb2-ns">
+<ul>
+<li><a href="#resort">Best Resort</a></li>
+<li><a href="#breakfast">Best Breakfast</a></li>
+<li><a href="#bathroom">Best Bathroom</a></li>
+<li><a href="#best">Best Place We Stayed in 2018</a></li>
+<li><a href="#bestplace">Best Place We Visited in 2018</a></li>
+</ul>
+</div>
+</div>
+
+
+<div anchor="urban" class="bg-washed-yellow ba bw5 b--washed-yellow">
 <p class="tc f2 pt4 lh-title" style="font-family: 'Gilroy-ExtraBold'">Best Urban Lodging</p>
 <p class="f5 pb3 lh-title" style="max-width: 650px; margin: auto;"><b>We're looking for...</b> a centrally located base for exploring the city, which also captures the culture, charm, and identity of the surrounding streets.</p>
 
@@ -45,7 +68,7 @@ Photos by <a href="https://www.instagram.com/theinnbox/" target="blank">The Innb
 </div>
 
 
-<div class="bg-washed-green ba bw5 b--washed-green pt1">
+<div anchor="rustic" class="bg-washed-green ba bw5 b--washed-green pt1">
 <p class="tc f2 pt4 lh-title" style="font-family: 'Gilroy-ExtraBold'">Best Rustic Lodging</p>
 <p class="f5 pb3 lh-title" style="max-width: 650px; margin: auto;"><b>We're looking for...</b> inspiring escapes that get you as close as possible to the untouched, natural world... with just the right amount of amnenities.</p>
 
@@ -73,7 +96,7 @@ Photos by <a href="https://www.instagram.com/theinnbox/" target="blank">The Innb
 </div>
 
 
-<div class="bg-washed-red ba bw5 b--washed-red pt1">
+<div anchor="under100" class="bg-washed-red ba bw5 b--washed-red pt1">
 <p class="tc f2 pt4 lh-title" style="font-family: 'Gilroy-ExtraBold'">Best Lodging Under $100/Night</p>
 <p class="f5 pb3 lh-title" style="max-width: 650px; margin: auto;"><b>We're looking for...</b> the most bang for your buck. Unique experiences and fantastic service that feel like it should cost a lot more than a single Benny.</p>
 
@@ -100,7 +123,7 @@ Photo by <a href="https://www.instagram.com/theinnbox/" target="blank">The Innbo
 Photos by <a href="https://www.instagram.com/theinnbox/" target="blank">The Innbox</a></p>
 </div>
 
-<div class="bg-lightest-blue ba bw5 b--lightest-blue pt1">
+<div anchor="hostel" class="bg-lightest-blue ba bw5 b--lightest-blue pt1">
 <p class="tc f2 pt4 lh-title" style="font-family: 'Gilroy-ExtraBold'">Best Hostel or Shared Space</p>
 <p class="f5 pb3 lh-title" style="max-width: 650px; margin: auto;"><b>We're looking for...</b> spaces that, though they may be shared with strangers, still offer a dignified amount of privacy, enjoyable common areas to stretch out or socialize in, and a nightly rate that's more than kind on the budget. </p>
 
@@ -128,7 +151,7 @@ Photos by <a href="https://www.instagram.com/theinnbox/" target="blank">The Innb
 </div>
 
 
-<div class="bg-washed-yellow ba bw5 b--washed-yellow pt1">
+<div anchor="guesthouse" class="bg-washed-yellow ba bw5 b--washed-yellow pt1">
 <p class="tc f2 pt4 lh-title" style="font-family: 'Gilroy-ExtraBold'">Best Guesthouse or Airbnb</p>
 <p class="f5 pb3 lh-title" style="max-width: 650px; margin: auto;"><b>We're looking for...</b> spaces that feel like home sweet home even when you're somewhere new. With hands-on hosts that respect boundaries while also making you feel like part of the family. </p>
 
@@ -156,7 +179,7 @@ Photos by <a href="https://www.instagram.com/theinnbox/" target="blank">The Innb
 </div>
 
 
-<div class="bg-washed-green ba bw5 b--washed-green pt1">
+<div anchor="resort" class="bg-washed-green ba bw5 b--washed-green pt1">
 <p class="tc f2 pt4 lh-title" style="font-family: 'Gilroy-ExtraBold'">Best Resort</p>
 <p class="f5 pb3 lh-title" style="max-width: 650px; margin: auto;"><b>We're looking for...</b> spaces that have it all: stunning natural surroundings, aspirational rooms you wish you lived in, treat-your-self amenities, and <i>actual</i> good food. Basically, a place so dope that you won't even feel any FOMO if you spent the entire day in bed.</p>
 
@@ -184,7 +207,7 @@ Photos by <a href="https://www.instagram.com/theinnbox/" target="blank">The Innb
 </div>
 
 
-<div class="bg-washed-green ba bw5 b--washed-green pt1">
+<div anchor="breakfast" class="bg-washed-green ba bw5 b--washed-green pt1">
 <p class="tc f2 pt4 lh-title" style="font-family: 'Gilroy-ExtraBold'">Best Breakfast</p>
 <p class="f5 pb3 lh-title" style="max-width: 650px; margin: auto;"><b>We're looking for...</b> a broad range of offerings that are made to order (or at least seem like they are). Food so good that you don't mind missing out on one meal outside of your hotel.</p>
 
@@ -212,7 +235,7 @@ Photos by <a href="https://www.instagram.com/theinnbox/" target="blank">The Innb
 </div>
 
 
-<div class="bg-lightest-blue ba bw5 b--lightest-blue pt1">
+<div anchor="bathroom" class="bg-lightest-blue ba bw5 b--lightest-blue pt1">
 <p class="tc f2 pt4 lh-title" style="font-family: 'Gilroy-ExtraBold'">Best Bathroom</p>
 <p class="f5 pb3 lh-title" style="max-width: 650px; margin: auto;"><b>We're looking for...</b> it's a bit self explanatory, no? Privacy, cleanliness and comfort are a must, but a touch of luxury sets one apart from the pack.</p>
 
@@ -240,7 +263,7 @@ Photos by <a href="https://www.instagram.com/theinnbox/" target="blank">The Innb
 </div>
 
 
-<div class="bg-near-white ba bw5 b--near-white pt1">
+<div anchor="best" class="bg-near-white ba bw5 b--near-white pt1">
 <p class="tc f2 pt4 lh-title" style="font-family: 'Gilroy-ExtraBold'">Best Place We Stayed in 2018</p>
 <p class="f5 pb3 lh-title" style="max-width: 650px; margin: auto;"><b>We're looking for...</b> the best of the best. A place that shines in all of the above categories, is flexible enough to work for different types of travelers, and provides the most value for its nightly rate. The place that we can't wait to return to.</p>
 
@@ -257,7 +280,7 @@ Photo by <a href="https://www.instagram.com/theinnbox/" target="blank">The Innbo
 
 
 
-<p class="tc f2 pt4 lh-title" style="font-family: 'Gilroy-ExtraBold'">Best Place We Visited in 2018</p>
+<p anchor="bestplace" class="tc f2 pt4 lh-title" style="font-family: 'Gilroy-ExtraBold'">Best Place We Visited in 2018</p>
 
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">Busan, South Korea</p>
 
