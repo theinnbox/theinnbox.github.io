@@ -127,16 +127,13 @@ Photos by <a href="https://www.instagram.com/theinnbox/" target="blank">The Innb
 <p class="tc f2 pt4 lh-title" style="font-family: 'Gilroy-ExtraBold'">Best Hostel or Shared Space</p>
 <p class="f5 pb3 lh-title" style="max-width: 650px; margin: auto;"><b>We're looking for...</b> spaces that, though they may be shared with strangers, still offer a dignified amount of privacy, enjoyable common areas to stretch out or socialize in, and a nightly rate that's more than kind on the budget. </p>
 
-<p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;"><a href="http://furanohostel.sakura.ne.jp/english.htm" target="_blank" class="link underline-hover orange">Furano Hostel</a> in Naoshima, Japan<span class="f5 light-silver">&nbsp; &nbsp;Starting at $31/Person</span></p>
+<p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;"><a href="http://furanohostel.sakura.ne.jp/english.htm" target="_blank" class="link underline-hover orange">Furano Hostel</a> in Furano, Japan<span class="f5 light-silver">&nbsp; &nbsp;Starting at $31/Person</span></p>
 
 <div class="fl w-100 w-100-ns mb1 mb2-ns">
 <img src="../images/bestof2018/furanohostel.jpg">
 </div>
 <p class="f7 pb3" style="max-width: 650px; margin: auto;">
 Photo by <a href="https://www.instagram.com/theinnbox/" target="blank">The Innbox</a></p>
-
-<p class="pb2" style="max-width: 650px; margin: auto;">
-<b>Why we like it:</b> Lloyd's Inn is like a microcosm of the city-state of Singapore: modern concrete blocks housing efficiently planned spaces, all juxtaposed by lush green nature. They even send you to a local kopitiam for breakfast! The hotel is centrally located walking distance from all the shopping on Orchard Road, which is where you'll also find the nearest subway station. <a href="http://theinnbox.co/what-hokkaido-taught-me-about-hospitality/" target="new">Read more about Furano Hostel.</a></p>
 
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">Runner Ups: <a href="https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1801609&hid=4128776" target="_blank" class="link underline-hover orange">The Millennials Shibuya in Tokyo</a> and <a href="https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1801609&hid=2816945" target="_blank" class="link underline-hover orange">Cara Cara Inn in Bali</a></p>
 
