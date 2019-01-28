@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The 7 best boutique hotels in Paris under $300"
+title:  "The 14 best boutique hotels in Paris under $300"
 author: Sabrina Majeed
 author_ig: sabrinasans
 date:   2019-01-27 00:10:36 -0400
@@ -14,7 +14,7 @@ Previously, we've covered how Austin is the <a href="http://theinnbox.co/best-ai
 
 <p class="f6 light-silver i mt4 mb4">Rates are based on a one-night search for January 2018. The Innbox may collect a small share of sales from bookings made through this post, at no extra cost to the reader.</p>
 
-<p class="f3 pt3 lh-title" style="font-family: 'Gilroy-ExtraBold'">For living like a local — <a href="https://www.booking.com/hotel/fr/les-piaules.en.html?aid=1452227" target="_blank" class="link underline-hover orange">Les Piaules</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $30/Night</span></p>
+<p id="anchor" class="f3 pt3 lh-title" style="font-family: 'Gilroy-ExtraBold'">For living like a local — <a href="https://www.booking.com/hotel/fr/les-piaules.en.html?aid=1452227" target="_blank" class="link underline-hover orange">Les Piaules</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $30/Night</span></p>
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
 <img src="../images/paris/lespiales1.jpg">
 </div>
