@@ -1,5 +1,18 @@
 <div class="pb3 inconsolata" style="max-width: 650px; margin: auto;">
   <p class="f7 di mr4"><b>By</b>
-    <a href="https://www.instagram.com/{{ page.author_ig }}">{{ page.author }}</a>
+    {% if page.author.first %}
+      {% for author in page.author %}
+        <a href="https://www.instagram.com/{{ page.author_ig[forloop.index0] }}">
+          {{ author }}
+        </a>
+        {% if forloop.last == false %}
+          &
+        {% endif %}
+      {% endfor %}
+    {% else %}
+    <a href="https://www.instagram.com/{{ page.author_ig }}">
+      {{ page.author }}
+    </a>
+    {% endif %}
   </p>
 </div>
