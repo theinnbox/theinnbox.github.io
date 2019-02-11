@@ -2,7 +2,7 @@
   <p class="f7 di mr4"><b>By</b>
     {% if page.author.first %}
       {% for author in page.author %}
-        <a href="https://www.instagram.com/{{ page.author_ig[forloop.index0] }}">
+        <a href="https://www.instagram.com/{{ page.author_ig[forloop.index0] }}" target="_blank">
           {{ author }}
         </a>
         {% if forloop.last == false %}
@@ -10,7 +10,7 @@
         {% endif %}
       {% endfor %}
     {% else %}
-    <a href="https://www.instagram.com/{{ page.author_ig }}">
+    <a href="https://www.instagram.com/{{ page.author_ig }}" target="_blank">
       {{ page.author }}
     </a>
     {% endif %}
