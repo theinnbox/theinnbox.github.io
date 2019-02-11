@@ -2,8 +2,8 @@
 layout: longform
 title:  "Your travel guide to Busan, South Korea: where to stay and what to do."
 date:   2019-02-09 00:10:36 -0400
-author: Joanne Yae & Sabrina Majeed
-author_ig: jyae7777
+author: [Joanne Yae, Sabrina Majeed]
+author_ig: [jyae7777, sabrinainthewild]
 thumbnail: ../images/busan/00.jpg
 categories: list travelguide
 related_posts: [/hokkaido-road-trip-itinerary-and-guide, /providence-rhode-island-travel-guide]
