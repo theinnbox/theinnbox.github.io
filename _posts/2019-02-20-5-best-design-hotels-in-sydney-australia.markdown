@@ -4,7 +4,7 @@ title:  The 5 Best Design Hotels in Sydney, Australia
 author: Karolina Szczur
 author_ig: karolinaszczur
 date:   2019-02-20 00:10:36 -0400
-thumbnail: ../images/sydney/sydney.jpg
+thumbnail: ../images/sydney/dan-freeman-sydney-unsplash.jpg
 categories: list
 related_posts: [/where-to-stay-palm-springs, /travel-like-a-romantic-film-protagonist]
 related_posts_custom_title: "Check out more of our lodging lists"
@@ -12,12 +12,12 @@ public: 1
 ---
 
 
-<img src="../images/sydney/sydney.jpg">
+<img src="../images/sydney/dan-freeman-sydney-unsplash.jpg">
 
 <p class="f7 pb3 pb4-ns" style="max-width: 650px; margin: auto;">
-Photo via <a href="https://www.instagram.com/karolinaszczur/" target="blank">Karolina Szczur</a></p>
+Photo via <a href="https://unsplash.com/photos/7Zb7kUyQg1E" target="blank">Dan Freeman</a></p>
 
-<p class="pb3 pb4-ns" style="max-width: 650px; margin: auto;">Sydney is the fifth most livable city in the world and the perfect blend for nature seekers and city dwellers. While the Ace or other design hotel chains usually don’t reach this corner of the globe, Australia absolutely excels at hospitality. I’ve picked five reasonably small, unique spots located in my favorite neighborhoods, away from the noise of central business district for the ultimate design experience.
+<p class="pb3 pb4-ns" style="max-width: 650px; margin: auto;">Since relocating to Melbourne three years ago after falling for <a href="https://twitter.com/benschwarz" target="new">a certain Australian</a>, the local hospitality, and incredible lifestyle, I've been relentless in researching design hotels and unique experiences across the land down under. Sydney is the fifth most livable city in the world and I've found it's the perfect blend for nature seekers and city dwellers. While the Ace or other design hotel chains usually don’t reach this corner of the globe, Australia absolutely excels at hospitality. I’ve picked five reasonably small, unique spots located in my favorite Sydney neighborhoods, away from the noise of central business district for the ultimate design experience.
 </p>
 
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">For design fans — <a href="https://paramounthousehotel.com/" target="_blank" class="link underline-hover orange">The Paramount House Hotel</a> <span class="f5 light-silver">&nbsp; &nbsp;Starting at $162/Night</span></p>
@@ -39,10 +39,10 @@ Located in the former headquarters of Paramount Picture Studios in hip Surry Hil
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">For art fiends — <a href="https://www.theoldclarehotel.com.au/" target="blank" class="link underline-hover orange">The Old Clare Hotel</a> <span class="f5 light-silver">&nbsp; &nbsp;Starting at $186/Night</span></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
-<img src="../images/sydney/paramount-1.jpg">
+<img src="../images/sydney/old-clare-1.jpg">
 </div>
 <div class="fl w-100 w-50-ns pl1-ns mb1 mb2-ns">
-<img src="../images/sydney/paramount-2.jpg">
+<img src="../images/sydney/old-clare-2.jpg">
 </div>
 <p class="f7 pb3" style="max-width: 650px; margin: auto;">
 Photo via <a href="https://www.instagram.com/karolinaszczur/" target="blank">Karolina Szczur</a></p>
