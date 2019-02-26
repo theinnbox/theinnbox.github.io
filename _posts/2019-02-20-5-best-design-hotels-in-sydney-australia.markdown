@@ -8,7 +8,7 @@ thumbnail: ../images/sydney/dan-freeman-sydney-unsplash.jpg
 categories: list
 related_posts: [/where-to-stay-palm-springs, /travel-like-a-romantic-film-protagonist]
 related_posts_custom_title: "Check out more of our lodging lists"
-public: 1
+
 ---
 
 
