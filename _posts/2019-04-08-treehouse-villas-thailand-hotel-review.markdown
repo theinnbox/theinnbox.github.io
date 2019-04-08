@@ -9,7 +9,7 @@ categories: review
 review_dates: "December 06 — 08, 2018"
 review_rate: 323
 review_guests: "Her Boyfriend"
-related_posts: [/busaba-ayutthaya-review, /hotel-1-busan-review]
+related_posts: [/sala-phuket-review, /the-aviary-hotel-siem-reap-review]
 ---
 
 <div class="fl w-50 pr1-ns mt3-ns mt3 mb1 mb0-ns">
