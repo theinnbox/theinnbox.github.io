@@ -236,7 +236,7 @@ Wed-Sun 5.45pm-8.15pm<br>
 <img src="../images/auckland/the-innbox-annabels-02.jpg">
 </div>
 <div class="fl w-50 w-third-ns pl1 pl0-ns pr1-ns mb1 mb2-ns">
-<img src="../images/auckland/the-innbox-annabels-06.jpg">
+<img src="../images/auckland/the-innbox-annabels-06.JPG">
 </div>
 <p class="f7 pb3" style="max-width: 650px; margin: auto;">
 Photos via <a href="??" target="blank">??</a></p>
