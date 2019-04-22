@@ -8,7 +8,6 @@ thumbnail: ../images/auckland/Pasture_Edit.jpg
 categories: list
 related_posts: [/xiao-chi-taiwanese-street-food-guide, /where-to-eat-bed-stuy-brooklyn]
 related_posts_custom_title: "Check out more of our food guides"
-public: 1
 
 ---
 
