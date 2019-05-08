@@ -14,7 +14,7 @@ related_posts_custom_title: "Check out more of our Airbnb lists"
 <img src="../images/tokyo/destiny_01.jpg">
 
 <p class="f7 pb3 pb4-ns" style="max-width: 650px; margin: auto;">
-Photo via <a href="https://www.airbnb.com/rooms/25253185" target="blank">Airbnb</a></p>
+Photo via <a href="https://www.airbnb.com/rooms/4673248" target="blank">Airbnb</a></p>
 
 <p class="pb3" style="max-width: 650px; margin: auto;">Airbnbs fall into two camps for me— they can either be a perfunctory, more affordable hotel alternative— or they can be a unique travel experience in their own right. Though both are valuable, it's the latter category that excites me the most and no other city nails secret little spaces better than Tokyo. Whether you gravitate towards a more traditional home with wood and warm tones, a colorful and contemporary livable art piece, or more modern and minimalist interiors, Tokyo has the range.</p>
 
