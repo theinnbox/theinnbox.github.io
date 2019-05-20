@@ -39,7 +39,7 @@ First before you get on the KTX to get there, get yourself a ‘doshirak’ at s
 
 <p class="f2 pt5 pb2 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">Where to Stay</p>
 
-<p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;"><a href="http://theinnbox.co/the-aviary-hotel-siem-reap-review/" target="_blank" class="link underline-hover orange">Hotel 1</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $77/Night</span></p>
+<p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;"><a href="http://theinnbox.co/hotel-1-busan-review/" target="_blank" class="link underline-hover orange">Hotel 1</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $77/Night</span></p>
 
 <div class="fl w-100 w-100-ns mb1 mb2-ns">
 <img src="../images/bestof2018/hotel1-2.jpg">

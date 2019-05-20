@@ -326,7 +326,7 @@ The next morning we dropped our car off at the OTS lot in the airport and a shut
 
 <p class="f4 pt3 pt4-ns pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">Additional Resources</p>
 <ul style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">
-<li><a href="http://theinnbox.co/what-hokkaido-taught-me-about-hospitality/" target="new">The Innbox: Hokkaido Road Trip Lodging Guige</a>
+<li><a href="http://theinnbox.co/what-hokkaido-taught-me-about-hospitality/" target="new">The Innbox: Hokkaido Road Trip Lodging Guide</a>
 </li>
 <li><a href="https://www.lonelyplanet.com/japan/hokkaido/travel-tips-and-articles/hokkaido-road-trip-exploring-japans-wild-north/40625c8c-8a11-5710-a052-1479d2762b3d" target="new">Lonely Planet: Hokkaido Road Trip Guide</a>
 </li>
