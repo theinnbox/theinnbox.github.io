@@ -7,7 +7,7 @@ author_ig: [emmadmazhari, sabrinainthewild]
 thumbnail: ../images/houston/thumb.jpg
 categories: list travelguide
 related_posts: [/labuan-bajo-day-trip-diary, /busan-south-korea-travel-guide]
-public: 1
+
 ---
 
 <img class="mt3-ns mt3 mb4-ns mb3" src="../images/houston/thumb.jpg">
