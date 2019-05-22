@@ -12,7 +12,7 @@ public: 1
 
 <img class="mt3-ns mt3 mb4-ns mb3" src="../images/houston/thumb.jpg">
 
-<p class="pb3" style="max-width: 650px; margin: auto;">Ever since moving back to Texas, I've been determined to showcase all that this complex, expansive land has to offer as a travel destination. Though Austin is the city that gets the most national attention— and I love Austin, so like, I get it— there's so much more to see and more importantly, to eat in the Lone Star state. Starting with it's biggest city, Houston.</p>
+<p class="pb3" style="max-width: 650px; margin: auto;">Ever since moving back to Texas, I've been determined to showcase all that this complex, expansive land has to offer as a travel destination. Though Austin is the city that gets the most national attention—and I love Austin, so like, I get it—there's so much more to see and more importantly, to eat in the Lone Star state. Today I want to start with its biggest city, Houston.</p>
 
 <p class="pb3" style="max-width: 650px; margin: auto;">I used to travel to Houston once a year in high school for art competitions, but due to set itineraries and the watchful eye of chaperones, I never felt like I really got to experience the city. Now that I'm grown and with my own set of wheels, we decided to spend the last weekend before <a href="https://www.instagram.com/tarngerine/" target="new">Julius</a> started his new job driving down there for a long weekend.</p>
 
@@ -24,7 +24,7 @@ public: 1
 <i>Houston is one of the most diverse cities in America - this isn't just true racially but also culturally, economically, socially, and on dozens of other dimensions. This truth stands at the foundation of what makes Houston so unique and lovable. Houston has always had a historically large black population and in the mid 20th century it also started receiving many large immigrant communities, particularly Vietnamese, Pakistani, Indian, and Nigerian. The low cost of living allowed each of these communities to thrive and grow without having to make compromises on their identity and spaces. Because of this you see amazing music (Beyonce AND Solange?), food, fashion, art, etc. coming from Houston that is often rooted in unique and preserved cultural identities that many cities find hard to maintain and hold on to." —<b>Emmad</b></i></p>
 
 
-<p class="f2 pt5 pb2 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">Where to Stay</p>
+<p id="anchor" class="f2 pt5 pb2 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">Where to Stay</p>
 
 <p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;"><a href="https://www.airbnb.com/rooms/23248372" target="_blank" class="link underline-hover orange">"Storehouse Studio"</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $58/Night</span></p>
 
@@ -42,7 +42,7 @@ A friend of mine stayed here during the Grace Hopper conference in Houston, and 
 
 <p class="f6 i light-silver pb4" style="max-width: 650px; margin: auto;">Kitchen and bathroom access is separated from the bedroom by two steps.</p>
 
-<p id="anchor" class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;"><a href="https://www.airbnb.com/rooms/20009550" target="_blank" class="link underline-hover orange">"Small Modern Airbnb"</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $56/Night</span></p>
+<p class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;"><a href="https://www.airbnb.com/rooms/20009550" target="_blank" class="link underline-hover orange">"Small Modern Airbnb"</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $56/Night</span></p>
 
 <div class="fl w-100 w-50-ns pr1-ns mb1 mb0-ns">
 <img src="../images/houston/smallhouse_01.png">
@@ -51,12 +51,12 @@ A friend of mine stayed here during the Grace Hopper conference in Houston, and 
 <img src="../images/houston/smallhouse_02.png">
 </div>
 <p class="f7 pb3" style="max-width: 650px; margin: auto;">
-Photos via <a href="https://www.airbnb.com/rooms/20009550" target="blank">Agoda</a></p>
+Photos via <a href="https://www.airbnb.com/rooms/20009550" target="blank">Airbnb</a></p>
 
 <p class="pb2" style="max-width: 650px; margin: auto;">
 If you subscribe to our newsletter you probably saw that we recently wrote about this very space. Although this Airbnb is not centrally located, it is one of the more unique architectural gems you'll find in Houston. The tiny home is filled with interesting nooks and crannies to explore, and would be perfectly cozy for a couple or two friends traveling together.</p>
 
-<p class="f6 i light-silver pb4" style="max-width: 650px; margin: auto;">This airbnb has lofted areas that may be inaccessible to anyone with impaired mobility.</p>
+<p class="f6 i light-silver pb4" style="max-width: 650px; margin: auto;">This Airbnb has lofted areas that may be inaccessible to anyone with impaired mobility.</p>
 
 <p id="anchor" class="f4 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;"><a href="https://www.booking.com/hotel/us/montrose-suites.en.html?aid=1452227" target="_blank" class="link underline-hover orange">Montrose Guesthouse Suites</a><span class="f5 light-silver">&nbsp; &nbsp;Starting at $125/Night</span></p>
 
@@ -88,7 +88,7 @@ Photos via <a href="https://www.booking.com/hotel/us/alessandra.en.html?aid=1452
 <p class="pb2" style="max-width: 650px; margin: auto;">
 I'll be honest, the hotel game in Houston leaves <i>a lot</i> to be desired and seems mostly catered towards business travelers. However, if there was one hotel I would stay at it would be the Alessandra. The hotel has modern facilities and tasteful decor with a just enough personality in a central downtown location.</p>
 
-<p class="f6 i light-silver" style="max-width: 650px; margin: auto;">Hotel Alessandra is wheelchair accessible with and also features braile and auditory guidance for the vision impaired.</p>
+<p class="f6 i light-silver" style="max-width: 650px; margin: auto;">Hotel Alessandra is wheelchair accessible with and also features braille and auditory guidance for the vision impaired.</p>
 
 
 <p class="f2 pt5-ns pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;">What To Do</p>
@@ -326,7 +326,7 @@ Photos via <a href="https://www.instagram.com/theinnbox/" target="blank">The Inn
 Photos via <a href="https://www.instagram.com/theinnbox/" target="blank">The Innbox</a></p>
 
 <p class="pb3 pb4-ns" style="max-width: 650px; margin: auto;">
-<b>Sabrina</b>: Speaking of Instagrammable places, Present Company is a very aesthetically stimulating and expansive indoor/outdoor bar in Houston's Montrose neighborhood. The bar serves Lacroix cocktails and has a pretty cool collection of neon lights. This place is pretty popular so if you're looking for a more chill experience go during off hours. There are also a lot of other great cocktail bars in Montrose. <a href="https://goo.gl/maps/Ve8vouC6yp4xgo5A8" target="new">Anvil</a> was a spot we hit up twice because of the friendly bartenders and great drinks.</p>
+<b>Sabrina</b>: Speaking of Instagrammable places, Present Company is a very aesthetically stimulating and expansive indoor/outdoor bar in Houston's Montrose neighborhood. The bar serves LaCroix cocktails and has a pretty cool collection of neon lights. This place is pretty popular so if you're looking for a more chill experience go during off hours. There are also a lot of other great cocktail bars in Montrose. <a href="https://goo.gl/maps/Ve8vouC6yp4xgo5A8" target="new">Anvil</a> was a spot we hit up twice because of the friendly bartenders and great drinks.</p>
 
 <p class="f3 pt3 pb3 lh-title" style="font-family: 'Gilroy-ExtraBold'; max-width: 650px; margin: auto;"><a href="https://goo.gl/maps/an1PenUSTyAXzz847" target="new">Tacos Tierra Caliente</a></p>
 
@@ -369,3 +369,8 @@ Photos via <a href="https://www.instagram.com/theinnbox/" target="blank">The Inn
 </div>
 <p class="f7 pb3" style="max-width: 650px; margin: auto;">
 Photos via <a href="https://www.instagram.com/theinnbox/" target="blank">The Innbox</a></p>
+
+<p class="f3 pt4 pt5-ns pb2" style="max-width: 650px; margin: auto; font-family: 'Gilroy-ExtraBold';">About Emmad</p>
+
+<p class="pb3" style="max-width: 650px; margin: auto;">
+Emmad is a designer out in San Francisco but a Houston and Texas evangelist at heart (in that order). He's a big fan of too many house plants, film photos that you take months to develop, and saying dumb things on his Twitter which you can find <a href="https://twitter.com/emmadmazhari/">here!</a></p>
